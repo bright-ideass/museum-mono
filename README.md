@@ -62,6 +62,11 @@ cd backend && npm start
 - **Production URL**: https://beta-museum.4impact.cc
 - **IIS 部署**: 見 cbc-app/README.md
 
+### Mockup 版本
+- **URL**: http://mockup-museum.4impact.cc
+- **分支**: `2025-12-23-AA-without-3-pages`
+- **說明**: 設計稿 mockup 版本，用於前端開發參考
+
 ### 虛擬展廳 (獨立專案)
 - **Repository**: https://github.com/bright-ideass/cbc-gallery
 - **Production URL**: https://gallery.4impact.cc
