@@ -1,0 +1,39 @@
+<div class="addContainer">
+  <div class="modalHeader">
+    <div class="editRowModal">
+      <div class="modalHeader clearfix">
+
+        <div class="modal-about">
+          <div class="fw-bold p-t-5 p-l-10 font-17">
+            {{dialogTitle}}</div>
+        </div>
+      </div>
+    </div>
+    <button mat-icon-button (click)="dialogRef.close()" class="modal-close-button" aria-label="Close dialog">
+      <mat-icon>close</mat-icon>
+    </button>
+  </div>
+  <div mat-dialog-content>
+
+    <div class="row">
+      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-5">
+
+        <mat-form-field class="example-full-width" appearance="outline">
+          <mat-label>圖片說明:</mat-label>
+          <input matInput type="text"  [(ngModel)]="fileInfo" #inputValue maxlength="50" name="fileInfo">
+          <mat-hint align="end">{{inputValue?.value?.length || 0}}/50</mat-hint>
+        </mat-form-field>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
+        <div class="example-button-row">
+          <button mat-raised-button color="primary" (click)="confirmAdd()">Save</button>
+          <button mat-raised-button color="warn" (click)="onCloseClick()" tabindex="-1">Cancel</button>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

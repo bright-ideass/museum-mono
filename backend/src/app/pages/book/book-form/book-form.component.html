@@ -1,0 +1,126 @@
+<div class="addContainer">
+  <div class="modalHeader">
+    <div class="editRowModal">
+      <div class="modalHeader clearfix">
+        <!--<img [src]='advanceTable.img' alt="avatar">-->
+        <div class="modal-about">
+          <div class="fw-bold p-t-5 p-l-10 font-17">
+            {{dialogTitle}}</div>
+        </div>
+      </div>
+    </div>
+    <button mat-icon-button (click)="dialogRef.close()" class="modal-close-button" aria-label="Close dialog">
+      <mat-icon>close</mat-icon>
+    </button>
+  </div>
+  <div mat-dialog-content>
+    <form class="register-form m-4" [formGroup]="isForm">
+      <div class="row">
+        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+
+          <mat-form-field class="example-full-width" appearance="outline">
+            <mat-label>出版品名稱</mat-label>
+            <input matInput formControlName="bookname" #bookname required maxlength="50">
+            <mat-hint align="end">{{bookname?.value?.length || 0}}/50</mat-hint>
+            <mat-error>
+              <app-shared-validator-error [ctrl]="isForm.get('bookname')"></app-shared-validator-error>
+            </mat-error>
+          </mat-form-field>
+
+
+          <mat-form-field class="example-full-width" appearance="outline" required maxlength="50">
+            <mat-label>編著</mat-label>
+            <input matInput formControlName="user1" #user1>
+            <mat-hint align="end">{{user1?.value?.length || 0}}/50</mat-hint>
+            <mat-error>
+              <app-shared-validator-error [ctrl]="isForm.get('user1')"></app-shared-validator-error>
+            </mat-error>
+          </mat-form-field>
+
+          <mat-form-field class="example-full-width" appearance="outline" maxlength="50">
+            <mat-label>譯者</mat-label>
+            <input matInput formControlName="user2" #user2>
+            <mat-hint align="end">{{user2?.value?.length || 0}}/50</mat-hint>
+          </mat-form-field>
+
+          <mat-form-field class="example-full-width" appearance="outline" required maxlength="100">
+            <mat-label>出版機關</mat-label>
+            <input matInput formControlName="org" #org>
+            <mat-hint align="end">{{org?.value?.length || 0}}/100</mat-hint>
+            <mat-error>
+              <app-shared-validator-error [ctrl]="isForm.get('org')"></app-shared-validator-error>
+            </mat-error>
+          </mat-form-field>
+
+          <mat-form-field class="example-full-width" appearance="outline" required maxlength="50">
+            <mat-label>出版年月</mat-label>
+            <input matInput formControlName="publishdate" #publishdate>
+            <mat-hint align="end">{{publishdate?.value?.length || 0}}/50</mat-hint>
+            <mat-error>
+              <app-shared-validator-error [ctrl]="isForm.get('publishdate')"></app-shared-validator-error>
+            </mat-error>
+          </mat-form-field>
+
+          <mat-form-field class="example-full-width" appearance="outline" maxlength="50">
+            <mat-label>ISBN</mat-label>
+            <input matInput formControlName="ISBN" #ISBN>
+            <mat-hint align="end">{{ISBN?.value?.length || 0}}/50</mat-hint>
+          </mat-form-field>
+        </div>
+
+        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+          <mat-form-field class="example-full-width" appearance="outline" required maxlength="50">
+            <mat-label>語文別</mat-label>
+            <input matInput formControlName="language" #language>
+            <mat-hint align="end">{{language?.value?.length || 0}}/50</mat-hint>
+            <mat-error>
+              <app-shared-validator-error [ctrl]="isForm.get('language')"></app-shared-validator-error>
+            </mat-error>
+          </mat-form-field>
+
+          <mat-form-field class="example-full-width" appearance="outline">
+            <mat-label>介紹</mat-label>
+            <textarea matInput formControlName="content" #content></textarea>
+            <mat-hint align="end">{{content?.value?.length || 0}}/2000</mat-hint>
+            <mat-error>
+              <app-shared-validator-error [ctrl]="isForm.get('content')"></app-shared-validator-error>
+            </mat-error>
+          </mat-form-field>
+
+          <mat-form-field class="example-full-width" appearance="outline">
+            <mat-label>排序</mat-label>
+            <span matPrefix><mat-icon class="m-2">sort</mat-icon></span>
+            <input matInput placeholder="0~999數值由小排至大..." formControlName="orderby" type="number" max="999">
+          </mat-form-field>
+
+          <app-shared-file-one-upload [type]="'bookFile1'" [filePath]="isForm.get('File1')?.value"
+            (uploadFile)="onFile($event,'File1')"></app-shared-file-one-upload>
+
+          <app-shared-file-one-upload [type]="'bookFile2'" [filePath]="isForm.get('File2')?.value"
+            (uploadFile)="onFile($event,'File2')"></app-shared-file-one-upload>
+
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
+          @defer {
+          <app-shareds-state-button [control]="isForm.get('state')"></app-shareds-state-button>}
+        </div>
+
+      </div>
+
+      <div class="row">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
+          <div class="example-button-row">
+            <button mat-raised-button color="primary" [disabled]="!isForm.dirty || !isForm.valid" [mat-dialog-close]="1"
+              (click)="confirmAdd()">Save</button>
+            <button mat-raised-button color="warn" (click)="onNoClick()" tabindex="-1">Cancel</button>
+          </div>
+        </div>
+      </div>
+
+
+    </form>
+  </div>
+</div>

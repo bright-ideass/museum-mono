@@ -1,0 +1,23 @@
+<div class="row">
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <ul class="breadcrumb">
+      <li>
+        <h4 class="page-title">{{breadcrumbs.slice(-1)[0].label}}</h4>
+      </li>
+      <li class="breadcrumb-item bcrumb-1">
+        <a [routerLink]="'/dashboard/main'">
+          <!-- <i class="fas fa-home"></i>   -->
+          <i-feather name="home" class="breadcrumb-icon"></i-feather>
+        </a>
+      </li>
+      @for (breadcrumb of breadcrumbs; track $index) {
+      <li class="breadcrumb-item">
+        <a [routerLink]="breadcrumb.url" routerLinkActive="router-link-active">
+          {{ breadcrumb.label }}</a>
+
+      </li>
+      }
+      <!--<li class="breadcrumb-item active">{{active_item}}</li>-->
+    </ul>
+  </div>
+</div>

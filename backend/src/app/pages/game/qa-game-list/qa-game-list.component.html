@@ -1,0 +1,108 @@
+<div class="materialTableHeader">
+  <div class="left">
+    <ul class="header-buttons-left ms-0">
+      <li class="tbl-title">
+        <h2>問答遊戲單元 Table</h2>
+      </li>
+      <li class="tbl-search-box">
+        <label for="search-input"><i class="material-icons search-icon">search</i></label>
+        <input placeholder="Search" type="text" #filter class="browser-default search-field" aria-label="Search box"
+          (keyup)="applyFilter($event)">
+      </li>
+    </ul>
+  </div>
+  <div class="right">
+    <ul class="tbl-export-btn">
+      <li class="tbl-header-btn">
+        <div class="m-l-10" matTooltip="ADD">
+          <button mat-mini-fab color="primary" (click)="addNew()">
+            <mat-icon class="col-white">add</mat-icon>
+          </button>
+        </div>
+      </li>
+      <li class="tbl-header-btn">
+        <div class="m-l-10" matTooltip="REFRESH">
+          <button mat-mini-fab color="primary" (click)="refresh()">
+            <mat-icon class="col-white">refresh</mat-icon>
+          </button>
+        </div>
+      </li>
+      <li>
+        <div class="export-button m-l-10" matTooltip="XLSX">
+          <img src="assets/images/icons/xlsx.png" (click)="exportExcel()" alt="" />
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="body overflow-auto">
+  <div class="responsive_table">
+    <table mat-table [dataSource]="dataSource" matSort class="mat-cell advance-table">
+
+      <ng-container matColumnDef="Title">
+        <mat-header-cell *matHeaderCellDef mat-sort-header class="table-text tbl-col-width-per-7">單元名稱</mat-header-cell>
+        <mat-cell *matCellDef="let row" class="table-text tbl-col-width-per-7"><span
+            class="mobile-label">單元名稱:</span><a [href]="front + 'web/zh-tw/multimedia/game'">{{row.Title}}</a></mat-cell>
+      </ng-container>
+
+
+      <ng-container matColumnDef="CreatedTime">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>建立時間</mat-header-cell>
+        <mat-cell *matCellDef="let row"><span class="mobile-label">建立時間:</span>{{row.CreatedTime |
+          date:'yyyy/MM/dd HH:mm'}}</mat-cell>
+      </ng-container>
+
+
+      <ng-container matColumnDef="state">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>狀態
+        </mat-header-cell>
+        <mat-cell mat-cell *matCellDef="let row">
+          <span class="mobile-label">狀態:</span>
+          @if (row.state===true) {
+          <div>
+            <span class="badge badge-solid-green">開啓</span>
+          </div>
+          }
+          @if (row.state===false) {
+          <div>
+            <span class="badge badge-solid-purple">關閉</span>
+          </div>
+          }
+        </mat-cell>
+      </ng-container>
+
+      <!-- actions -->
+      <ng-container matColumnDef="actions">
+        <mat-header-cell class="pr-0" *matHeaderCellDef>Actions</mat-header-cell>
+        <mat-cell *matCellDef="let row; let i=index;" class="pr-0">
+          <button mat-icon-button color="accent" (click)="$event.stopPropagation()" (click)="editCall(row)"
+            class="tbl-action-btn">
+            <app-feather-icons [icon]="'edit'" [class]="'tbl-fav-edit'"></app-feather-icons>
+          </button>
+          <button mat-icon-button color="accent" (click)="$event.stopPropagation()" (click)="deleteItem(row)"
+            class="tbl-action-btn">
+            <app-feather-icons [icon]="'trash-2'" [class]="'tbl-fav-delete'"></app-feather-icons>
+          </button>
+        </mat-cell>
+      </ng-container>
+      <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+      <mat-row *matRowDef="let row; columns: displayedColumns;" matRipple>
+      </mat-row>
+    </table>
+  </div>
+  <!-- Loading spinner -->
+  @if ($isLoading()) {
+  <app-shared-table-loading></app-shared-table-loading>
+  }
+
+  @if (!$isLoading()) {
+  <div class="no-results" [style.display]="dataSource.data.length === 0 ? '' : 'none'">
+    No results
+  </div>
+  }
+
+  <mat-paginator #paginator [length]="dataSource.filteredData.length" [pageIndex]="0" [pageSize]="10"
+    [pageSizeOptions]="[5, 10, 25, 100]">
+  </mat-paginator>
+</div>

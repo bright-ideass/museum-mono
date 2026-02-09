@@ -1,0 +1,9 @@
+{
+  "API_URL": "http://localhost:3000/",
+  "FRONT": "https://es.brightideas.com.tw/cbc2023/",
+  "TEST_MODE": true,
+  "CBC_LOGIN": "http://localhost:3000/auth/login",
+  "CBC_MENUS": "http://localhost:3000/backend/menu/sideMenu",
+  "CBC_ADMIN_LOGS": "http://auth.cbc.gov.tw/api/LogToAuth",
+  "EXHIBITS_IMG": "http:///cbctest.brightideas.com.tw/ExhibitsImg/"
+}

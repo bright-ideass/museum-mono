@@ -1,0 +1,204 @@
+# 中央銀行券幣數位博物館 - SPA 無障礙檢測路由清單
+# Base URL: https://museum.4impact.cc
+
+## 首頁
+https://museum.4impact.cc/zh-tw
+https://museum.4impact.cc/en
+
+## 流通券幣 (Circulation)
+https://museum.4impact.cc/zh-tw/circulation/banknote
+https://museum.4impact.cc/zh-tw/circulation/currency
+https://museum.4impact.cc/zh-tw/circulation/anniversary
+https://museum.4impact.cc/zh-tw/circulation/anniversary-currency
+https://museum.4impact.cc/zh-tw/circulation/picture-guide
+
+## 套幣與紀念性券幣 (Commemorate)
+### 生肖系列
+https://museum.4impact.cc/zh-tw/commemorate/zodiac-sign-first
+https://museum.4impact.cc/zh-tw/commemorate/zodiac-sign-second
+https://museum.4impact.cc/zh-tw/commemorate/zodiac-sign-third
+
+### 主題套幣
+https://museum.4impact.cc/zh-tw/commemorate/theme-national-park
+https://museum.4impact.cc/zh-tw/commemorate/theme-aboriginal
+https://museum.4impact.cc/zh-tw/commemorate/theme-flower
+https://museum.4impact.cc/zh-tw/commemorate/theme-other
+
+### 紀念鈔券
+https://museum.4impact.cc/zh-tw/commemorate/note
+
+### 紀念幣
+https://museum.4impact.cc/zh-tw/commemorate/coin-national-celebration
+https://museum.4impact.cc/zh-tw/commemorate/coin-festival
+https://museum.4impact.cc/zh-tw/commemorate/coin-international-events
+https://museum.4impact.cc/zh-tw/commemorate/coin-special-memorial
+
+### 紀念章
+https://museum.4impact.cc/zh-tw/commemorate/medal-national-celebration
+https://museum.4impact.cc/zh-tw/commemorate/medal-festival
+
+## 新臺幣防偽功能 (Anti-Counterfeit)
+https://museum.4impact.cc/zh-tw/anti-counterfeit
+https://museum.4impact.cc/zh-tw/anti-counterfeit/circulation
+
+### 流通鈔券
+https://museum.4impact.cc/zh-tw/anti-counterfeit/note-one-thousand
+https://museum.4impact.cc/zh-tw/anti-counterfeit/note-five-hundred
+https://museum.4impact.cc/zh-tw/anti-counterfeit/note-two-hundred
+https://museum.4impact.cc/zh-tw/anti-counterfeit/note-one-hundred
+https://museum.4impact.cc/zh-tw/anti-counterfeit/note-two-thousand
+
+### 流通硬幣
+https://museum.4impact.cc/zh-tw/anti-counterfeit/coin-fifty
+https://museum.4impact.cc/zh-tw/anti-counterfeit/coin-twenty
+https://museum.4impact.cc/zh-tw/anti-counterfeit/coin-ten
+
+### 舊版新臺幣
+https://museum.4impact.cc/zh-tw/anti-counterfeit/old-version-one-thousand
+https://museum.4impact.cc/zh-tw/anti-counterfeit/old-version-five-hundred
+https://museum.4impact.cc/zh-tw/anti-counterfeit/old-version-one-hundred
+https://museum.4impact.cc/zh-tw/anti-counterfeit/old-version-fifty
+
+## 券幣的生命週期 (Cycle)
+https://museum.4impact.cc/zh-tw/cycle/lifetime
+https://museum.4impact.cc/zh-tw/cycle/lifetime-design
+https://museum.4impact.cc/zh-tw/cycle/lifetime-print-cast
+https://museum.4impact.cc/zh-tw/cycle/lifetime-issue
+https://museum.4impact.cc/zh-tw/cycle/lifetime-arrange
+https://museum.4impact.cc/zh-tw/cycle/lifetime-destroy
+
+### 鈔票印製
+https://museum.4impact.cc/zh-tw/cycle/print-plant
+https://museum.4impact.cc/zh-tw/cycle/print-step
+
+### 硬幣鑄造
+https://museum.4impact.cc/zh-tw/cycle/cast-plant
+https://museum.4impact.cc/zh-tw/cycle/cast-step
+
+### 愛惜鈔券
+https://museum.4impact.cc/zh-tw/cycle/cherish
+
+## 貨幣的故事 (Story)
+https://museum.4impact.cc/zh-tw/story/what-is-currency
+
+### 貨幣的誕生與演進
+https://museum.4impact.cc/zh-tw/story/birth
+https://museum.4impact.cc/zh-tw/story/birth-commodity
+https://museum.4impact.cc/zh-tw/story/birth-metal
+https://museum.4impact.cc/zh-tw/story/birth-credit
+https://museum.4impact.cc/zh-tw/story/birth-plastic-and-electronic
+
+### 券幣萬花筒
+https://museum.4impact.cc/zh-tw/story/kaleidoscope
+https://museum.4impact.cc/zh-tw/story/kaleidoscope-tell-story
+https://museum.4impact.cc/zh-tw/story/kaleidoscope-wonder
+https://museum.4impact.cc/zh-tw/story/kaleidoscope-rich-man
+https://museum.4impact.cc/zh-tw/story/kaleidoscope-anecdote
+https://museum.4impact.cc/zh-tw/story/kaleidoscope-special-number
+https://museum.4impact.cc/zh-tw/story/kaleidoscope-community
+https://museum.4impact.cc/zh-tw/story/kaleidoscope-cashless
+
+### 券幣達人
+https://museum.4impact.cc/zh-tw/story/master
+https://museum.4impact.cc/zh-tw/story/master-question
+
+### 貨幣的演進
+https://museum.4impact.cc/zh-tw/story/evolution-stable
+https://museum.4impact.cc/zh-tw/story/evolution-virtual
+
+## 我國券幣的歷史 (History)
+https://museum.4impact.cc/zh-tw/history/develop
+
+### 臺灣券幣的發展
+https://museum.4impact.cc/zh-tw/history/develop-netherlands-and-spain
+https://museum.4impact.cc/zh-tw/history/develop-qing
+https://museum.4impact.cc/zh-tw/history/develop-japan
+https://museum.4impact.cc/zh-tw/history/develop-roc
+
+### 券幣歷史介紹
+https://museum.4impact.cc/zh-tw/history/introduce
+https://museum.4impact.cc/zh-tw/history/introduce-ntd
+https://museum.4impact.cc/zh-tw/history/introduce-td
+https://museum.4impact.cc/zh-tw/history/introduce-mainland
+https://museum.4impact.cc/zh-tw/history/introduce-japan
+
+## 訊息與服務 (Service)
+https://museum.4impact.cc/zh-tw/service/announcement
+https://museum.4impact.cc/zh-tw/service/promote
+https://museum.4impact.cc/zh-tw/service/audio
+https://museum.4impact.cc/zh-tw/service/link
+https://museum.4impact.cc/zh-tw/service/law
+
+## 多媒體專區 (Multimedia)
+https://museum.4impact.cc/zh-tw/multimedia/download
+
+## 溝通平台 (Communicate)
+https://museum.4impact.cc/zh-tw/communicate/faq
+https://museum.4impact.cc/zh-tw/communicate/email
+
+## 網站宣告 (Announcement)
+https://museum.4impact.cc/zh-tw/announcement/about-museum
+https://museum.4impact.cc/zh-tw/announcement/open-data
+https://museum.4impact.cc/zh-tw/announcement/copyright
+https://museum.4impact.cc/zh-tw/announcement/privacy
+https://museum.4impact.cc/zh-tw/announcement/security
+
+## 網站導覽
+https://museum.4impact.cc/zh-tw/sitemap
+
+## 搜尋
+https://museum.4impact.cc/zh-tw/search
+
+## ============================================
+## 英文版 (English Version)
+## ============================================
+
+## Homepage
+https://museum.4impact.cc/en
+
+## Circulation
+https://museum.4impact.cc/en/circulation/banknote
+https://museum.4impact.cc/en/circulation/currency
+https://museum.4impact.cc/en/circulation/anniversary
+https://museum.4impact.cc/en/circulation/anniversary-currency
+
+## Commemorate
+https://museum.4impact.cc/en/commemorate/zodiac-sign-first
+https://museum.4impact.cc/en/commemorate/zodiac-sign-second
+https://museum.4impact.cc/en/commemorate/zodiac-sign-third
+https://museum.4impact.cc/en/commemorate/theme-national-park
+https://museum.4impact.cc/en/commemorate/theme-aboriginal
+https://museum.4impact.cc/en/commemorate/theme-flower
+https://museum.4impact.cc/en/commemorate/theme-other
+https://museum.4impact.cc/en/commemorate/note
+https://museum.4impact.cc/en/commemorate/coin-national-celebration
+https://museum.4impact.cc/en/commemorate/coin-festival
+https://museum.4impact.cc/en/commemorate/coin-international-events
+https://museum.4impact.cc/en/commemorate/coin-special-memorial
+https://museum.4impact.cc/en/commemorate/medal-national-celebration
+https://museum.4impact.cc/en/commemorate/medal-festival
+
+## Anti-Counterfeit
+https://museum.4impact.cc/en/anti-counterfeit
+https://museum.4impact.cc/en/anti-counterfeit/circulation
+
+## Service
+https://museum.4impact.cc/en/service/announcement
+https://museum.4impact.cc/en/service/promote
+https://museum.4impact.cc/en/service/link
+https://museum.4impact.cc/en/service/law
+
+## Communicate
+https://museum.4impact.cc/en/communicate/faq
+
+## Announcement
+https://museum.4impact.cc/en/announcement/about-museum
+https://museum.4impact.cc/en/announcement/copyright
+https://museum.4impact.cc/en/announcement/privacy
+https://museum.4impact.cc/en/announcement/security
+
+## Sitemap
+https://museum.4impact.cc/en/sitemap
+
+## Search
+https://museum.4impact.cc/en/search

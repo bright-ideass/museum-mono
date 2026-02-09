@@ -1,0 +1,47 @@
+<div class="body">
+  <h6>圖檔上傳</h6>
+  @if($progress() > 0 && $progress() != 100){
+  <mat-progress-bar mode="determinate" [value]="$progress()"></mat-progress-bar>
+  }
+
+  <div class="file-drop-area">
+    <span>{{'Choose file or drag and drop file here' }} </span>
+    <input class="file-input" type="file" [accept]="'image/*'">
+  </div>
+
+  <div class="body">
+    <div class="doc-file-type">
+      <ng-scrollbar style="height: 260px" visibility="hover">
+        <ul class="list-unstyled" cdkDropList (cdkDropListDropped)="drop($event)">
+          @for(item of files; track $index){
+          <li class="d-flex mb-3" cdkDrag>
+            <div>
+              <div class="task-handle m-r-20" cdkDragHandle>
+                <mat-icon aria-hidden="false">drag_indicator</mat-icon>
+              </div>
+            </div>
+
+            <span class="msr-3 align-self-center img-icon primary-rgba">
+              <div class="table-img">
+                <img [src]="ExhibitsSearch + item.imgSrc" alt="image" />
+              </div>
+            </span>
+            <div class="set-flex">
+              <h5 class="font-16 mb-1">
+                <a [href]="ExhibitsSearch + item.imgSrc" target="_blank">{{item.imgName}}</a>
+              </h5>
+              <p>sort:{{item.sort + 1}}</p>
+            </div>
+            <div class="ms-auto">
+              <td>
+                <i class="far fa-trash-alt psr-3" (click)="deleteFile(item)"></i>
+                <i class="far fa-edit psr-3" (click)="editCall(item)"></i>
+              </td>
+            </div>
+          </li>}
+
+        </ul>
+      </ng-scrollbar>
+    </div>
+  </div>
+</div>

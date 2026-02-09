@@ -1,0 +1,1123 @@
+{
+    "common": {
+        "audioGuide": "語音導覽",
+        "furtherReading": "延伸閱讀",
+        "watchVideo": "Film",
+        "360surround": "360°View",
+        "surroundView": "360°View",
+        "antiCounterfeit": "Security Features",
+        "dictionary": "小辭典",
+        "detailIntroduce": "詳細介紹",
+        "eBook": "電子書",
+        "multimediaLook": "View",
+        "multimediaDisplay": "Mutimedia",
+        "issueTime": "Date of Issuance",
+        "issueArea": "Place of Issuance",
+        "yearVersion": "Version",
+        "issueVersion": "Series",
+        "pieceSize": "Dimensions(mm)",
+        "diplayType": "Style",
+        "material": "Material",
+        "composition": "Composition",
+        "mainColor": "Main Color",
+        "pattern": "Image",
+        "frontSite": "Obverse",
+        "backSite": "Reverse",
+        "watermark": "Watermark",
+        "content": "Description",
+        "denomination": "Denomiantion",
+        "goBackPage": "Back",
+        "weightWithG": "Weight(g)",
+        "diameterWithMm": "Diameter(mm)",
+        "cbc": "中央銀行全球資訊網行動版",
+        "sitemap": "Sitemap",
+        "informationAnnouncement": "Information Declartion",
+        "otherLink": "其他連結",
+        "updateTime": "Updated",
+        "kids": "kids",
+        "virtualExhibition": "虛擬展覽館",
+        "collection": "典藏寶庫",
+        "relatedLink": "Relative Links",
+        "attachmentDownload": "Download",
+        "footerOpen": "Open",
+        "footerClose": "Close",
+        "pdfDownload": "PDF Download",
+        "siteSearch": "Search",
+        "shareToFacebook": "Share to Facebook",
+        "shareToTwitter": "Share to Twitter",
+        "shareToLine": "Share to LINE",
+        "learnineMore": "learnineMore",
+        "shareToInstagram": "Share to Instagram",
+        "linkInstagram": "https://www.Instagram.com/CBC.gov.tw"
+    },
+    "index": {
+        "name": "Home",
+        "bannerAlt": "Banner",
+        "productBrowse": "Product Presentation",
+        "moreNews": "More",
+        "contact": {
+            "title": "Contact Us",
+            "address": "Add./ 2, Sec. 1, Roosevelt Rd., Taipei, 100243, Taiwan, R.O.C.",
+            "phone": "Tel /  886-2-2393-6161",
+            "fax": "Fax /(02)2357-1974"
+        },
+        "story": {
+            "buttonName": "The Story of Money",
+            "contentTitle": "What is money?？",
+            "content": "“Money” is a generally recognized medium of exchange that can be used for trading, the settling of debts, or to store value. Money comprises currency and deposits. Currency includes the subcategories of banknotes and coins. The currency of Taiwan is issued by the Central Bank. "
+        },
+        "antiCounterfeit": {
+            "buttonName": "Security Features of the New Taiwan Dollar",
+            "contentTitle": "Security Features of Banknotes and Coins in Circulation",
+            "content": "Three tips to detect counterfeit banknotes"
+        },
+        "cycle": {
+            "buttonName": "券幣的一生",
+            "contentTitle": "券幣的生命週期",
+            "content": "我國的鈔券和硬幣，目前是由中央銀行設立的中央印製廠及中央造幣廠印製與鑄造..."
+        },
+        "master": {
+            "buttonName": "成為達人",
+            "contentTitle": "券幣達人",
+            "content": "您有所不知的券幣知識"
+        }
+    },
+    "circulation": {
+        "noteAndCoin": "Banknotes and Coins in Circulation",
+        "note": "Banknotes",
+        "coin": "Coins ",
+        "banknote": {
+            "title": "Banknotes in Circulation",
+            "description": "<p>According to Article 13 of The Central Bank of the Republic of China (Taiwan) Act, the currency issued by the Central Bank shall be the national currency, and shall be legal tender for all payments within the territory of the Republic of China (Taiwan).</p><p>The current banknotes in circulation are issued in five denominations of NT$100, NT$200, NT$500, NT$1000 and NT$2000. In addition to the emphasis on anti-counterfeiting and practicality, the theme and image design of this series are to reflect local concerns, respect historical heritage, showcase Taiwan's future hopes, and express local landscape and ecological conservation as a principle.</p>"
+        },
+        "anniversary": {
+            "title": "Commemorative Banknotes in Circulation",
+            "description": "The Central Bank issues commemorative banknotes with denominations to mark important ceremonies, holidays, major international events, and other special commemorative occasions, pursuant to the “Regulations Governing the Issuance of Gold and Silver Coins and Commemorative Notes and Coins”."
+        },
+        "pictureGuide": {
+            "title": "The Banknote and Its Design Tell a Story",
+            "description": "A banknote is like a graphic representation of a country in miniature. The design often reflects the country’s unique features. In addition to portraits of the nation’s founding father Dr. Sun Yat-sen and the late President Chiang Kai-shek, Taiwanese banknotes currently in circulation also feature designs inspired by local culture and nature—historical buildings, indigenous flora and fauna, and majestic mountains. Illustrations of nature also serve to raise people’s awareness of the importance of ecological conservation.",
+            "100": {
+                "name": "NT$100",
+                "zhongshanTower": "The Chung-Shan Building",
+                "zhongshanTowerPalaceManuscriptAlt": "Original picture on which the Chung-Shan Building illustration is based",
+                "zhongshanTowerPalaceManuscriptRemark": "Original picture on which the Chung-Shan Building illustration is based",
+                "zhongshanTowerPalacePrintPatternAlt": "Intaglio print of the Chung-Shan Building",
+                "zhongshanTowerPalacePrintPatternRemark": "Intaglio print of the Chung-Shan Building",
+                "zhongshanTowerPalaceDescriptionHtml": "<p>The Chung-Shan Building on Yangmingshan on the outskirts of Taipei was inaugurated in 1966 to mark the centenary of Dr. Sun Yat-sen’s birth and in commemoration of his achievement of founding the Republic of China. The building would become a venue for important meetings and the site for the National Assembly convention.</p><p>Built in the style of a classical Chinese palace, the Chung-Shan Building is an outstanding piece of architecture that was designed by Xiu Zelan. The building’s green roof tiles provide a beautiful contrast with the red eaves and white walls, giving it a majestic appearance. The upturned eaves and roof edges look like an eagle spreading its wings. The interior is decorated with bird patterns inspired by Shang Dynasty bronze ware. All these elements are reinterpretations of classical Chinese art motifs. An arch stands majestically in front of the building and is engraved with the phrases “To travel the Great Way is this” and “The world as a commonwealth shared by all” in Dr. Sun’s handwriting. The arch, pine trees, cypresses, and stone lions form a serene whole.</p>"
+            },
+            "200": {
+                "name": "NT$200",
+                "presidentialPalace": "The Presidential Office",
+                "presidentialPalaceManuscriptAlt": "Original picture on which the Presidential Office illustration is based",
+                "presidentialPalaceManuscriptRemark": "Original picture on which the Presidential Office illustration is based",
+                "presidentialPalacePrintPatternAlt": "Intaglio print of the Presidential Office",
+                "presidentialPalacePrintPatternRemark": "Intaglio print of the Presidential Office",
+                "presidentialPalaceDescriptionHtml": "<p>The Presidential Office building, completed in 1919, housed the Governor-General’s Office during the Japanese Colonial Era. A major landmark, the building was severely damaged during World War II. After the war, the building was restored and became the Presidential Office of the Republic of China on Taiwan in 1950. Today, it is still the seat of political power in Taiwan.</p><p>The Presidential Office building and its surrounding grounds have been designated a historic site. The building reflects the baroque style of the late Renaissance. The imposing neoclassical façade features architectural elements including columns, gables, œil de bœuf windows, wall brackets, Roman columns, and compound piers. The entire structure was carefully designed and is earthquake-resistant.</p>"
+            },
+            "500": {
+                "name": "NT$500",
+                "dabaMountain": "Mount Dabajian",
+                "dabaMountainManuscriptAlt": "Original picture on which the Mount Dabajian illustration is based",
+                "dabaMountainManuscriptRemark": "Original picture on which the Mount Dabajian illustration is based (copyright: Chou Mei-ling)",
+                "dabaMountainDescriptionHtml": "<p>The peaks of Mount Dabajian, located on the north side of the Xueshan Range’s ridgeline, are the main offshoots of Xueshan’s main ridge. Mount Dabajian is surrounded by four mountain ridges of various lengths on the east, north, and west sides. The mountain has distinctive geological features, and the peak is a hard sandstone pyramid formed by strong wind erosion.</p><p>The four cliffs of Mount Dabajian are denuded of vegetation. Its austere appearance has earned the epithet, “the most spectacular peak of the century”. Mount Dabajian, Mount Zhongyangjian, and Mount Dafenjian are known as “the Three Peaks”. The aboriginal Atayal and Saisiyat tribes regard Mount Dabajian as their sacred ground.</p>",
+                "sikaDeer": "Formosan sika deer",
+                "sikaDeerManuscriptAlt": "Original picture on which the Formosan sika deer illustration is based",
+                "sikaDeerManuscriptRemark": "Original picture on which the Formosan sika deer illustration is based (copyright: Chen Keng)",
+                "sikaDeerPrintPatternAlt": "Intaglio print of the Formosan sika deer",
+                "sikaDeerPrintPatternRemark": "Intaglio print of the Formosan sika deer",
+                "sikaDeerDescriptionHtml": "<p>The sika deer, of which the Formosan sika deer is a larger subspecies, is found in the southeastern part of Asia. The natural distribution of the Formosan sika deer used to be plains and hills of low and medium elevation. However, over the past few centuries their population dwindled significantly with over-hunting and the destruction of their natural habitat. In 1984, the Kenting National Park launched a restoration program in the hope that Formosan sika deer will once again grace the fields and forests of Taiwan.</p><p>The Formosan sika deer has plum-blossom-like white spots on its back. The summer coat is light brown with visible white patches, with a black line running down the back. The deer’s antlers grow in a yearly cycle: the male starts to grow antlers at the age of two, and a new branch is developed every year until the stag turns five. The Formosan sika deer is docile, sensitive, and alert. It feeds mainly on tree leaves, plant shoots, and grass and often comes out to forage for food in the early morning and at sunset.</p>"
+            },
+            "1000": {
+                "name": "NT$1000",
+                "sunrise": "Sunrise",
+                "sunriseManuscriptAlt": "Original picture on which the sunrise illustration is based",
+                "sunriseManuscriptRemark": "Original picture on which the sunrise illustration is based (copyright: Hsu Hui-na)",
+                "sunriseDescriptionHtml": "<p>The moment the sun appears on the horizon, dust in the atmosphere causes the light to scatter, thus filling the sky with a splendid glow.</p><p>As there is less dust at sunrise than sunset, the clouds in the dawn sky are elegantly colored. Ancient literati often used the rising sun and flourishing nature as symbols of their ambition.</p>",
+                "yushan": "Mount Jade",
+                "yushanManuscriptAlt": "Original picture on which the Mount Jade illustration is based",
+                "yushanManuscriptRemark": "Original picture on which the Mount Jade illustration is based (copyright: Liang Ming-pen)",
+                "yushanDescriptionHtml": "<p>With an elevation of 3,952m, Mount Jade is the highest mountain in Taiwan. It grew to its current height when the Eurasian Plate slid under the adjacent Philippine Sea Plate. Mount Jade is located on the borders of Nantou County, Kaohsiung City, and Chiayi County. The majestic landscape is in a league of its own. The snow-capped Mount Jade is also one of the Eight Scenes of Taiwan.</p><p>The main peak is surrounded by a number of overlapping mountains, which are sliced through by deep, plunging valleys. The vegetation changes as the elevation increases: subtropical forests give way to temperate forests, and eventually to alpine grasslands. Mount Jade is also home to a variety of animal species, including the Mikado pheasant, the Formosan serow, the Formosan sambar deer, the Formosan black bear, Reeves’s muntjac, the Formosan rock macaque, and relict species from the Ice Age, the Alishan salamander. In addition to indigenous animals, many rare plant species can also be found here, including the Taiwan ladybell, Gentiana scabrida Hayata, and Taiwan alpine rhododendron. In addition to the rich flora and fauna, historical trails built in the Qing Dynasty and the Japanese Colonial Era such as Batongguan, Guanshan, and Yueling criss-cross Mount Jade. Mount Jade used to be inhabited by the aboriginal Bunun tribe and is a treasure trove for natural and cultural research.</p>",
+                "cirsiumTatakaense": "Cirsium kawakamii hayata",
+                "cirsiumTatakaenseManuscriptAlt": "Original picture on which the Cirsium kawakamii hayata illustration is based",
+                "cirsiumTatakaenseManuscriptRemark": "Original picture on which the Cirsium kawakamii hayata illustration is based (Copyright: Peng Ching-yi)",
+                "cirsiumTatakaenseDescriptionHtml": "<p>Cirsium kawakamii hayata is a species of asteraceae native to Taiwan. Often found on mountains from 2,600-3,950 meters above sea levels, it can be seen on Mount Jade, Nanhu Mountain, Xueshan, Hehuanshan, and Xiuguluan Mountain.</p><p>The whole plant is covered in sharp needles, the stalk is straight and grooved, and the alternate, pinnatipartite leaves are oval and shaped like lance heads. The front edges of the leaf lobes have tiny woody needles, and the edges of the needles have spines that are 1-2cm long. The plant’s pale yellow or purple flowers have nectaries. Usually 10-20 flower heads (capitulums) form a raceme. Cirsium kawakamii hayata has medicinal uses: its various parts, from the roots to the flowers, all have different properties.</p>",
+                "syrmaticusMikado": "The Mikado pheasant",
+                "syrmaticusMikadoPictureAlt": "The Mikado pheasant",
+                "syrmaticusMikadoPictureRemark": "The Mikado pheasant (copyright: Huang Huan-jun)",
+                "syrmaticusMikadoPrintPatternAlt": "Intaglio print of the Mikado pheasant",
+                "syrmaticusMikadoPrintPatternRemark": "Intaglio print of the Mikado pheasant",
+                "syrmaticusMikadoDescriptionHtml": "<p>The Mikado pheasant, a species native to Taiwan, lives in mountain areas of high and medium elevation. The bird is often found in conifer-broadleaf forests and arrow bamboo groves.</p><p>Male and female Mikado pheasants exhibit sexual dimorphism: the male has shiny blue-black plumage, a red waddle around the eyes, and white bands on the wings. The female has brown plumage and lacks long tail feathers.</p><p>The Mikado pheasant usually inhabits steep slopes and tends to seek solitary, quiet places. On foggy or rainy days it often forages for food along roadsides or at the edge of the forest. It feeds on fern shoots, wild strawberries, and insects. It has a majestic posture and holds its head high when it walks. When male and female Mikado pheasants come out in pairs to forage for food, the male bird will remain close to its companion and stay alert for danger.</p>"
+            },
+            "2000": {
+                "name": "NT$2000",
+                "nanhuMountain": "Nanhu Mountain",
+                "nanhuMountainManuscriptAlt": "Original picture on which Nanhu Mountain illustration is based",
+                "nanhuMountainManuscriptRemark": "Original picture on which Nanhu Mountain illustration is based (copyright: Chen Ping-yuan)",
+                "nanhuMountainDescriptionHtml": "<p>With an elevation of 3,742m, Nanhu Mountain is one of the five highest mountains in Taiwan (the others being Mount Jade, Xueshan, Xiuguluan Mountain, and North Dawu Mountain). Nanhu Mountain is located inside Taroko National Park. The mountain is mainly composed of clay slate formed during the tertiary age. The alpine tundra environment of Nanhu Mountain is rare in subtropical Taiwan.</p><p>The region is rich in indigenous or endangered flora and fauna, including Nakotaizan epilobium, Astragalus nankotaizanensis, Cypripedium macranthum, the Formosan Black Bear, and the Formosan Sambar Deer. High mountains in Taiwan tend to have multiple gorges and peaks, and Nanhu Mountain’s main and eastern peaks form two wide, U-shaped valleys that are a natural geological wonder.</p>",
+                "taiwanSalmon": "The Formosan landlocked salmon",
+                "taiwanSalmonManuscriptAlt": "Original picture on which the Formosan landlocked salmon illustration is based",
+                "taiwanSalmonManuscriptRemark": "Original picture on which the Formosan landlocked salmon illustration is based (copyright: Shei-pa National Park Headquarters)",
+                "taiwanSalmonDraftPictureAlt": "Draft intaglio print of the Formosan landlocked salmon",
+                "taiwanSalmonDraftPictureRemark": "Draft intaglio print of the Formosan landlocked salmon",
+                "taiwanSalmonDescriptionHtml": "<p>The Formosan landlocked salmon, also known as the Taiwanese salmon, is a type of migrating Pacific salmon and a subspecies unique to Taiwan. During the Ice Age, sea levels dropped, and, as a result, a group of salmon came to be trapped in the upstream reaches of the Dajia River. The Formosan landlocked salmon is a relict species from the Ice Age. It receives widespread attention because of its unique distribution and landlocked habitat.</p><p>The Formosan landlocked salmon lives in clean streams where the temperature is between 5 and 17 degrees Celsius. It feeds mainly on aquatic insects (e.g. Phryganea japonica, Plecoptera, and mayflies). During the spawning season, the fish’s body becomes darker, and the oval spots on its sides turn into dark brown, cloud-shaped spots. The male Formosan landlocked salmon has a hooked jaw that turns upwards. The species’ distinct behavior and distribution and its endangered status have earned it the moniker “national treasure fish”. A restoration project introduced in 1985 at the Qijiawan Creek in the Shei-pa National Park has succeeded in reviving the Formosan landlocked salmon population.</p>"
+            }
+        },
+        "currency": {
+            "title": "Coins in Circulation",
+            "description": "<p>According to Article 13 of The Central Bank of the Republic of China (Taiwan) Act, the currency issued by the Central Bank shall be the national currency, and shall be legal tender for all payments within the territory of the Republic of China (Taiwan).</p><p>The current coins in circulation are issued in five denominations of NT$1, NT$5, NT$10, NT$20 and NT$50. They facilitate small payments and change. To enhance security features, some denominations contain security features such as latent image, edge lettering, and tactile marks for the visually impaired.</p>"
+        },
+        "anniversaryCurrency": {
+            "title": "Circulating Commemorative Coins",
+            "description": "The Central Bank issues circulating commemorative coins with denominations to mark important ceremonies, holidays, major international events, and special commemorative occasions, pursuant to the “Regulations Governing the Issuance of Gold and Silver Coins and Commemorative Notes and Coins”."
+        }
+    },
+    "antiCounterfeit": {
+        "antiCounterfeitForNT": "Security Features of the New Taiwan Dollar",
+        "front": "Obverse",
+        "back": "Reverse",
+        "circulation": {
+            "title": "Security Features of Banknotes and Coins in Circulation",
+            "descriptionHtml": "<p>In order to prevent counterfeiting, the Central Engraving and Printing Plant and the Central Mint, respectively, have developed new international-standard security features for banknotes and coins. In addition to proactive education about how to identify counterfeits, the Central Bank of the Republic of China (Taiwan) has requested all financial institutions to intercept counterfeit money in accordance with the “Regulations on the Handling of Counterfeit, Altered and Imitation New Taiwan Dollar Notes and Coins by Financial Institutions”. The Central Bank has also established a database of counterfeit money for law enforcement officers to refer to during their investigations. All these efforts are aimed at protecting the rights of the public and the currency’s credibility.<br/><br/>The security features used in current New Taiwan dollar banknotes include intaglio printing, watermarks, optical variable ink, window threads, latent texts, optical variable device (OVD) foil, and metallic ink. The Central Bank also offers simple advice, <span class=\"Italic\">Look-Feel-Tilt</span>, to help the public detect counterfeit money. Coins integrate security features such as latent image, tactile marks for the visually impaired, and edged lettering. All these features can be observed by the sighted, felt by the visually impaired, and read by machines.</p>",
+            "tipTitle": "Three tips to detect counterfeit banknotes",
+            "tip1": "Look",
+            "tip1DescriptionHtml": "Hold the banknote up to the light and look for the watermark and latent texts.<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+            "tip2": "Tilt",
+            "tip2DescriptionHtml": "Tilt the banknote and look for the security thread and optically variable color-changing ink and foil patch.",
+            "tip3": "Feel",
+            "tip3DescriptionHtml": "Certain parts of the banknote feel raised to the touch.<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;<br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;<br>&nbsp;</span>"
+        },
+        "note": {
+            "title": "Banknotes in Circulation",
+            "see": "Look",
+            "turn": "Tilt",
+            "touch": "Feel",
+            "100": {
+                "title": "NT$100",
+                "see": {
+                    "tip1": "Watermark",
+                    "tip1DescriptionHtml": "When the banknote is held up against the light, orchids and a very bright Arabic numeral “100” appear in the blank place on the left obverse side.<span class=\"d-none d-md-inline\"><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;<br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip2": "Latent Texts",
+                    "tip2DescriptionHtml": "When the banknote is tilted, a series of repeating patterns appear in the lower right corner. When the banknote is held at a 15-degree angle against the light, the denomination “100” appears. The numeral 100 has two shades, one light and one dark, visible when the banknote is held at different angles."
+                },
+                "touch": {
+                    "tip1": "Intaglio Printing",
+                    "tip1DescriptionHtml": "The denomination “100” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip2": "Intaglio Printing",
+                    "tip2DescriptionHtml": "The denomination “100” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip3": "Intaglio Printing",
+                    "tip3DescriptionHtml": "The denomination “100” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip4": "Intaglio Printing",
+                    "tip4DescriptionHtml": "The denomination “100” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip5": "Intaglio Printing",
+                    "tip5DescriptionHtml": "The denomination “100” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip6": "Intaglio Printing",
+                    "tip6DescriptionHtml": "The denomination “100” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip7": "Intaglio Printing",
+                    "tip7DescriptionHtml": "The denomination “100” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch."
+                },
+                "turn": {
+                    "tip1": "Window Thread",
+                    "tip1DescriptionHtml": "The obverse has a five-section window thread. The denomination “100” is printed on the thread. When the banknote is tilted, the color of the thread changes from purple to green. The continuous thread and cleartext “100” can be seen when the banknote is held up to the light.",
+                    "tip2": "Optical Variable Ink",
+                    "tip2DescriptionHtml": "The denomination “100” in the lower left corner of the obverse is printed in special ink. When the banknote is tilted, the color of the denomination changes from purple to green.<span class=\"d-none d-md-inline\"><br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none d-xl-inline\"><br>&nbsp;</span>"
+                }
+            },
+            "200": {
+                "title": "NT$200",
+                "see": {
+                    "tip1": "Watermark",
+                    "tip1DescriptionHtml": "When the banknote is held up against the light, orchids and a very bright Arabic numeral “200” appear in the blank place on the left obverse side.<span class=\"d-none d-md-inline\"><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;<br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip2": "Latent Texts",
+                    "tip2DescriptionHtml": "When the banknote is tilted, a series of repeating patterns appear in the lower right corner. When the banknote is held at a 15-degree angle against the light, the denomination “200” appears. The numeral 200 has two shades, one light and one dark, visible when the banknote is held at different angles."
+                },
+                "touch": {
+                    "tip1": "Intaglio Printing",
+                    "tip1DescriptionHtml": "The denomination “200” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio-they feel raised to the touch.",
+                    "tip2": "Intaglio Printing",
+                    "tip2DescriptionHtml": "The denomination “200” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio-they feel raised to the touch.",
+                    "tip3": "Intaglio Printing",
+                    "tip3DescriptionHtml": "The denomination “200” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip4": "Intaglio Printing",
+                    "tip4DescriptionHtml": "The denomination “200” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip5": "Intaglio Printing",
+                    "tip5DescriptionHtml": "The denomination “200” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip6": "Intaglio Printing",
+                    "tip6DescriptionHtml": "The denomination “200” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip7": "Intaglio Printing",
+                    "tip7DescriptionHtml": "The denomination “200” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch."
+                },
+                "turn": {
+                    "tip1": "Window Thread",
+                    "tip1DescriptionHtml": "The obverse has a five-section window thread. The denomination “200” is printed on the thread. When the banknote is tilted, the color of the thread changes from purple to green. The continuous thread and cleartext “200” can be seen when the banknote is held up to the light.",
+                    "tip2": "Optical Variable Ink",
+                    "tip2DescriptionHtml": "The denomination “200” in the lower left corner of the obverse is printed in special ink. When the banknote is tilted, the color of the denomination changes from gold to green.<span class=\"d-none d-md-inline\"><br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none d-xl-inline\"><br>&nbsp;</span>"
+                }
+            },
+            "500": {
+                "title": "NT$500",
+                "see": {
+                    "tip1": "Watermark",
+                    "tip1DescriptionHtml": "When the banknote is held up against the light, bamboos and a very bright Arabic numeral “500” appear in the blank place on the left obverse side.<span class=\"d-none d-md-inline\"><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip2": "Latent Texts",
+                    "tip2DescriptionHtml": "When the banknote is tilted, a series of repeating patterns appear in the lower right corner. When the banknote is held at a 15-degree angle against the light, the denomination “500” appears. The numeral 500 has two shades, one light and one dark, visible when the banknote is held at different angles."
+                },
+                "touch": {
+                    "tip1": "Intaglio Printing",
+                    "tip1DescriptionHtml": "The denomination “500” on the obverse and the lower right corner of the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip2": "Intaglio Printing",
+                    "tip2DescriptionHtml": "The denomination “500” on the obverse and the lower right corner of the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip3": "Intaglio Printing",
+                    "tip3DescriptionHtml": "The denomination “500” on the obverse and the lower right corner of the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip4": "Intaglio Printing",
+                    "tip4DescriptionHtml": "The denomination “500” on the obverse and the lower right corner of the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip5": "Intaglio Printing",
+                    "tip5DescriptionHtml": "The denomination “500” on the obverse and the lower right corner of the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip6": "Intaglio Printing",
+                    "tip6DescriptionHtml": "The denomination “500” on the obverse and the lower right corner of the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch."
+                },
+                "turn": {
+                    "tip1": "Optical Variable Ink",
+                    "tip1DescriptionHtml": "The denomination “500” in the lower left corner of the obverse and the upper left corner of the reverse is printed in special ink. When the banknote is tilted, the color of the denomination changes from gold to green.",
+                    "tip2": "OVD foil stripe",
+                    "tip2DescriptionHtml": "When the banknote is tilted, the OVD foil stripe on the right side shows multiple iridescent images.<span class=\"d-none d-md-inline\"><br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;<br>&nbsp;</span>",
+                    "tip3": "Optical Variable Ink",
+                    "tip3DescriptionHtml": "The denomination “500” in the lower left corner of the obverse and the upper left corner of the reverse is printed in special ink. When the banknote is tilted, the color of the denomination changes from gold to green.<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none d-xl-inline\"><br>&nbsp;</span>",
+                    "tip4": "OVD window thread",
+                    "tip4DescriptionHtml": "The reverse has a six-section OVD window thread. The denomination “500” is printed on the thread. When the banknote is tilted, the thread shows multiple iridescent images. The continuous thread and cleartext “500” can be seen when the banknote is held up to the light."
+                }
+            },
+            "1000": {
+                "title": "NT$1000",
+                "see": {
+                    "tip1": "Watermark",
+                    "tip1DescriptionHtml": "When the banknote is held up against the light, a chrysanthemum and a very bright Arabic numeral “1000” appear in the blank place on the left obverse side.<span class=\"d-none d-md-inline\"><br>&nbsp;<br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;<br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip2": "Latent Texts",
+                    "tip2DescriptionHtml": "When the banknote is tilted, a series of repeating patterns appear in the lower right corner. When the banknote is held at a 15-degree angle up to the light, the denomination “1000” appears. The numeral 1000 has two shades, one light and one dark, visible when the banknote is held at different angles."
+                },
+                "touch": {
+                    "tip1": "Intaglio Printing",
+                    "tip1DescriptionHtml": "The denomination “1000” on the obverse and the lower right corner of the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip2": "Intaglio Printing",
+                    "tip2DescriptionHtml": "The denomination “1000” on the obverse and the lower right corner of the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip3": "Intaglio Printing",
+                    "tip3DescriptionHtml": "The denomination “1000” on the obverse and the lower right corner of the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip4": "Intaglio Printing",
+                    "tip4DescriptionHtml": "The denomination “1000” on the obverse and the lower right corner of the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip5": "Intaglio Printing",
+                    "tip5DescriptionHtml": "The denomination “1000” on the obverse and the lower right corner of the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip6": "Intaglio Printing",
+                    "tip6DescriptionHtml": "The denomination “1000” on the obverse and the lower right corner of the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch."
+                },
+                "turn": {
+                    "tip1": "Optical Variable Ink",
+                    "tip1DescriptionHtml": "The denomination “1000” in the lower left corner of the obverse and the upper left corner of the reverse is printed in special ink. When the banknote is tilted, the color of the denomination changes from gold to green.",
+                    "tip2": "OVD foil stripe",
+                    "tip2DescriptionHtml": "When the banknote is tilted, the OVD foil stripe on the right side shows multiple iridescent images.<span class=\"d-none d-md-inline\"><br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;<br>&nbsp;</span>",
+                    "tip3": "Optical Variable Ink",
+                    "tip3DescriptionHtml": "The denomination “1000” in the lower left corner of the obverse and the upper left corner of the reverse is printed in special ink. When the banknote is tilted, the color of the denomination changes from gold to green.<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none d-xl-inline\"><br>&nbsp;</span>",
+                    "tip4": "OVD window thread",
+                    "tip4DescriptionHtml": "The reverse has a six-section OVD window thread. The denomination “1000” is printed on the thread. When the banknote is tilted, the thread shows multiple iridescent images. The continuous thread and cleartext “1000” can be seen when the banknote is held up to the light."
+                }
+            },
+            "2000": {
+                "title": "NT$2000",
+                "see": {
+                    "tip1": "Watermark",
+                    "tip1DescriptionHtml": "When the banknote is held up against the light, a pine tree and a very bright Arabic numeral “2000” appear in the blank place on the left obverse side.<span class=\"d-none d-md-inline\"><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;<br>&nbsp;<br>&nbsp;</span>",
+                    "tip2": "Latent Texts",
+                    "tip2DescriptionHtml": "When the banknote is tilted, a series of repeating patterns appear in the lower right corner. When the banknote is held at a 15-degree angle against the light, the denomination “2000” appears. The numeral 2000 has two shades, one light and one dark, visible when the banknote is held at different angles."
+                },
+                "touch": {
+                    "tip1": "Intaglio Printing",
+                    "tip1DescriptionHtml": "The denomination “2000” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip2": "Intaglio Printing",
+                    "tip2DescriptionHtml": "The denomination “2000” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip3": "Intaglio Printing",
+                    "tip3DescriptionHtml": "The denomination “2000” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip4": "Intaglio Printing",
+                    "tip4DescriptionHtml": "The denomination “2000” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip5": "Intaglio Printing",
+                    "tip5DescriptionHtml": "The denomination “2000” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip6": "Intaglio Printing",
+                    "tip6DescriptionHtml": "The denomination “2000” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch.",
+                    "tip7": "Intaglio Printing",
+                    "tip7DescriptionHtml": "The denomination “2000” on both the obverse and the reverse, the Chinese words “the Republic of China” and the “Central Bank”, and the tactile marks for the visually impaired (left) are all printed in intaglio—they feel raised to the touch."
+                },
+                "turn": {
+                    "tip1": "Optical Variable Ink",
+                    "tip1DescriptionHtml": "The denomination “2000” in the lower left corner of the obverse is printed in special ink. When the banknote is tilted, the color of the denomination changes from gold to green.<span class=\"d-none d-md-inline\"><br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none d-xl-inline\"><br>&nbsp;</span>",
+                    "tip2": "Window Thread",
+                    "tip2DescriptionHtml": "The obverse has a five-section window thread. The denomination “2000” is printed on the thread. When the banknote is tilted, the color of the thread changes from purple to green. The continuous thread and cleartext “2000” can be seen when the banknote is held up to the light.",
+                    "tip3": "The metallic ink and embossed figure “2000” ",
+                    "tip3DescriptionHtml": "This is a security feature exclusively for the NT$2,000 banknote. When the banknote is tilted, the metallic gloss appears on the two sides of the rocket, and the embossed numeral “2000” appears on the left. When scanned and color-copied, the color of the sides of the rocket changes and the embossed figure “2000” becomes unclear.",
+                    "tip4": "OVD foil",
+                    "tip4DescriptionHtml": "When the banknote is tilted, the denomination “2000” and the image of a satellite on the OVD foil patch on the right obverse side appear to move gradually and show iridescent multiple images.<span class=\"d-none d-md-inline\"><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;<br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>"
+                }
+            }
+        },
+        "coin": {
+            "title": "Coins in Circulation",
+            "10": {
+                "title": "NT$10",
+                "anti": "Security Features of Banknotes and Coins in Circulation",
+                "tip1": "Latent images",
+                "tip1DescriptionHtml": "The latent images of two Chinese phrases, “the country is prosperous and at peace” and “the people live in safety and happiness”, overlap to form the shape of a Ruyi. Turning the coin slightly to the left and right causes the two Chinese phases to appear alternately.",
+                "tip2": "Latent images",
+                "tip2DescriptionHtml": "The face value “10 Yuan” in Chinese is inscribed with two latent images「<i class=\"icon-taiwan\"></i>」and「<i class=\"icon-plum-blossom\"></i>」 inside the Arabic numeral “0”. Turning the coin slightly to the left and right causes the two images to appear alternately.<span class=\"d-none d-md-inline\"><br>&nbsp;<br>&nbsp;<br>&nbsp;</span>",
+                "tip3": "Tactile marks for the visually impaired",
+                "tip3DescriptionHtml": "The lower side of the coin’s reverse has one embossed dot to help the visually impaired to identify the coin.<span class=\"d-none d-md-inline\"><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;<br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</span>"
+            },
+            "20": {
+                "title": "NT$20",
+                "anti": "Security Features of Banknotes and Coins in Circulation",
+                "tip1": "Latent images",
+                "tip1DescriptionHtml": "When the coin is turned to the right, a latent image showing the year appears on the lower side of the obverse.",
+                "tip2": "Tactile marks for the visually impaired",
+                "tip2DescriptionHtml": "The lower side of the coin’s reverse has one embossed dot to help the visually impaired to identify the coin."
+            },
+            "50": {
+                "title": "NT$50",
+                "anti": "Security Features of Banknotes and Coins in Circulation",
+                "tip1": "Edge lettering",
+                "tip1DescriptionHtml": "The rim is milled with the lettering\"NT$50\"four times, and two of which are shown up-side-down",
+                "tip2": "Latent images",
+                "tip2DescriptionHtml": "When the coin is tilted at a 15-degree angle to the left or right, the denomination in Chinese “五十” and an Arabic numeral “50” appear alternately at the center of the reverse.",
+                "tip3": "Tactile marks for the visually impaired",
+                "tip3DescriptionHtml": "The lower side of the coin’s reverse has three embossed dots to help the visually impaired identify the coin.<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>"
+            }
+        },
+        "oldVersion": {
+            "title": "舊版新臺幣",
+            "paper": "紙張",
+            "ink": "油墨",
+            "print": "印刷",
+            "50": {
+                "title": "伍拾圓",
+                "fullTitle": "舊版伍拾圓",
+                "tip1DescriptionHtml": "<ol><li>鈔紙質地堅挺，韌性大，耐折摺。</li></ol>",
+                "tip2DescriptionHtml": "<ol><li>主要圖紋採凹版印刷，用手觸摸可感覺墨紋凸出紙面，且墨色深濃，表面無光澤。</li><li>底紋為特別色油墨，色彩鮮明。</li></ol>",
+                "tip3DescriptionHtml": "<ol><li>正面人像線條精細，毛髮清楚，絲絲清晰可辨。</li><li>底紋正背面迎光透視，花飾圖案正背面套印準確。</li><li>官章字劃清晰，線條分明；鈔券號碼字體特殊，字劃粗細均勻。</li></ol>"
+            },
+            "100": {
+                "title": "壹佰圓"
+            },
+            "500": {
+                "title": "伍佰圓"
+            },
+            "1000": {
+                "title": "壹仟圓"
+            },
+            "500anyi": {
+                "title": "伍佰圓(安一版)"
+            },
+            "1000anyi": {
+                "title": "壹仟圓(安一版)"
+            }
+        }
+    },
+    "commemorate": {
+        "setAndCommemorative": "Coin Sets and Commemorative Banknotes and Coins",
+        "zodiacSign": {
+            "title": "Chinese Zodiac Commemorative Coin Sets",
+            "first": {
+                "title": "First Series",
+                "description": "The Chinese Zodiac Commemorative Coin Set features the Chinese zodiac in a given year. The first set went on sale in 1993. Two complete series have already been issued. The first series were sold between 1993 and 2004, characterized by themed medals bearing the images of the Chinese zodiacs and coins of various denominations. The second series were sold between 2005 and 2016, notable for commemorative silver coins bearing the images of the Chinese zodiacs and NT$50 and NT$20 coins. The third series has gone on sale in 2017 and will introduce commemorative silver coins and commemorative copper-alloy coins, both bearing the images of the Chinese zodiacs."
+            },
+            "second": {
+                "title": "Second Series",
+                "description": "The Chinese Zodiac Commemorative Coin Set features the Chinese zodiac in a given year. The first set went on sale in 1993. Two complete series have already been issued. The first series were sold between 1993 and 2004, characterized by themed medals bearing the images of the Chinese zodiacs and coins of various denominations. The second series were sold between 2005 and 2016, notable for commemorative silver coins bearing the images of the Chinese zodiacs and NT$50 and NT$20 coins. The third series has gone on sale in 2017 and will introduce commemorative silver coins and commemorative copper-alloy coins, both bearing the images of the Chinese zodiacs."
+            },
+            "third": {
+                "title": "Third Series",
+                "description": "The Chinese Zodiac Commemorative Coin Set features the Chinese zodiac in a given year. The first set went on sale in 1993. Two complete series have already been issued. The first series were sold between 1993 and 2004, characterized by themed medals bearing the images of the Chinese zodiacs and coins of various denominations. The second series were sold between 2005 and 2016, notable for commemorative silver coins bearing the images of the Chinese zodiacs and NT$50 and NT$20 coins. The third series has gone on sale in 2017 and will introduce commemorative silver coins and commemorative copper-alloy coins, both bearing the images of the Chinese zodiacs."
+            }
+        },
+        "theme": {
+            "title": "Special Edition Coin Sets",
+            "nationalPark": {
+                "title": "National Parks of Taiwan Series",
+                "description": "The first National Parks of Taiwan Series went on sale in 2012. The national parks included in the entire series are Kenting, Yushan, Yangmingshan, Taroko, Shei-pa, Kinmen, Dongsha Marine, Taijiang, and South Penghu Marine.</p>"
+            },
+            "aboriginal": {
+                "title": "Taiwan Aboriginal Culture Series",
+                "description": "The Taiwan Aboriginal Culture Series consists of 14 sets which introduce the everyday life, religious culture, and traditional arts of the 14 indigenous people in Taiwan. The series were sold between 1998 and 2011. The sets were released in the following order: Yami, Paiwan, Puyuma, Rukai, Amis, Tsou, Bunun, Atayal (Tayal), Saisiyat, Thao, Kavalan, Truku, Sakizaya, and Sediq tribes."
+            },
+            "flower": {
+                "title": "Flower and Butterfly Series",
+                "description": "The Flower and Butterfly Series consists of 3 sets, which were sold between 1995 and 1997. The coins’ obverse sides feature a variety of Taiwanese orchids, while the reverse sides show butterflies. These sets present the beauty of Taiwan’s natural environment."
+            },
+            "other": {
+                "title": "Other Edition",
+                "description": "The uncirculated New Taiwan dollar coin set was issued in 2015 to commemorate the 70th anniversary of victory in the war of resistance against Japan and the retrocession of Taiwan to the R.O.C. It comprises two (NT$50 and NT$20) coins engraved in 2015 with a combined face value of NT$70, implying the 70th anniversary of this important historical event."
+            }
+        },
+        "note": {
+            "title": "Commemorative Banknotes",
+            "description": "Commemorative banknotes are banknotes issued by the Central Bank in accordance with the “Regulations Governing the Issuance of Gold and Silver Coins and Commemorative Notes and Coins”. Two types of commemorative banknotes have been issued to date: the Polymer Banknote in Commemoration of the 50th Anniversary of the Issuance of the New Taiwan Dollar, and the Uncut Commemorative NT$100 Banknote Sheets in Souvenir Folders."
+        },
+        "coin": {
+            "title": "Commemorative Coins",
+            "nationalCelebration": {
+                "title": "Major National Ceremonies",
+                "description": "Since 1961, the Central Bank has been issuing commemorative coins showing major national ceremonies and important figures. On September 30, 2005, the amendments to the “Regulations Governing the Issuance of Gold and Silver Coins and Commemorative Notes and Coins” have been announced. Thenceforth, themes have been limited to important ceremonies or holidays of our country, major international events hosted by our country, or other events of special significance for our country."
+            },
+            "festival": {
+                "title": "Major Anniversaries",
+                "description": "Since 1961, the Central Bank has been issuing commemorative coins showing major national ceremonies and important figures. On September 30, 2005, the amendments to the “Regulations Governing the Issuance of Gold and Silver Coins and Commemorative Notes and Coins” have been announced. Thenceforth, themes have been limited to important ceremonies or holidays of our country, major international events hosted by our country, or other events of special significance for our country."
+            },
+            "internationalEvents": {
+                "title": "Important International Events",
+                "description": "Since 1961, the Central Bank has been issuing commemorative coins showing major national ceremonies and important figures. On September 30, 2005, the amendments to the “Regulations Governing the Issuance of Gold and Silver Coins and Commemorative Notes and Coins” have been announced. Thenceforth, themes have been limited to important ceremonies or holidays of our country, major international events hosted by our country, or other events of special significance for our country."
+            },
+            "specialMemorial": {
+                "title": "Special Commemorative Occasions",
+                "description": "Since 1961, the Central Bank has been issuing commemorative coins showing major national ceremonies and important figures. On September 30, 2005, the amendments to the “Regulations Governing the Issuance of Gold and Silver Coins and Commemorative Notes and Coins” have been announced. Thenceforth, themes have been limited to important ceremonies or holidays of our country, major international events hosted by our country, or other events of special significance for our country."
+            }
+        },
+        "medal": {
+            "title": "Commemorative Medals",
+            "nationalCelebration": {
+                "title": "Major National Ceremonies",
+                "description": "Commemorative medals, produced by the Central Mint at the request of the Central Bank, are intended to mark major national ceremonies, events, or figures. Medals are not denominated and cannot be used for media of exchange."
+            },
+            "festival": {
+                "title": "Major Anniversaries",
+                "description": "Commemorative medals, produced by the Central Mint at the request of the Central Bank, are intended to mark major national ceremonies, events, or figures. Medals are not denominated and cannot be used for media of exchange."
+            }
+        }
+    },
+    "cycle": {
+        "lifeCycle": "券幣的生命週期",
+        "lifetime": {
+            "title": "券幣的一生",
+            "disign": {
+                "title": "券幣設計",
+                "shortTitle": "設計",
+                "description": "「中央銀行法」第15條規定，我國券幣之面額、成分、形式及圖案，由中央銀行擬定，報請行政院核定之。"
+            },
+            "printCast": {
+                "title": "印製與鑄造",
+                "shortTitle": "印鑄",
+                "description": "我國的鈔券和硬幣，分別由中央銀行設立的中央印製廠及中央造幣廠印製與鑄造。發行業務則由中央銀行發行局辦理，並委託臺灣銀行經理新臺幣發行附隨業務。"
+            },
+            "issue": {
+                "title": "調撥與發行",
+                "shortTitleForIssue": "發行",
+                "shortTitleForCirculation": "流通",
+                "description1": "印製和鑄造完成的券幣，必須經過縝密檢驗步驟，確認無誤後，才能包裝、解繳到中央銀行，等待調撥與發行。",
+                "description2": "配合中央銀行發行新臺幣業務的需要，在臺灣銀行各主要營業單位均設有發庫，以便調撥、發行市面所需的券幣。",
+                "description3": "臺灣銀行各發庫的券幣，透過該行各營業單位及其他金融機構，送到社會大眾手中。"
+            },
+            "arrange": {
+                "title": "回籠與整理",
+                "shortTitle": "整理",
+                "description1": "為維持流通券幣的品質，民眾若持有污破損或舊版券幣，可向臺灣銀行辦理兌換。",
+                "description2": "回籠鈔券的整理分為機器及人工兩部分。其中機器整理部分，係交由臺灣銀行（發行部、臺中、高雄分行）及中央印製廠裝設的高速鈔券整理機整理；人工部分則由臺灣銀行的檢券員處理。"
+            },
+            "destroy": {
+                "title": "券幣銷毀",
+                "shortTitle": "銷毀",
+                "description": "高速鈔券整理機剔出的不適宜流通鈔券，於整理機上直接線上銷毀；其他人工整出的不適流通券幣，則由中央銀行會同相關單位代表監點無誤後，分送中央印製廠及中央造幣廠辦理銷毀事宜。"
+            }
+        },
+        "print": {
+            "title": "鈔票印製",
+            "centralPrintingPlant": {
+                "title": "中央印製廠",
+                "description1Html": "<p>對日抗戰前及抗戰初期，我國鈔券全數委由國外印製。民國29年夏，因海岸線幾全部遭日軍封鎖，政府當局為免鈔券供應中斷，乃於民國30年2月1日於重慶，由中央信託局籌備「印製鈔券事務處」（旋改稱為印製處），同時接收財政部重慶印製局，改稱「重慶印製廠」，負責鈔券、稅票、郵票等有價證券及政府文件之印製。</p>",
+                "description2Html": "<p>對日抗戰勝利，中央印製廠奉命於民國34年9月接收敵偽上海中央儲備銀行印刷廠，成立上海廠，並另於北平成立北平分廠。由於鈔券需要殷切，除大量趕印金圓券外，同時配合臺灣銀行印刷所印製臺幣。民國38年總管理處遷臺辦公，承印之鈔券有法幣、流通券、關金券、金圓券及臺幣等。</p><p>臺灣光復後，臺北廠立即配合趕印金圓券、銀元券及銀元兌換券。民國38年中央印製廠隨政府播遷來臺，設於三重。成立初期，因臺幣與新臺幣均由臺灣銀行負責發行，該行並設有印鈔工廠，故多委由該行印製。</p>",
+                "description3Html": "<p>民國50年6月中央銀行復業，9月接收臺灣銀行大理街印刷所（改稱萬華廠），印鈔工作始交由中央印製廠辦理。該廠嗣於民國53年間添購設備成立青潭廠。</p><p>民國61年成立配備有最新式印鈔機之安康廠，專司各類鈔券之印製；青潭廠則專責印製票據、公債、國庫券、郵票、匯票等有價證券及護照、身分證等政府重要文件。</p>",
+                "tip1": "金圓券",
+                "tip2": "銀元券"
+            },
+            "step": {
+                "title": "印製流程",
+                "design": {
+                    "tab": "A.鈔券設計",
+                    "title1": "01.底紋設計",
+                    "description1": "運用電腦印前設計系統，以鈔券設計特殊軟體繪製幾何圖形構成的花式網紋等圖案，進行拼製，成為鈔券的底紋。",
+                    "title2": "02.主圖設計",
+                    "description2": "鈔券中的人像、風景等主要圖案，早期必須借重技藝高超的雕刻師鐫刻於鋼板，現在則用雷射雕刻製版。"
+                },
+                "print": {
+                    "tab": "B.製版印刷",
+                    "title1": "01.平凸印版",
+                    "description1": "將抵紋大張圖案經由電腦平版製版，完成印製底紋專用的平凸印版。",
+                    "title2": "02.印刷凹版",
+                    "description2": "人像、風景等主圖經雷射雕刻於鋼板後，再經磨版機修整，翻製成樹脂凹版。再送到電鍍室，做表面噴銀與電鍍處理，製成鎳印版，經修整與鍍鉻等步驟，即製成印刷凹版。",
+                    "title3": "03.平凸版印刷",
+                    "description3": "印刷作業首先以多色平凸印機，一次將正背雙面底紋同時印刷完成。",
+                    "title4": "04.凹版印刷",
+                    "description4": "將抵紋大張圖案經由電腦平版製版，完成印製底紋專用的平凸印版。"
+                },
+                "complete": {
+                    "tab": "C.完成作業",
+                    "title1": "01.品管",
+                    "description1": "印刷過程中，各印製機組均有專人隨機檢查，以嚴格控制印刷與墨色品質。全部印刷作業完成後，再由全自動大張鈔券檢查機進行篩檢，以剃除印刷即非印刷原紙瑕疵壞票。",
+                    "title2": "02.號章印刷",
+                    "description2": "將大張鈔券檢查機篩檢後的全好票，送到號章機套印號碼和官章。",
+                    "title3": "03.裁切",
+                    "description3": "送入裝有電腦控制的裁切、點數、包封一貫室生產設備，只要把規定的尺寸調好，便可整齊劃一的完成一疊疊的鈔票。",
+                    "title4": "04.檢驗",
+                    "description4": "完成上列程序後的鈔券，再經人工與電子點數機複點並檢查，以剃除瑕疵鈔券。",
+                    "title5": "05.包封裝箱",
+                    "description5": "鈔券經檢驗品質與數量無誤後，最後以電腦進行條碼掃描、比對，始送進包封機中，用塑膠加熱包封，以防潮、防蛀和防竊，並依序裝箱，由駐衛警押送到中央銀行，準備發行流通。"
+                }
+            }
+        },
+        "cast": {
+            "title": "硬幣鑄造",
+            "centralPrintingPlant": {
+                "title": "中央印製廠",
+                "description1Html": "<p>民國9年政府為鑄造新台幣以建立統一幣制之基礎，乃積極籌建上海造幣廠；惟因財政困窘，工作屢有停頓。</p><p>國民政府成立後續行推動設廠計畫，民國17年正式改名中央造幣廠，隸屬財政部。民國22年政府實行費兩改元，並頒布銀本位幣鑄造條例，中央造幣廠乃奉令於當年3月1日正式開鑄，由中央銀行將中外各銀行登記之寶銀彙送改鑄新幣，再解送中央銀行發行。</p>",
+                "description2Html": "<p>民國24年11月4日正午府宣布採取法幣政策，乃停鑄銀本位幣。民國25年1月11日公布輔幣條例，明定輔幣由中央造幣廠鑄造、中央銀行發行。</p><p>抗戰時期隨政府遷往重慶設總辦事處，並先後於武昌、成都、桂林、蘭州及昆明成立分廠，接續生產任務。抗戰勝利後，分廠業務依次結束，民國35年返回上海原址復廠。</p><p>民國38年隨政府遷臺，設址於臺北市酒泉街，同時改隸中央銀行。當年9月與臺灣銀行訂約，開始鑄造新臺幣輔幣。民國65年遷建於桃園縣龜山鄉現址。</p>",
+                "description3Html": "<p>造幣廠主要任務為流通硬幣及紀念幣之鑄造、銷毀、回籠硬幣處理，以及承接印信、勳獎章鑄製等業務。並在不妨礙流通硬幣及紀念幣生產任務下，得依業務及市場需求，兼營紀念章、牌及其他各種金屬鑄品業務。</p>",
+                "pictureRemark1": "上海造幣廠",
+                "pictureRemark2": "中央造幣廠臺北廠時期",
+                "pictureRemark3": "輔幣",
+                "pictureRemark4": "造幣廠陳列室",
+                "pictureRemark5": "鑄造三大步驟：圖案設計、鎔軋成餅、印花衡計"
+            },
+            "step": {
+                "title": "鑄造流程",
+                "design": {
+                    "tab": "A.圖案設計",
+                    "title1": "01.塑盤",
+                    "description1": "硬幣的圖案，是由中央造幣廠設計，經中央銀行審核後，再依審定圖案，由雕刻師塑成石膏盤。",
+                    "title2": "02.縮刻",
+                    "description2": "石膏盤的圖案彙先翻製成樹脂盤，再使用縮刻機或電腦雕刻機，依所需尺寸縮刻成鋼模。鋼模經人工修整打模，稱為原始模。",
+                    "title3": "03.印花模",
+                    "description3": "原始模經過熱處理，再用壓模機反覆壓制，就形成鑄幣所需的印花模，最後經由硬化處理，即可印鑄各類硬幣。"
+                },
+                "smelt": {
+                    "tab": "B.鎔軋成餅",
+                    "title1": "01.熔煉",
+                    "description1": "首先將銅、鎳、鋁等硬幣的主要原料，依比例投入鎔爐熔解，再將金屬鎔液倒入保溫爐中，由拉鑄機與捲片機捲片機製成一噸重的鑄片片捲。",
+                    "title2": "02.軋片",
+                    "description2": "將片捲送進粗軋機反覆軋至一定厚度後，送入鐘罩式退火爐中退火並調整硬度，再經過精軋機軋出硬幣的標準厚度。",
+                    "title3": "03.沖餅",
+                    "description3": "將標準厚度的鑄片，導入沖餅機，沖製出固定直徑的幣餅；再用光邊機將邊緣滾光，形成一定弧度與直徑。",
+                    "title4": "04.清洗",
+                    "description4": "沖製後的幣餅，經退火、酸洗等一貫作業後，就形成鑄造流通硬幣所需的光餅。",
+                    "title5": "05.幣餅檢驗",
+                    "description5": "光餅送入自動檢餅機檢驗，篩選合格後，即可進入成幣工廠等待壓印。"
+                },
+                "complete": {
+                    "tab": "C.印花衡計",
+                    "title1": "01.印花",
+                    "description1": "光餅經印花機壓印出硬幣的正、背面，就製成我們看到的硬幣。",
+                    "title2": "02.成幣檢驗",
+                    "description2": "製成的硬幣再經由人工方式做雙面的檢驗。",
+                    "title3": "03.衡計包裝",
+                    "description3": "檢驗無誤的硬幣，進行計數包裝。",
+                    "title4": "04.入庫代繳",
+                    "description4": "包裝後的硬幣再放置到庫房中，準備繳到中央銀行。"
+                }
+            }
+        },
+        "cherish": {
+            "title": "愛惜鈔券",
+            "description": "鈔券及硬幣代表國家的形象，國民應養成愛惜及維護券幣整潔的好習慣。",
+            "tip1": "鈔券要整齊放在皮夾內",
+            "tip2": "不要摺疊、搓揉",
+            "tip3": "髒舊的券幣，請回存金融機構",
+            "tip4": "不要在鈔券上面塗抹、做記號",
+            "tip5": "將家中的硬幣拿出來使用，以響應環保，資源再利用"
+        }
+    },
+    "story": {
+        "currencyStory": "The Story of Money",
+        "whatIsCurrency": {
+            "title": "What is money?",
+            "descriptionHtml": "“<span class=\"text-profession text-lg\">Money</span>” is generally accepted by the public as a medium of transaction, a means to settle debts, and a store of value. Money comprises currency and bank deposits. Currency includes banknotes and coins. The currency of Taiwan is issued by the Central Bank of the Republic of China (Taiwan)."
+        },
+        "birth": {
+            "title": "Origin and Development of Money",
+            "description": "Money has developed in step with the diversification and increasing frequency of transactions. From a barter system, where one good was traded for another, to commodity money, a standardized currency system was developed where the nation mints coins and issues banknotes. Then the system evolved into a credit money system, which has since even advanced to the stage of using plastic and electronic forms of money.",
+            "dictionary": {
+                "title": "小辭典",
+                "tip1": "貝幣：",
+                "description1": "海貝因大小適中，堅固耐用，不易腐敗，便於攜帶和計數，而且是先民喜愛的裝飾品，因而成為沿海以漁獵維生的住民和中原地區的住民進行交換的重要物品。漢字也衍生出諸多與物品接受、交換及價值有關的字詞，均與「貝」字相關，例如：財、貴、賠、賺、貨……等。",
+                "tip2": "布幣：",
+                "description2": "春秋戰國時期，流通於三晉、兩周一帶，形制仿自耕作翻土的鏟子「鎛（布）」。早期的布幣為空首布，後逐漸演變出平首布、圓足布、三孔布……等種類。",
+                "tip3": "刀幣：",
+                "description3": "春秋戰國時期，流通於齊、燕國一帶，形制仿自漁獵刀具，可再細分為針首刀、尖首刀、元首刀……等種類。",
+                "tip4": "圜錢：",
+                "description4": "春秋戰國時期，流通於楚、秦一帶，形制仿自玉璧和紡輪，又分為圓孔和方孔兩種。因鑄造簡單，攜帶方便，於是成為後來通行貨幣的基本形制。",
+                "tip5": "紡輪：",
+                "description5": "以陶或石製成，多呈扁圓形，中有一孔。於中心孔上插入細竹棒，以固定紡線，組合成紡錘，紡成織布用的線。",
+                "tip6": "交子：",
+                "description6": "形式源於唐憲宗元和年間（西元806-820年）的飛錢，為異地匯兌票據或憑證的形式，當時經營飛錢業務的有政府機構，也有民間鋪戶。中國紙幣大規模流通則始於宋代，而紙幣被稱為「鈔」也是自宋代起始，當時曾有交子、會子、關子及引子等種類。交子最早出現於四川的富商大戶，至仁宗天聖年間設交子務，才統一由國家發行，並規定發行額與流通期限，使用範圍遍及全國。",
+                "tip7": "秤量貨幣：",
+                "description7": "形狀、成色及重量未標準化的金屬貨幣，必須鑑定成色並秤量重量，以確定其使用價值。",
+                "tip8": "電子貨幣：",
+                "description8": "係指以電子方式，將消費者預先支付的貨幣價值，儲存在所持有的電子裝置或產品上，例如：晶片卡、個人電腦（或伺服器）的硬碟或行動電話等可攜式裝置內，具有便利性。"
+            },
+            "commodity": {
+                "title": "Commodity Money",
+                "description1Html": "<p>Primitive humans led a self-sufficient economic life. With rising productivity and division of labor came bartering, which resolved the problem of supply and demand. Bartering made use of both natural commodities (such as beads, jade, leather, animal teeth and horns, and metal) and goods produced by humans (like grains, cloth, ornamental goods, and livestock).</p>",
+                "description2Html": "<p>With the diversification and increasing frequency of transactions, some commodities gradually began to play the role of medium of exchange. For example, ancient China used shells, and ancient Mesopotamia and Egypt widely used precious metals such as gold, silver, and bronze as currencies. Turtleshell and agate were also once used as currencies. However, it was difficult to control the sources of these natural commodities; their supply was limited and could not meet circulation demand. Thus, they were gradually replaced by man-made, metal-based currencies.</p>"
+            },
+            "metal": {
+                "title": "Metallic Money",
+                "description1Html": "<p>Early metal coins did not have a uniform appearance, so they had to be checked for purity and weight. As human civilization developed, more advanced monetary systems were put in place.</p><p>Bronze currencies of various shapes and forms prevailed during the Spring and Autumn Period and the Warring States Period. Apart from the Yi Bi Qian (“Ant Nose Money”, made of cowrie shells), most currencies at that time were shaped like and named after tools: for example, hollow-handled spade money (modeled on agriculture tools), knife-shaped money (fishing and hunting tools), and “round money” (spinning wheels or jade discs). All these currencies circulated regionally.</p>",
+                "description2Html": "<p>Between the Qin Dynasty (221-206 BCE) and the early years of Emperor Wu of Han’s reign (140-87 BCE), currency in China went through a period of standardization. When the First Emperor of Qin Dynasty defeated the other six warring states and unifed China, he also introduced a uniform currency called <span class=\"Italic\">Qin Banliang—a</span> round copper coin with a square hole in the center. This coin would serve as the prototype currency for future dynasties.<br/><br/>In the fifth year of Emperor Wu of Han’s reign (118 BCE), the <span class=\"Italic\">Qin Banliang</span> was replaced by the <span class=\"Italic\">Wuzhu</span> coin, which was more readily circulated. The <span class=\"Italic\">Wuzhu</span> coin weighed about 3.5 grams; its weight and composition were regulated by the central government and minted by commanderies. Private minting was strictly forbidden. The advent of standardized currencies consolidated the central government’s exclusive right to issue currency; it also heralded the end of the era of currency by weight.</p>",
+                "description3Html": "<p>The <span class=\"Italic\">Kaiyuan Tongbao</span>, issued in the fourth year of Tang Emperor Gaozu (621 CE) was a milestone in the history of Chinese currency development. The emergence of <span class=\"Italic\">Kaiyuan Tongbao</span> brought an end to the practice of naming a currency by its weight or value. Instead, more abstract names referring to emperors’ reigns were used and, henceforth, currencies were named <span class=\"Italic\">tongbao</span>, <span class=\"Italic\">yuanbao</span>, <span class=\"Italic\">zhongbao</span>, etc. The weight of each unit of the currencies was fixed at one <span class=\"Italic\">qian</span>, or mace. Units of currencies were also becoming more systematic and comprehensive.</p>",
+                "description4Html": "<p>Gold and silver were precious metal currencies used in both China and the West. The Jin Dynasty’s <span class=\"Italic\">Cheng-an Baohuo</span> was a pioneering standardized silver currency. The booming maritime trade during the Ming Dynasty (1368-1644 CE) brought a large amount of silver into China, and it gradually came to replace copper in coins. During the reign of Qing Emperor Xianfeng (1850-1861 CE), officials such as Lin Zexu suggested that the government mint silver dollars. Later, in the fifteenth year of Qing Emperor Guangxu’s reign (1889 CE), the government introduced minting machines from the UK to Guangzhou. This marked the beginning of the large-scale minting of silver coins in China. In 1933, China’s Nationalist government replaced the silver tael with the yuan in the new silver standard, and the history of the silver tael officially came to an end.</p>"
+            },
+            "credit": {
+                "title": "Credit Money",
+                "description1Html": "<p>“Credit money” is a form of currency whose value depends on the trust that users have in it, rather than its intrinsic value. Early on, both China and the West used cheap metal for large-amount legal tender coinage. Later on, as commerce developed, the disadvantages of metal currencies started to show: they were too heavy to carry in large quantities but too small in value to settle large transactions. Given these disadvantages, once paper and printing had been invented, it did not take long for paper currencies to follow. Paper currency first developed in the Northern Song Dynasty (960-1127 CE) in China. The jiaozi, a type of promissory note or certificate that allowed the stated value to be claimed in a different location, was issued by the government and circulated throughout the country. This same currency was also used in several subsequent dynasties.</p>",
+                "description2Html": "<p>The first bill of exchange in China was the Tang Dynasty’s <span class=\"Italic\">feiqian</span>. Large-scale exchange started in <span class=\"Italic\">piaohao</span>, or exchange shops, in the late Qing Dynasty (1644-1911 CE). Exchange shops were similar to modern banks in that they provided services such as money transfers, deposits, and loans.</p>",
+                "description3Html": "<p>The first national bank in the world to issue banknotes was the Bank of England in the 17th century. Influenced by the West, in the 31st year of Qing Emperor Guangxu’s reign (1905 CE), China set up the Ta-Ching Government Bank to issue exchange certificates. This marked the beginning of banknote issuance in China.</p>"
+            },
+            "plasticAndElectronic": {
+                "title": "Plastic Money and Electronic Money",
+                "description1Html": "<p>Since the 1960s, payment instruments such as debit cards (bank cards) and credit cards have gradually come into general use. Such cards are called “plastic money” because they can be used in place of cash. In fact, plastic money is just a medium of transaction and has no monetary value. In the 1980s, with the advance of information and communications technology, a further landmark was reached with the emergence of electronic money. Electronic money stores prepaid value in electronic form on the secure chip of a card (e.g. an electronic stored value card) or in the apps of a smartphone or a computer (e.g. electronic payment accounts or electronic wallets). The stored value is then transferred through a card reader or by online transmission.</p>"
+            }
+        },
+        "kaleidoscope": {
+            "title": "券幣萬花筒",
+            "description": "世界各國券幣除了面額代表的價值以外，也是一個國家政治、經濟、文化、歷史、地理的縮影。還有許多有關券幣形式、券幣制度及鈔券號碼等軼聞趣事，值得一窺堂奧。",
+            "furtherReading": {
+                "section1": "許義宗，《原色省銀行紙幣圖說•中央、中國、交通、農民銀行篇》，臺北市：許義宗，1994。",
+                "section2": "許義宗，《原色省銀行紙幣圖說•臺灣銀行及各省省銀行篇》，臺北市：許義宗，1995。",
+                "section3": "許義宗，《TOP中國紙幣》，臺北市：許義宗，1997。",
+                "section4": "許義宗，《臺灣貨幣圖說》，臺北市：許義宗，1999。",
+                "section5": "許義宗，《中國紙幣新論》，臺北市：許義宗，2002。",
+                "section6": "莊銘國，《典藏鈔票異數》，臺北市：五南，2007。",
+                "section7": "莊銘國、卓素娟，《遇見鈔票》，臺北市：五南，2009。",
+                "section8": "洪啟耀，《典藏世界鈔票藝術》，臺中市：臺中市民俗文物學會，2010。",
+                "section9": "銀劍玲等編，《你也可以當總統》，臺北市：國史館，2012。"
+            },
+            "tellStory": {
+                "title": "券幣說故事",
+                "section1": "革命維艱―辛亥革命鈔券",
+                "description1Html": "<p>清宣統3年（西元1911年）辛亥革命爆發，各省陸續對清政府宣告獨立，革命之勢風起雲湧。自辛亥革命起，迄中華民國成立，各省各自發行軍用鈔券，統稱「辛亥革命鈔券」。 國父孫中山先生在美國各地籌募起義經費，以中華革命軍籌餉局名義發行中華民國金幣券。</p>",
+                "section2": "維護外島金融―外島地名鈔券",
+                "description2Html": "<p>民國41至78年間，為安定軍民生活，配合軍政需要，臺灣銀行特於臺灣本島外，在金門、大陳（浙江省溫嶺縣）、馬祖發行外島地名券。鈔券正面加蓋限定使用地區，背面加蓋「金門」、「大陳」、「馬祖」等字樣。其中大陳地名券僅使用2年多，即因大陳島撤退，進行收兌，其未兌者全數作廢。惟自民國78年9月起，在考量發展外島經濟及便民的原則下，對「金門」、「馬祖」地名新臺幣券，改採「只收不發」措施。</p>",
+                "section3": "小券立大功的壹圓券、伍角券",
+                "description3Html": "<p>民國60年代初期，因石油危機導致金屬原料價格上漲，民眾囤積硬幣，使市面壹圓及伍角硬幣奇缺，造成買賣不便。央行乃重新發行壹圓及伍角紙幣，才得以迅速解決硬幣荒。</p>",
+                "section4": "美國壹分幣",
+                "description4Html": "<p>美國於西元1943年，曾經利用鋼鐵鑄造硬幣。因當時投入二次大戰，急需大量製造武器的原料，鑄造局為了節省銅料，於是改以鋼鐵鑄造當時的壹分硬幣。另有一說是珍珠港戰役造成許多美軍軍艦、戰機遭炸毀，鑄造局便利用殘骸，回收熔鍊，鑄成了壹分幣，也解決了銅材欠缺的困境。</p>"
+            },
+            "richMan": {
+                "title": "億萬富翁",
+                "section1": "通膨嚴重的金圓券",
+                "description1Html": "<p>中日戰爭期間，國民政府財政支出增加，法幣大量發行；抗戰勝利後，政府庫存黃金及外幣極度短缺，導致惡性通貨膨脹。國民政府於民國37年實施幣制改革，發行金圓券，並公告以法幣參佰萬圓（關金券壹圓折合法幣貳拾圓）折合金圓券壹圓，限於同年11月20日前無限制兌換，逾期不再收兌。但因未嚴格控制發行限額，短期間內，即鉅幅貶值，最大面額從壹佰圓不斷膨脹到伍佰萬圓，以致民眾拒用金圓券，最後終致失敗。 國父孫中山先生在美國各地籌募起義經費，以中華革命軍籌餉局名義發行中華民國金幣券。</p>",
+                "section2": "肆萬圓換壹圓",
+                "description2Html": "<p>民國38年大陸地區因國共戰爭，物價受到影響而日益上揚。臺灣本島雖使用臺幣（舊臺幣），但仍遭受法幣貶值影響，以致物價狂漲，發行量與日俱增，最高面額也從拾圓增發至壹萬圓，定額本票至壹佰萬圓。</p><p>臺灣省政府為避免臺幣發行失控，遂於民國38年6月公布「新臺幣發行辦法」，以臺幣肆萬圓兌換新臺幣壹圓，並限於同年12月31日前兌換。新臺幣發行後，物價亦因而調整，例如當時基隆市公車的票價，即從原先陸仟圓變成參角，幅度甚大。</p>",
+                "section3": "世界各國的億萬富翁",
+                "description3Html": "<p>當一國政經社會動盪不安時，常會發生可怕的通貨膨脹，商品一日多市，節節高漲，民生困苦異常。近百年來，德國、匈牙利、辛巴威等國均曾發生惡性通膨問題，以致須發行超高面額鈔券，以應付交易需求。</p><p>德國在一次世界大戰後(西元1921-1923年)，政府以印鈔方式支付戰債，造成舊馬克幣值劇貶，一片麵包的價格竟達壹仟億舊馬克，鈔券面額亦有達壹仟億之天文數字者。二十一世紀的辛巴威惡性通膨問題更加嚴重，曾發行面額壹佰兆的鈔券，蔚為當代奇觀。2015年6月辛巴威政府正式廢除辛巴威幣，改採美元、南非幣等外國貨幣，以解決長久以來的惡性通膨問題。</p>"
+            },
+            "anecdote": {
+                "title": "圖像趣聞",
+                "section1": "大陸時期的硬幣趣聞",
+                "description1Html": "<p>我國在大陸時期曾發行以袁世凱和國父像為正面圖案的壹圓銀幣。前者是北洋政府於民國3年依據「國幣條例」發行的壹圓銀幣；後者係民國16年北伐成功，國民政府定都南京，當時為籌劃統一貨幣，財政部飭令停止鑄造袁世凱頭像銀幣，改用國父側身像「開國紀念幣」舊模改鑄的壹圓銀幣。兩者成色、重量相同，併行流通。由於頭像有大小之分，因而民間俗稱圖案大的壹圓幣為「袁大頭」、圖案小的開國紀念幣為「孫小頭」。</p>",
+                "section2": "鈔券裡的青仔欉",
+                "description2Html": "<p>昭和12年（西元1937年）發行的臺灣銀行百圓券，其背面圖案為當時的經濟作物―檳榔樹，俗稱「青仔欉」。由於當時國民所得並不高，該鈔券面額大，看過的人不多，所以老一輩的人會用「沒見過青仔欉」來暗喻沒見過世面的人，或冒失的行為。</p>",
+                "section3": "券幣中的券幣",
+                "description3Html": "<p>以券幣做為鈔券或硬幣的主題圖案的設計概念，展示了券幣發行歷程的意涵。例如大陸時期發行的壹圓券及壹分券，以硬幣作為鈔券圖案的主題。民國88年為紀念新臺幣發行五十週年，以新臺幣發行歷史中最早的壹圓券，和華三版壹佰圓券的縮圖設計「新臺幣發行五十週年紀念性塑膠鈔券」，另採用已發行的各類硬幣的重疊圖案設計「新臺幣發行五十週年拾圓流通紀念幣」，見證新臺幣五十年的發行歷史。由於這兩款券幣的圖樣設計特殊，因此民間又有「鈔中鈔」和「幣中幣」的稱呼。</p>"
+            },
+            "wonder": {
+                "title": "鈔券奇觀",
+                "section1": "特殊版型",
+                "description1Html": "<p>我國從大陸時期起發行過的鈔券，有直式的也有橫式的。目前世界各國鈔券的形式，則大多採長方形，加上橫向圖案。但也有例外，譬如法國和挪威都曾印製正方形鈔券；德國與西班牙則曾出現過圓形的鈔券。</p>",
+                "section2": "特殊尺寸",
+                "description2Html": "<p>歷史上最大張的鈔券，是中國明代的「大明寶鈔」，尺寸為22x34公分。近代世界最大與最小尺寸的鈔券，都出現在俄羅斯，前者為西元1912年沙皇時代發行的彼得大帝500盧布券，尺寸為28.7x13公分。</p>",
+                "section3": "特殊尺寸",
+                "description3Html": "<p>最小尺寸的鈔券是西元1915年俄羅斯為紀念羅曼諾夫王朝而發行的戈比，頭像是沙皇尼古拉，尺寸為2.4x3公分。當時俄羅斯正和德國交戰（第一次世界大戰），俄國為節省資源、方便市面找零，於是發行形狀大小近似郵票的鈔券，以代替輔幣，應急使用。</p>",
+                "section4": "特殊材質",
+                "description4Html": "<p>自中國發行「交子」以來，鈔券多以紙質製成。但西元1921年第一次世界大戰後，德國曾因缺乏物資，而使用絲質為原料，發行地區性鈔券。近代各國為防止仿冒，塑膠也被運用在鈔券印製上，第一張塑膠鈔券即由澳大利亞發行，我國也曾於民國88年發行「新臺幣發行五十週年紀念性塑膠鈔券」。另外，在新疆和貝里斯則曾以布帛及金箔製成鈔券，極為特殊。</p>"
+            },
+            "specialNumber": {
+                "title": "特殊號碼",
+                "section1": "特殊號碼",
+                "description1Html": "<p>鈔券的特殊號碼，例如順號、連號、同號，或是有諧音的「6」、「8」，除了收藏界將它當作難得的收藏標的外，許多民眾也深感好奇，想一窺堂奧。有鑑於此，央行在民國100年發售「慶祝建國一百年壹佰圓券三開典藏版」時，特將其中特殊號碼鈔券抽出，交由臺灣銀行公開拍賣。另自民國100年起，印製完成的鈔券，也會抽出特殊號碼鈔券公開拍賣，以應民眾收藏需求，該所得收益將全數繳交國庫。</p>"
+            },
+            "community": {
+                "title": "社區貨幣",
+                "section1": "發行目的在於凝聚社區民眾向心力及繁榮在地經濟的社區貨幣",
+                "description1Html": "<p>社區貨幣大多只在社區內流通，用以凝聚社區民眾向心力，繁榮在地經濟。這些貨幣雖非國家發行，由於法律並未明文禁止民眾發行，因此常被用於社區作為交易媒介，如美國的「綺色佳工時」(Ithaca Hours)、「底特律加油」(Detroit Cheer)、智利的「服務支票」、英國的「布里克斯頓鎊」(Brixton Pound)以及我國的花幣等，名稱五花八門，性質類似消費抵用券。</p><p>近年來跟上行動App的開發潮流，我國號稱社區貨幣的「臺東金幣」、「高雄幣」及「嘉義幣」等以電子型式一一被開發，儲存在行動載具內，用於零售消費支付上，目的主要為推廣觀光，繁榮在地經濟，性質類似折價券或集點卡。該等貨幣與國幣不同，非屬法償貨幣，民眾容易產生混淆，茲說明於後。</p>",
+                "section2": "國際間的社區貨幣舉例",
+                "imageAlt2_1": "綺色佳工時",
+                "imageAlt2_2": "底特律加油",
+                "imageAlt2_3": "布里克斯頓鎊",
+                "description2_1Html": "<p>(一)  綺色佳工時<br>該券係1991年美國紐約州綺色佳鎮的某位平面藝術家所印製發行。1個單位「綺色佳工時」相當於10美元，可用以支付工資，消費者可持往該鎮有意願使用該券的商店消費。依規定 ，商店採用「綺色佳工時」所賺取的收入，必須換算成等值美元，並以美元納稅。該券發行的目的是希望將該鎮賺取的財富留在鎮上使用，用以刺激該鎮經濟。</p>",
+                "description2_2Html": "<p>(二)  底特律加油<br>2009年在金融海嘯衝擊下，市場需求萎縮，景氣低迷，為使底特律挺過金融海嘯的衝擊，3名在地商人於底特律城的12個地區主導發行「底特律加油)」社區貨幣，其運作方式為當地的個人、商店或企業加入此發行網路，消費者就可以從加入該網絡的銀行購買社區貨幣，通常會有一些折扣，比如花95美分可以買到1美元的「底特律加油」，可持往加入該網絡的商店進行消費。當時約有十多個商家加入，希望將經濟活動留在社區內，以提高居民收入。</p>",
+                "description2_3Html": "<p>(三)  布里克斯頓鎊<br>2009年世界金融危機引發經濟衰退，英國倫敦南部的布里克斯頓鎮發行了「布里克斯頓鎊」。負責管理該貨幣的同名組織指出，發行「布里克斯頓鎊」的目的在於支持在地經濟，提高當地居民收入，凝聚居民向心力，並表彰社區獨一無二的精神；此外，也可以減少因運輸貨品而產生的碳排放量，有益環保。該幣與英鎊的兌換比率為1：1，民眾可於當地的自動販賣機、商店或郵局購買；流通範圍為當地小商家，無法使用於大型連鎖企業。</p>",
+                "description2_4Html": "<p>(四)  服務支票<br>服務支票係由智利的一個非政府組織發起的互助活動。例如，幫鄰居修理插座可以獲得鄰居所開的時間支票，用以支付其他鄰居提供的修理水管或修剪花園等服務的費用，目的是讓經濟弱勢的居民得以用自己的專長換取所需的服務。為鼓勵大家多多使用，每張支票的使用期限只有一個月。</p>",
+                "section3": "我國的第一個社區貨幣-「花幣」",
+                "description3Html": "<p>新北市新店區的花園新城社區曾於民國94年自行印製了我國首見的社區貨幣「花幣」。該社區居民繳交入會費100元，即可獲得200元「花幣」，會員之間可以相互要求勞務交換，例如修草、澆花或曬棉被等等，並支付「花幣」為代價。該幣發行的目的在希望促進社區互動、互助、互惠，並繁榮在地經濟，但隨著發起人遷出社區而沒落。</p>",
+                "section4": "我國行動載具內的「社區貨幣」",
+                "description4_1Html": "<p>(一)  臺東金幣<br>臺東縣政府於民國106年建置在TTPush行動App上的「臺東金幣」，性質類似電子集點卡或兌換券。民眾上網填寫縣府問卷或參與縣府活動後，就有機會獲取數枚「臺東金幣」作為獎勵。每10枚「臺東金幣」等值1元新臺幣，可用以兌換該縣轄區內特約商家的商品或折價券，藉此鼓勵民眾參與公共事務。</p>",
+                "description4_2Html": "<p>(二)  高雄幣<br>高雄市大高雄觀光協會與民間機構共同推動的紅利積點App「幣多多」，於民國108年1月份試營運上線。民眾在該市轄區內特約商家消費，可獲取支付金額一定比例的回饋，該回饋就是高雄幣，存於App「幣多多」。該幣雖可折抵下次消費，用以推廣觀光，繁榮地方經濟，但隨時間經過，幣值會有所減損。</p>",
+                "description4_3Html": "<p>(三)  嘉義幣<br>係由嘉義縣政府推出。消費者可在生產階段透過行動App向特約生產者直接認購農水產品，並獲得紅利積點回饋，用以折抵下次消費，藉以繁榮在地經濟；並希望透過消除大量中間商剝銷，直接連結生產者與消費者，提高農漁民收入。該幣若未於期限內使用完畢，價值即會減少。消費者未用完的點數，由縣府收回，運用在地方公益或建設上。</p>",
+                "section5": "社區貨幣並非國家法定貨幣",
+                "description5Html": "<p>我國國家貨幣為「新臺幣」，根據「中央銀行法」第13條規定，由央行專責發行，對境內一切支付具有法償效力。而社區貨幣本質類似抵用券；前面提到的「臺東金幣」、「高雄幣」及「嘉義幣」都與社區貨幣類似，本質為折價券或集點卡，均係僅限在當地特約商家使用的行銷工具，其部分甚至規範有使用期限。這些幣都不是具有法償效力的國家貨幣；而由於規模很小，也並不影響新臺幣的發行與流通。</p>"
+            },
+            "cashless": {
+                "title": "無現金社會",
+                "descriptionHtml": "<p class=\"mt-4\">近年各類電子支付工具高速發展，因而掀起「無現金社會」的議題。但實際觀察國際重要國家的統計數據，卻發現除了瑞典等少數北歐國家以外，多數國家的實體貨幣發行額仍在持續成長，尚未出現被電子支付取代的跡象，我國也是如此，顯示現金將消失的說法被過分誇大。</p><p>但現金究竟具有那些優勢而得以屹立不搖？「無現金社會」若真的來臨，對社會大眾的可能影響又是什麼？</p>",
+                "section1": "現金的獨特優勢",
+                "description1Html": "<p>現金對零售業者而言，是相當安全、快速、便利的支付工具，且無須仰賴電子化設備或負擔額外的交易手續費；對使用者而言，持有現金即不用擔心會面臨無法被商家收受的窘境，同時可保障交易隱私，並有效控管預算，避免過度消費。</p><p>現金也兼具價值儲藏的功能，尤其在金融情勢不穩定或利率極低的情況下，許多民眾選擇持有更多現金，作為最安全的價值儲藏工具。</p>",
+                "section2": "無現金社會的風險",
+                "description2Html": "<p>沒有現金存在的社會，除可能造成老年人、幼童及視障人士等弱勢族群支付上的困難外，一般民眾進行支付時也須仰賴電子化設備，一旦系統故障或電力中斷，即無法正常進行交易，導致經濟活動全面停擺。日本北海道於2018年因地震造成電力中斷，即導致部分災民無法以電子支付進行結帳，而被迫暫時停止消費。</p><p>此外，電子支付系統若集中在少數幾家民營機構，可能有壟斷、倒閉，以及遭到駭客入侵的潛在風險，進而對使用者權益造成不利影響。</p>",
+                "summaryHtml": "<p>由此可知，現金與多元電子支付工具兼容並蓄，才能建立完備的支付生態體系。本行支持我國電子支付蓬勃發展，但現金對日常經濟活動仍然不可或缺，只要社會大眾仍有現金需求，本行就會充分供應，以確保經濟維持正常運作，「無現金社會」短期內將不會實現。</p>"
+            }
+        },
+        "master": {
+            "title": "券幣達人",
+            "question1": "什麼是鈔券凹版印刷？",
+            "answer1": "早在19世紀開始，印製鈔券時就已經大量使用凹印技術。印刷時先將油墨填充版面，使得凹槽內充滿油墨，以刮刀刮去多餘的油墨，再施以一定的壓力，使凹槽內的油墨轉印在紙張表面，造成油墨凸起的效果。除具有良好的觸感外，線條精細，更能表現防偽印刷的特殊質感，且便於社會大眾識別。",
+            "question2": "什麼是水印？",
+            "answer2": "水印是民眾熟悉的鈔券防偽特徵。其中多階調層次的水印圖案，是在抄紙過程中，當紙張表面厚薄及紙漿密度的差異夠大時，即形成濃淡分明、層次豐富的水印效果，如此稱為模鑄水印；而紙張較薄所形成透光率特別好的水印圖案，則稱為白水印。以新臺幣壹佰圓券為例，將鈔券迎光透視，可見高低明暗層次分明的模鑄水印「梅花」圖案及白水印「100」字樣。",
+            "question3": "安全線為什麼不在同一個位置？",
+            "answer3": "鈔券的窗式安全線是在造紙時同時嵌入，並在一定範圍內特意安排左右偏差，以免因位置相同，造成紙面凸起，不利後續印刷工序，並影響鈔券捆紮及自動櫃員機（ATM）吐鈔。",
+            "question4": "什麼是光影變化箔膜？",
+            "answer4": "光影變化箔膜是利用光學原理製造影像或色彩變化，透過不同角度可看到不同影像或圖形的色彩變化，具有防止影印、複製等防偽效果。",
+            "question5": "什麼是連續調微小字？",
+            "answer5": "各面額鈔券左上角面額數字處，係由大小、粗細不同的微小面額數字組成；整體觀之有濃淡階調層次，可以防止複製偽造。",
+            "question6": "什麼是正背面套印？",
+            "answer6": "正背面套印是鈔券防偽重要措施之一。方法是在正背面印版上設計不完整的圖紋（顏色或圖案），利用鈔券專用印刷機在鈔券正、背面同時印刷；當透光檢視鈔券時，可以看到正、背面的圖紋組合成一完整的圖案。",
+            "question7": "隱藏字是什麼(鈔券)？",
+            "answer7": "鈔券及硬幣在製作時，利用橫豎不同線條所產生的堆疊效果，使入射光角度將隱藏文字或圖案反射浮出的特有光學辨識功能。鈔券正面右下角處的條狀連續式花紋圖案，以15度角迎光檢視時，會浮現代表各種面額的阿拉伯數字；不同角度，有深淺兩種變化。",
+            "question8": "隱藏字是什麼(硬幣)？",
+            "answer8": "鈔券及硬幣在製作時，利用橫豎不同線條所產生的堆疊效果，使入射光角度將隱藏文字或圖案反射浮出的特有光學辨識功能。硬幣的隱藏字功能，除民國90年發行貳拾圓幣在正面下方橢圓形區內單向刻製發行年版西元年序之隱藏圖案外，之後發行的各種流通幣及紀念性流通幣，一律採用；將背面向左、右各轉15 度角，即可清楚看到各式圖案、文字或數字。",
+            "question9": "如何用浮凸點辨別券幣？",
+            "answer9": "現行流通鈔券及部分硬幣，均有浮凸點的設計。民國77年發行的華三版壹佰圓券，是新臺幣史上最早使用浮凸點的鈔券；目前所有流通鈔券，在正面左邊均有一凹版墨膜堆積凸起的條狀或圓形圖案，提供視障者辨識鈔券。硬幣也有浮凸點的設計，拾圓、貳拾圓及伍拾圓硬幣背面分別有1、2、3個圓凸點，讓視障者分辨不同面額的硬幣。"
+        },
+        "evolution": {
+            "title": "貨幣的演進",
+            "description": "現行貨幣制度是在央行與商業銀行共構的雙層金融體系下運作，並透過法規與監理，建立紮實的信任基礎。然而，隨數位化的不斷演進，民間也開始利用創新技術，發行自己的數位貨幣，試圖擺脫傳統架構，獲得市場青睞。由於這些貨幣並非被廣泛接受的支付工具，持有風險相當高，故各國多將其視為虛擬資產而非通貨。",
+            "virtual": {
+                "title": "虛擬通貨",
+                "descriptionHtml": "<p>虛擬通貨原指由私人開發者發行的數位貨幣，僅供特定社群網站的會員使用，可用於購買該網站所提供的商品與服務；因不具實體形式，而以虛擬方式呈現 (如遊戲點數)，故稱為「虛擬通貨」。2009年全球金融危機過後，比特幣(bitcoin)趁勢崛起，突破了使用範圍限制，除可當作一般交易工具使用外，並可與法償貨幣相互兌換，憑空創造出財富；不僅掀起民間發幣熱潮，乙太坊(ethereum)、瑞波幣(ripple)等各式各樣虛擬通貨陸續問世，也帶動創新技術的應用。這類全球性虛擬通貨運用密碼學原理識別用戶身分，或對交易內容進行加密，故又稱為密碼通貨或加密通貨(cryptocurrency)。</p>",
+                "section1": "比特幣(bitcoin)",
+                "description1Html": "<p>貨幣要廣為人接受與使用，必須具備公信力。實體通貨的信用來自內含價值或國家的背書，以及法律所賦予的法償效力；存款貨幣的信用來自銀行，跨行清算另透過具公信力的機構集中處理。比特幣創始於2009年，由化名「中本聰」(Satoshi Nakamoto)之人所提出，利用區塊鏈內容難以篡改的特性，建立互信基礎，並採用分散式帳本技術(Distributed Ledger Technology, DLT)，將交易紀錄公開、分散保管，再透過群體共同驗證，讓付款人與收款人可進行點對點(Peer to Peer, P2P)的資金移轉，無需中介機構，實現交易清算的去中心化(discentralized)。</p>",
+                "section2": "何謂區塊鏈(blockchain)",
+                "description2Html": "<p>「區塊」(block)是存放交易資訊的電子檔案，有制定的格式與容量，上面記載著近期已確認及等待確認之交易。經過一段時間，新區塊透過共識機制(如工作量證明或權益證明)產生，接替前一區塊的記帳功能，舊區塊則永久保存。將這些區塊按照時間順序串聯起來即成為「區塊鏈」，如同會計帳本。</p>",
+                "section3": "區塊鏈內容為何難以篡改",
+                "description3Html": "<p>首先，區塊上的每筆交易紀錄，經過層層雜湊(hash)運算，彙集成長度固定、像是亂數的雜湊值(hash value)，區塊內容如有絲毫更動，都會改變雜湊值，藉此可檢視是否被篡改。其次，每個區塊都會參照前一區塊的hash值，單獨更改某一區塊，會與其他區塊的記載不相吻合，而無法串接在區塊鏈上；如要一併更改分散各處的所有區塊，工程又過於浩大。第三，比特幣帳本是由分散全球各地的眾多節點(node)共同維護，實務上駭客所擁有的運算能力是無法與整體相抗衡的。</p>",
+                "section4": "虛擬通貨帶來的問題",
+                "description4Html": "<p>虛擬通貨非由政府發行，以自訂的單位計價，不具法償效力，持有者需自行承擔風險，卻依然有人願意接受，甚至參與投資，這可歸因於它們的特性與優勢，如供給量有限、可匿名交易、帳戶不會被凍結，以及跨境移轉便利等，但也因此易淪為投機炒作、非法交易的工具。加上被駭事件時有所聞，尤其從虛擬通貨衍生出的首次代幣發行(Initial Coin Offering, ICO)，常涉及金融詐騙、違法募資等問題，使得各國政府紛紛採取監理措施，將其納入規範，並設法保護消費者。</p>"
+            },
+            "stable": {
+                "title": "穩定幣",
+                "descriptionHtml": "<p>貨幣必須具備三大功能，包括交易的媒介、價值儲藏工具，及計價的單位。由於虛擬通貨價格波動性劇烈，持有者多基於投機目的，鮮少用於日常交易；況且暴漲暴跌，也不適合作為價值儲藏工具，或充當計價單位。為彌補這項弱點，虛擬通貨業者於是推出穩定幣，設法讓虛擬通貨的價值與法償貨幣產生連結(如提列發行準備)，藉此穩定價格，吸引更多人使用。</p>",
+                "section1": "臉書(facebook)規劃推出Libra",
+                "description1Html": "<p>目前跨境支付仍存在耗時、不便及成本高等缺點，因此部分金融機構及跨國大型科技公司(BigTechs)有意發行穩定幣，作為跨境移轉資金的媒介。社群媒體巨擘臉書(facebook)即規劃以法償貨幣(美元、英鎊、歐元及日圓等)為準備，打造一個安全、可擴展、價值穩定的虛擬通貨Libra，作為全球貨幣與金融基礎設施；並與多家企業、非營利組織、多邊組織及學術機構合作，成立獨立的非營利組織「Libra協會」，共同治理Libra。由於臉書擁有全球逾20億個用戶，Libra的影響不容小覷，恐衝擊金融生態，甚至挑戰法償貨幣的地位，因而引發各界議論，並帶動各國主管機關對於BigTechs涉入金融領域的重視。</p>"
+            },
+            "digit": {
+                "title": "央行數位通貨",
+                "descriptionHtml": "<p>虛擬通貨對金融監理帶來挑戰，同時也對金融創新帶來契機，除加速金融科技(fintech)的發展外，也衍生出實體通貨數位化的議題。</p><p>「央行數位通貨(CBDC)」尚無明確的定義，泛指由央行發行的新型態數位貨幣，有別於傳統的準備金。CBDC可按使用對象區分為批發型(wholesale)與零售型(retail)兩類；前者是作為金融機構跨行清算的工具，後者則是提供一般大眾使用。CBDC又可從存在形式區分為帳戶基礎(account-based)及代幣基礎(token-based)兩類；前者類似在央行開立個人存款帳戶，後者則是存放於電子錢包的央行代幣。此外，CBDC在設計上還有多種選擇，包括使用範圍、匿名程度、金額限制、營運時間，以及計息方式等，不同形式的CBDC對支付系統、貨幣政策及金融穩定有著不同的影響。</p>",
+                "section1": "主要國家研發CBDC的現況",
+                "description1Html": "<p>目前民眾日常交易所使用的貨幣有三種，即現金、銀行存款及電子貨幣，雖然都具有交易功能，但風險卻不同。持有現金是對央行的債權，持有存款是對銀行的債權，持有電子貨幣則是對電子支付機構的債權。目前電子貨幣的比重相對仍低，但隨著行動支付持續蓬勃發展，勢將引發對無現金社會的疑慮。如何讓民眾能繼續持有無風險性貨幣，是各國央行必須正視的問題。</p><p>瑞典央行鑒於國內現金支付的比例已低，為保障消費者權益、避免電子支付遭私人壟斷，而著手開發可供一般大眾使用的電子克朗(e-krona)。中國大陸幅員廣闊，行動支付十分發達，為降低實體通貨發行與調撥成本，中國人民銀行正積極研擬以法定數位貨幣取代現金的可行方式。加拿大、新加坡、日本及歐元區央行為提升現行支付系統的安全與效率，研擬發行批發型CBDC，並應用DLT於跨行交易清算上，已展開相關試驗。本行則是成立CBDC研究計畫專案小組，針對相關議題，進行研究與測試。</p><p>發行CBDC涉及諸多層面的問題，相關技術仍處於發展階段。為避免潛在的衝擊，現階段各國央行對此多抱持審慎態度，尚無任何具體推出的時間表，需待各項問題一一獲得解決，CBDC方有可能成為零售支付的最後一哩路。</p>"
+            }
+        }
+    },
+    "history": {
+        "ourCountry": "History of Banknotes and Coins",
+        "develop": {
+            "title": "Development of Banknotes and Coins in Taiwan",
+            "description": "From the initial use of bartering to the use of currencies, modes of transaction went through changes in Taiwan during the periods of Dutch and Spanish rule, Kingdom of Dongning and Qing Dynasty rule, Japanese Colonial rule, and Republic of China (Taiwan). Later on, a central banking system was introduced, which established a comprehensive mechanism for issuing banknotes and coins.",
+            "dictionary": {
+                "title": "小辭典",
+                "tip1": "「里爾」與「盾」：",
+                "description1": "均為銀幣的計量單位，出現於十四世紀中葉的西班牙與十六世紀的荷蘭，但荷蘭仍多採用西班牙銀幣做為交易的數量單位。貨幣依據大小可分為六種形制，有其制定的面額與重量。十七世紀至十八世紀中葉以前，銀幣的生產方式多採用手工搥打，因此形狀上多不規則，並於正、背面印有花紋。例如西班牙銀幣即印有十字，並有8、4、2、1等面額數字。",
+                "tip2": "銀兩：",
+                "description2": "中國的銀兩大體上分為四種型態，以十進位，最大的重五十兩，稱為「元寶」，其次為十兩及一至五兩，與一兩以下的碎銀。官方制定的含銀量為935.374‰，參雜鉛、鋅或錫等成分。",
+                "tip3": "番銀：",
+                "description3": "又稱佛頭銀或花欄錢，清代通行中國東南地區的外國銀幣，大致分為花邊錢、人頭、雙柱以及劍馬等四類。前三者屬於西班牙銀幣，以里爾（Real）計之；而「劍馬」則屬荷蘭的銀幣，以盾（Guilder）計之。番銀被市場的接受程度高，民間甚至有「只收番銀不收紋銀」的說法。另有仿番銀型式的銀餅，如軍餉銀餅、老公銀餅、臺灣銀餅、如意銀餅等。",
+                "tip4": "永曆通寶：",
+                "description4": "明永曆年間，最初於雲貴地區鑄造；鄭氏父子佔領臺灣後續鑄，甚至遠赴日本鑄造。直至清代中葉以降，仍有流通於臺灣與中國東南沿海的紀錄。",
+                "tip5": "戴潮春事件：",
+                "description5": "戴潮春，彰化四張犁莊人，集天地會餘黨組織「八卦會」，以團練為名，隨官府捕盜；後因聲勢浩大，為官府注目而遭查辦。清同治元年（西元1862年）4月，因該會洪姓總理遭巡視彰化的臺灣道道臺孔昭慈處死，此舉使戴潮春與會眾義憤填膺，正式起事。當時大甲以南，嘉義以北紛紛響應。次年臺灣道丁曰健來臺平定亂事，戴潮春被殺，11月官兵圍剿餘黨，事件才告結束，為臺灣歷時最久的民變。",
+                "tip6": "臺南官銀票：",
+                "description6": "清光緒21年（西元1895年）清廷戰敗，簽訂「馬關條約」割讓臺灣、澎湖。當時，臺灣人抗拒日本接收，自立「臺灣民主國」，推舉唐景崧為總統守臺北，劉永福守臺南，丘逢甲守臺中。日軍進攻，臺北城率先失守，劉永福繼續抗日，以郊商陳銘鏘為總辦，並得南洋大臣張之洞支持，在外國買辦保證下發行銀票救急，並聲明擊退日軍後，將加倍奉還，其間僅維持148天，總計發行八十萬圓。臺南官銀票又可分「護理臺南府正堂忠」及「官銀錢票總局」兩種；前者簡稱「臺南府」，後者簡稱「總局」。",
+                "tip7": "臺灣銀行：",
+                "description7": "明治30年（西元1897年）4月1日，日本政府以法律第38號公布「臺灣銀行法」，決定在臺灣設立臺灣銀行，並宣示設立宗旨。明治32年9月26日，株式會社臺灣銀行在臺北正式開業（今延平南路中山堂附近），明治37年遷址至今總行後段的日式風格行舍；昭和12年擴建後，正門改為面向重慶南路。"
+            },
+            "furtherReading": {
+                "section1": "黄典權，李冕世〈清代臺灣地區貨幣制度之研究〉，《成大歷史學報》（臺南市：國立成功大學歷史研究所、歷史學系），第三期，（1976年7月）。",
+                "section2": "王國璠，《臺灣抗日史（甲篇）》，臺北市：文獻委員會，1981。",
+                "section3": "許義宗，《臺灣貨幣圖說》，臺北市：許義宗，1999。",
+                "section4": "許雪姬，《臺灣歷史辭典》，臺北市：遠流，2003。",
+                "section5": "簡義雄，《臺灣錢淹腳目》，臺北市：健蓁，2006。",
+                "section6": "陳國棟，「飛鴻雪泥－荷蘭時代到清朝統治前期的臺灣貨幣」，臺北市：臺灣博物館，2009。",
+                "learningSite": "歷史文化學習網",
+                "learningSiteTitle": "歷史文化學習網"
+            },
+            "netherlandsAndSpain": {
+                "title": "Dutch and Spanish Rule",
+                "section1": "Dutch and Spanish Rule (1624–1662)",
+                "description1_1Html": "<p>Lying at the trading crossroads of China, Japan, and Southeast Asia, Taiwan was a foothold for pirates, smugglers, and seasonal fishermen. In the 17th century, Taiwan became an important East Asian trading post for the Netherlands and Spain, and with this trade came also a huge influx of silver into Taiwan.</p>",
+                "description1_2Html": "<p>Dutch and Spanish silver coins were denominated in Guilder and Real, respectively. The inflow of silver and interventions by trading partners both had an impact on the original bartering system of the Taiwanese people. Up until the Ming and Qing Dynasties, silver was still the main currency in Taiwan.</p>"
+            },
+            "qing": {
+                "title": "Kingdom of Dongning and Qing Dynasty Rule",
+                "section1": "Kingdom of Dongning and Qing Dynasty Rule (1662–1896)",
+                "description1_1Html": "<p>Under the influence of Dutch and Spanish rule, the main currency in Taiwan during the Kingdom of Tungning Period and Qing Dynasty rule was still silver. Chinese silver taels and foreign silver coins were both in circulation, although the latter tended to be used for trade. Chinese copper coins, such as the <span class=\"Italic\">Yongli Tongbao</span> issued by the Kingdom of Tungning, were also in circulation in Taiwan and could be exchanged for silver.</p>",
+                "description1_2Html": "<p>During Qing Dynasty rule, paper money was twice issued in Taiwan. The first time was in the 1860s, when, in order to crush a major rebellion (the Tai Chao-chuen Incident), the Tainan Defense Headquarters issued the Taiwan Defense Headquarters Note and raised 40,000 silver yuan from the local gentry. The second time was in 1895, when the Republic of Formosa was resisting the Japanese takeover under the Treaty of Shimonoseki. The Republic’s second president, Liu Yung-fu, issued the Tainan Government Silver Certificates to raise money for defence. The certificates came in three denominations: one, five, and ten dayuan.</p>"
+            },
+            "japan": {
+                "title": "Japanese Colonial Period",
+                "section1": "Japanese Colonial Period (1895–1945)",
+                "description1_1Html": "<p>The Qing Court did not strictly regulate currencies in circulation, so the currency system was chaotic. When Japan took over Taiwan in 1895, it promulgated the “Bank of Taiwan Act” (1897) and established the Bank of Taiwan Limited (1899). The bank was responsible for reorganizing the currency system, issuing banknotes, and stabilizing prices. It played a very important role in the economic development of the period.</p>",
+                "description1_2Html": "<p>The Bank of Taiwan Limited followed the existing silver standard and issued silver certificates that could be exchanged for silver coins. It was only in the 37th year of Emperor Meiji’s reign (1904) that Taiwan followed the Japanese authority in adopting the gold standard and issuing gold certificates. During the reigns of Emperors Taisho and Showa the new version of banknotes were issued sequentially. Banknotes in circulation in Taiwan during the Japanese Colonial Period were all called “Bank of Taiwan notes”.</p>"
+            },
+            "roc": {
+                "title": "Republic of China (Taiwan) Era",
+                "section1": "Republic of China (Taiwan) Era (1945–Present Day)",
+                "description1_1Html": "<p>After the retrocession of Taiwan to the Republic of China in 1945, the Taiwan Provincial Governor’s Office took over the Bank of Taiwan Limited and reorganized it into the Bank of Taiwan (BOT). On May 22, 1946, the BOT issued the Taiwan dollar (now referred to as the Old Taiwan dollar).<br/><br/>                                           On June 15, 1949, the Taiwan Provincial Government promulgated the “Regulations Governing the Issuance of the New Taiwan Dollar”, started a currency reform, and issued the New Taiwan dollar notes and coins. In July 1961, the Central Bank of the Republic of China resumed its operations in Taiwan. In accordance with the regulations, the BOT was entrusted with the task of issuing currency, and the New Taiwan dollar became the <span class=\"Italic\">de facto</span> national currency.<br/><br/> In 2000, in accordance with the “Regulations Governing the Issuance of New Taiwan Dollar by the Central Bank of the Republic of China (Taiwan)”, the Central Bank began issuing the New Taiwan dollar. The bank of issuance as inscribed on the banknotes was changed to the Central Bank, and the New Taiwan dollar officially became the national currency.</p>"
+            }
+        },
+        "introduce": {
+            "title": "Banknotes and Coins of the Country",
+            "furtherReading": {
+                "section1": "中央印製廠，《中央印製廠建廠六十週年紀念》，新北市：中央印製廠，2001。",
+                "section2": "中央造幣廠，《中央造幣廠開鑄五十週年紀念特刊》，桃園縣：中央造幣廠，1983。",
+                "section3": "中央造幣廠，《中央造幣廠開鑄六十週年紀念特刊》，桃園縣：中央造幣廠，1993。",
+                "section4": "中央造幣廠，《中華民國中央造幣廠幣章圖鑑》，桃園縣：中央造幣廠，1992。",
+                "section5": "中央造幣廠開鑄七十週年慶祝活動籌備委員會，《中央造幣廠幣章圖鑑（82-92）》，桃園縣：中央造幣廠，2003。",
+                "section6": "中央造幣廠幣章圖鑑籌備委員會，《中央造幣廠幣章圖鑑（92-98）》，桃園縣：中央造幣廠，2009。",
+                "section7": "中央銀行，《中華民國中央銀行之制度與功能》，臺北市：中央銀行，1991。",
+                "section8": "中央銀行，《中華民國中央銀行之制度與功能（92年版）》，臺北市：中央銀行，2003。",
+                "section9": "中央銀行發行局，《臺幣•新臺幣圖鑑》，臺北市：中央銀行發行局，1998。",
+                "section10": "許義宗，《TOP中國紙幣》，臺北市：許義宗，1997。",
+                "section11": "許義宗，《中國紙幣新論》，臺北市：許義宗，2002。",
+                "section12": "許義宗，《原色省銀行紙幣圖說•中央、中國、交通、農民銀行篇》，臺北市：許義宗，1994。",
+                "section13": "許義宗，《原色省銀行紙幣圖說•臺灣銀行及各省省銀行篇》，臺北市：許義宗，1995。",
+                "section14": "許義宗，《臺灣貨幣圖說》，臺北市：許義宗，1999。",
+                "section15": "臺灣銀行，《「臺灣銀行五十年」專輯》，臺北市：臺灣銀行，1996。",
+                "section16": "臺灣銀行，《臺灣銀行六十年》，臺北市：臺灣銀行，2006。",
+                "learningSite1": "中央印製廠 http://www.cepp.gov.tw/internet/cn/index.aspx",
+                "learningSite1Title": "中央印製廠",
+                "learningSite2": "中央造幣廠 http://www.cmc.gov.tw/index.jsp",
+                "learningSite2Title": "中央造幣廠"
+            },
+            "mainland": {
+                "title": "Mainland China Period",
+                "periodHtml": "<p><br>1911 <br>　| <br>1949</p>",
+                "descriptionHtml": "<p>The first few years of the Republic of China, with the country still divided by warlords, was the most chaotic period in the country’s currency history. On the one hand, traditional currencies and new currencies were both in use; on the other hand, warlords minted a large number of low-quality coins and issued a torrent of uncashable banknotes. At the same time, foreign banks took the opportunity to expand the issuance of their banknotes. This chaos adversely affected national finances and ordinary people’s livelihoods.<br>            The Central Bank of China (CBC) was established in Guangzhou in 1924. At first it was a regional bank, but in 1928 it was declared the national bank and the Nationalist Government gave it the exclusive right to issue national currency. In 1933, the government promulgated “the Silver Standard Coin Coinage Act” and also replaced the silver tael with the yuan in the new silver standard. Thus the history of the silver tael, which had dominated Chinese currency for almost a thousand years, officially came to an end.<br>               The headquarters of the CBC was officially set up in Shanghai in 1928. While the CBC was in operation in China, it issued several kinds of national currency, such as the Customs Gold Unit note, the Legal Tender note, the Gold Yuan note, the Silver Dollar Note, the Silver Standard coin, and fractional coins. A brief introduction can be found below.</p>",
+                "customs": {
+                    "title": "Customs Gold Unit Notes",
+                    "description": "Customs Gold Unit (CGU) notes were issued by the Central Bank of China in May 1931 and used for customs payments. In 1942, in order to meet the demand for banknotes in the market, CGU notes were put into general circulation at an exchange rate of 1 CGU to 20-yuan Legal Tender note. Initially, only a limited number of CGU notes were in circulation, but as the Legal Tender note lost value rapidly, the government started to issue a large number of CGU notes. On August 20, 1948, the government promulgated the “Regulations Governing the Handling of Finance and Economy in Emergency” and started another currency reform. The Legal Tender note and the Customs Gold Unit were both abolished and Gold Yuan notes were issued.",
+                    "detail": {
+                        "title": "大陸時期 - 關金券",
+                        "contentHtml": "<p>關金券全稱「海關金單位兌換券」。民國18年世界銀價暴跌，以海關稅收為抵押之外債，係以黃金為計算標準，但關稅稽徵係以白銀為單位，致關稅收入無形削減，國家財政損失頗鉅。國民政府乃於民國19年2月1日起，將海關進口稅改以價值較穩定之海關金單位（Customs Gold Unit ）計課，以避免銀價跌落所引起之損失。每一關金單位值純金60.1866公毫；民國20年5月中央銀行發行關金兌換券，專為繳納關稅之用。</p><p>海關金單位元原本僅為稽徵計算單位，並非真正貨幣。但自財政部聲明商人完稅，除以銀洋、英鎊或美元向海關兌換金單位外，並可向中央銀行直接購買，以防匯價漲落，且得向中央銀行開立關金活期存款戶。民國31年財政部為供應市面鈔券需要，乃商請中央銀行將印存之關金券，酌量發行，並將關金之純金量，改為每一關金含純金88.8671公毫，按當時匯價套算，折合法幣貳拾圓；並由財政部分別通知中國、交通、農民銀行，對於人民以法幣兌換關金或以關金兌換法幣者，均應按此規定折合率，儘量予以兌換。關金從而進入市場，成為實際支付工具，與法幣無異。</p><p>初時之關金券流通數量有限，後因法幣快速貶值，政府亦發行高面額關金券，最高面額之關金券為關金貳拾伍萬圓。民國37年8月施行幣制改革，發行金圓券，關金券與法幣同時停止流通，並於同年11月20日停止兌換，逾期不再收兌。</p>",
+                        "imgName": "上海印製廠大門"
+                    }
+                },
+                "legal": {
+                    "title": "Legal Tender Note",
+                    "description": "In 1928, the Nationalist government declared the Central Bank the national bank, pursuant to “the Central Bank of China Act (1924)”. A currency reform was announced in 1935, and the government took the country off the silver standard and issued the Legal Tender note instead. Banknotes issued by the Central Bank, the Bank of China, and the Bank of Communications were all legal tender at this point; later on, banknotes issued by the Farmers Bank of China would also be included. After the success of the Legal Tender note, in June 1942 the government promulgated the “Regulations Governing the Unification of the Issuance of the Legal Tender Note”, and the Central Bank became the sole issuer of the currency; thus, the goal of unifying the currency system was complete, and the stability of economy was maintained during the Sino-Japanese War. However, when the war against Japan ended in 1945, the Chinese Civil War resumed and the Legal Tender note quickly lost value. In August 1948, the currency system went through another reform and Gold Yuan notes were issued to replace the Legal Tender notes.",
+                    "detail": {
+                        "title": "大陸時期 - 法幣",
+                        "contentHtml": "<p>民國18年美國發生金融危機，造成歷史上首次全球性經濟大恐慌，各國為挽救金融及經濟雙重危機，乃重新釐定貨幣政策，以紓解財經困窘。由於我國以銀為本位，無法任意貶值，以致輸出困難，入超日甚，白銀流出甚鉅，嚴重影響工商事業與國民經濟。</p><p>民國22年3月8日國民政府頒布「銀本位幣鑄造條例」，規定銀本位幣定名為「元」；同年4月6日實施「廢兩改元」，所有公私交易須一律改用銀幣，不得再用銀兩，否則無效。</p><p>民國24年11月3日財政部公告「施行法幣布告」，宣布改革幣制，放棄銀本位，改行法幣制度。以中央、中國、交通三家銀行發行之鈔券為法幣，所有完糧納稅及公司款項收付，概以法幣為限；其後中國農民銀行發行之鈔券亦納入法幣中。</p><p>法幣政策實施後，民國31年6月政府公布「統一發行辦法」，將中央、中國、交通、農民四家銀行之發行法幣權，集中由中央銀行統一辦理。抗戰期間，因法幣政策的成功，雖然財政極為困窘，但仍維持後方經濟之安定。</p><p>然而抗戰勝利後，因受長期戰爭影響，幣值持續貶低，復原重建需求驟增、物資缺乏、物價暴漲，致法幣無法維持貨幣功能，遂於民國37年8月改革幣制，改發行金圓券。</p>"
+                    }
+                },
+                "gold": {
+                    "title": "Gold Yuan Notes",
+                    "description": "In August 1948, the Legal Tender notes and Customs Gold Unit notes lost value quickly, sending prices spiralling ever higher and destabilizing society. As a result, the Nationalist R.O.C. government reformed the currency system and issued the Gold Yuan notes. According to the “Regulations Governing the Issuance of the Gold Yuan Note”, three-million-yuan in Legal Tender note were equivalent to one-Gold Yuan (1 Customs Gold Unit was worth 20-yuan in Legal Tender note). This exchange rate made people much poorer and the currency did not win over people’s trust. Later on, as the Chinese Civil War intensified, the Nationalist R.O.C. government was spending even more and the Gold Yuan rapidly lost value. In July 1949, the R.O.C. government carried out another currency reform and issued the Silver Dollar notes. People holding Gold Yuan notes were ordered to exchange them within a fixed period, and notes that were not changed would be worthless.",
+                    "detail": {
+                        "title": "大陸時期 - 金圓券",
+                        "contentHtml": "<p>民國37年8月，由於法幣及關金券快速貶值，物價高漲，社會動盪，造成人心不安，國民政府頒布「財政經濟緊急處理辦法」，改革幣制，發行金圓券。依「金圓券發行辦法」，經公告以法幣參佰萬圓（關金券壹圓折合法幣貳拾圓）折合金圓券壹圓，限於民國37年11月20日以前無限制兌換，逾期不再收兌。</p><p>金圓券之發行，使人民財產嚴重縮水，難以獲得信賴；加以國共戰爭不斷擴大，國民政府軍用浩繁，財源短絀，金圓券重蹈法幣覆轍，急遽貶值。民國38年7月，國民政府再行幣制改革，發行銀元券，規定金圓券伍億圓兌換銀元券壹圓，限於同年9月1日前無限制兌換，逾期作廢，不再收兌。</p>"
+                    }
+                },
+                "silver": {
+                    "title": "Silver Dollar Notes",
+                    "description": "<p>In 1949, the currency system was reformed again and the Silver Dollar note was issued on July 2, 1949, in line with the “Temporary Provisions Effective During the Period of National Mobilization for Suppression of the Communist Rebellion” and the “Regulations Governing the Issuance of the Silver Dollar and the Silver Dollar Exchange Certificate”. The Silver Dollar was a unit of national currency, with one Silver Dollar officially worth 500 million Gold Yuans.</p><p>The currency regulations then ceased to apply after the repeal of the “Temporary Provisions Effective During the Period of National Mobilization for Suppression of the Communist Rebellion”. On August 5, 1992, the president of R.O.C. (Taiwan) officially announced the abolition of the regulations.</p>",
+                    "detail": {
+                        "title": "大陸時期 - 銀元券",
+                        "contentHtml": "<p>金圓券之壽命與上海撤退同時告一段落。民國38年7月2日依「動員戡亂時期臨時條款」之規定，制定「銀元及銀元兌換券發行辦法」，再行幣制改革，發行銀元券作為國幣，經公告以金圓券伍億圓兌換銀元券壹圓，並限於同年9月1日前無限制兌換，逾期不再收兌。惟當時臺灣地區係以新臺幣為流通貨幣，因此銀元券從未在臺流通。政府遷臺後，依行政院民國39年6月28日台（39）財字第3114號令訂定「改用新臺幣記帳辦法」之規定，以銀元壹圓折合新臺幣參圓。另依民國40年1月5日財政部公布之「國家行局大陸撤退前各項債務暫緩支付電」規定，暫緩償付，俟光復後另訂處理辦法。目前「銀元及銀元兌換券發行辦法」因「動員戡亂時期臨時條款」廢止，而於民國81年8月5日由總統明令廢止；關於銀元及銀元兌換券之收兌，則依「臺灣地區與大陸地區人民關係條例」規定，於國家統一前不予處理。</p>"
+                    }
+                },
+                "standard": {
+                    "title": "Silver Standard Coins",
+                    "description": "In 1914, the Beiyang Government promulgated the “National Currency Act” and the “Enforcement Rules of the National Currency Act”, stipulating that the government had the exclusive right to mint and issue the national currency. In 1933, the Nationalist government promulgated “the Silver Standard Coin Coinage Act” and replaced the silver tael with the yuan in the new silver standard. At the same time, the Silver Standard Coin was issued. In 1935, the government announced the Legal Tender note policy, and the minting of the Silver Standard Coin ended."
+                },
+                "support": {
+                    "title": "Fractional Coins",
+                    "description": "In 1935, the government announced the Legal Tender note policy, and the minting of the Silver Standard Coin ended. In February 1936, the Central Bank issued fractional coins to address the chaos in fractional coins. In the initial stages, nickel coins were denominated in 20-cent, 10-cent, and 5-cent pieces, with copper coins denominated in 1-cent and 1/2-cent."
+                },
+                "other": {
+                    "title": "Other Banknotes",
+                    "description": "In the early years of the Republic of China, the country was still divided by warlords. Provincial and county banks were controlled by these warlords and issued a variety of military notes or banknotes to sustain their military spending. With the establishment of the Central Bank, the currency was reformed and the Legal Tender note policy was announced, which unified the central banking system. However, during the Sino-Japanese War and the Chinese Civil War, many different interim notes, Silver Dollar fractional notes, Silver Dollar exchange certificates, and promissory notes continued to be issued. For example, during the Japanese invasion of China, Japan propped up a number of puppet regimes in order to undermine the central government, and these regimes also issued their own banknotes.",
+                    "detail": {
+                        "title": "大陸時期 - 其他鈔券",
+                        "contentHtml": "<p>清代雖已建立中央銀行的制度（即大清戶部銀行），然而民國初年軍閥割據，各省、縣或官銀錢號受其勢力影響，省銀行林立，並發行各種軍需券或鈔券以供給軍費。民國13年中央銀行成立，民國17年起明定其為國家銀行，並實施幣制改革，制定法幣政策，我國中央銀行的體制因而確立。</p><p>但抗戰與國共內戰期間，我國長時間處於內憂外患，中央銀行發行的鈔券，除關金券、法幣、金圓券與銀元券之外，尚有各式臨時流通券、銀元輔幣券、銀元兌換券、本票的發行。除此之外，日本在「九一八事變」後，亦於國內先後扶植部分傀儡政權與中央抗衡，並陸續發行紙幣。</p>"
+                    }
+                }
+            },
+            "japan": {
+                "title": "日據時期",
+                "periodHtml": "<p>明治28年<br>1895 <br>　| <br>昭和20年<br>1945</p>",
+                "descriptionHtml": "<p>「臺灣銀行券」為臺灣日據時期通行之貨幣，由臺灣銀行發行。明治時期之初，暫行臺灣既有之銀本位制，發行「銀券」，後採與日本本土相同之金本位制度，發行「金券」。大正與昭和時期，由於臺灣總督府推動政策改革，以及印刷與製紙技術進步，故陸續進行鈔券改版。</p>",
+                "meiji": {
+                    "title": "明治時期",
+                    "description": "明治32年（西元1899年），日本設立之株式會社臺灣銀行暫行臺灣既有之銀本位制度，發行可與銀幣兌換之「銀券」；明治37年（西元1904年）鑑於銀價不穩，物價波動，且銀券未能在市場上流暢通行，故改採與日本本土相同之金本位制度，發行「金券」。"
+                },
+                "taisho": {
+                    "title": "大正時期",
+                    "description": "大正時期，臺灣總督府確立之「農業臺灣，工業日本」政策頗具成效，而株式會社臺灣銀行發行之鈔券亦自大正3年（西元1914年）起，版面由直式改為橫式，並改印「臺灣銀行券」字樣。計有壹圓、五圓、拾圓、五拾圓等四種面額，並選用臺灣神社及鵝鑾鼻燈塔為主題圖案。"
+                },
+                "showa": {
+                    "title": "昭和時期",
+                    "description": "昭和年間由於印刷與製紙技術進步，為防止偽造、變造，株式會社臺灣銀行於昭和8年（西元1933年）起陸續發行新版臺灣銀行券，共有壹圓、五圓、拾圓及百圓券四種面額。昭和17年（西元1942年）再度改版，共有壹圓、五圓及拾圓三種面額。另由於太平洋戰爭之影響，日本國內物資嚴重欠缺，原由「大日本帝國印刷局」印製之鈔券，改由臺灣就地取材，自行印製，共有拾圓及百圓券二種面額。"
+                }
+            },
+            "td": {
+                "title": "(Old) Taiwan Dollar Period",
+                "periodHtml": "<p><br>1946 <br>　| <br>1949</p>",
+                "1": "1-Taiwan Dollar Banknote",
+                "500": "500 Taiwan Dollar Banknote",
+                "10000": "10,000 Taiwan Dollar Banknote",
+                "1000000": "1,000,000-Taiwan Dollar Promissory Note",
+                "descriptionHtml": "<p>After the retrocession of Taiwan to the Republic of China, the Taiwan Provincial Governor’s Office took over the Bank of Taiwan Limited on May 20, 1946, and reorganized it into the Bank of Taiwan (BOT). On May 22 of the same year, the BOT issued the Taiwan dollar (now referred to as the Old Taiwan dollar). However, owing to the ensuing hyperinflation, on June 15, 1949, the Taiwan Provincial Government promulgated the “Regulations Governing the Issuance of the New Taiwan Dollar”, started a currency reform, and issued the New Taiwan dollar.</p>",
+                "description": "After the retrocession of Taiwan to the Republic of China, the Taiwan Provincial Governor’s Office took over the Bank of Taiwan Limited on May 20, 1946, and reorganized it into the Bank of Taiwan (BOT). On May 22 of the same year, the BOT issued the Taiwan dollar (now referred to as the Old Taiwan dollar). However, owing to the ensuing hyperinflation, on June 15, 1949, the Taiwan Provincial Government promulgated the “Regulations Governing the Issuance of the New Taiwan Dollar”, started a currency reform, and issued the New Taiwan dollar.",
+                "td": {
+                    "detail": {
+                        "title": "(Old) Taiwan Dollar Period",
+                        "contentHtml": "<p>After the retrocession of Taiwan to the Republic of China, the Taiwan Provincial Governor’s Office took over the Bank of Taiwan Limited on May 20, 1946, and reorganized it into the Bank of Taiwan (BOT). On May 22 of the same year, the BOT issued the Taiwan dollar (now referred to as the Old Taiwan dollar). However, owing to the ensuing hyperinflation, on June 15, 1949, the Taiwan Provincial Government promulgated the “Regulations Governing the Issuance of the New Taiwan Dollar”, started a currency reform, and issued the New Taiwan dollar.</p>"
+                    }
+                }
+            },
+            "ntd": {
+                "title": "New Taiwan Dollar (NT$) Period",
+                "periodHtml": "<p><br>1949 <br>　| <br>now</p>",
+                "descriptionHtml": "<p>On June 15, 1949, the Taiwan Provincial Government promulgated the “Regulations Governing the Issuance of the New Taiwan Dollar” and began currency reform. Since then, first the Bank of Taiwan and then the Central Bank have been responsible for issuance.</p>",
+                "boc": {
+                    "title": "Issuance by the Bank of Taiwan",
+                    "description": "<p>On June 15, 1949, the Taiwan Provincial Government promulgated the “Regulations Governing the Issuance of the New Taiwan Dollar” and started a currency reform. The Bank of Taiwan issued the New Taiwan dollar, which replaced the Old Taiwan dollar at an exchange rate of 1 New Taiwan dollar to 40,000 Old Taiwan dollars. People were ordered to change their currency within a limited period, and all Old Taiwan dollars that were not exchanged by the deadline would no longer be accepted as legal tender.</p><p>On July 1, 1961, the Central Bank resumed its operations in Taiwan, and, pursuant to the “Regulations Governing the Entrustment to the Bank of Taiwan of the Issuance of the New Taiwan Dollar in Taiwan by the Central Bank of the Republic of China”, it entrusted the Bank of Taiwan with the task of issuing currency. The New Taiwan dollar would now be treated as the national currency. At first, the New Taiwan dollar only circulated on the island of Taiwan; later on, in order to meet the demand of outlying islands such as Kinmen, Dachen, and Matsu, New Taiwan dollar notes bearing the names of these islands were also issued, but these notes could only be used in their respective areas. These types of New Taiwan dollar notes are no longer in circulation.</p>",
+                    "detail": {
+                        "title": "新臺幣時期",
+                        "contentHtml": "<p>新臺幣自民國38年6月15日發行以來，期間由於時代背景變遷，發行制度歷經三階段演變。</p><p>（一）臺灣銀行自行發行<br>臺灣光復，政府為穩定地方金融，核准臺灣銀行於民國35年5月22日發行臺幣（俗稱舊臺幣）。隨後由於物價暴漲，遂實施幣制改革，於民國38年6月15日頒布「新臺幣發行辦法」，由臺灣銀行發行新臺幣取代臺幣，並以臺幣肆萬圓折合新臺幣壹圓，限期兌換，逾期作廢。</p><p>（二）中央銀行委託臺灣銀行代理發行<br>民國50年7月1日中央銀行在臺復業，遵照「中央銀行復業方案」，由中央銀行執行貨幣發行權；並依行政院頒布之「中央銀行在臺灣地區委託臺灣銀行發行新臺幣辦法」規定，委由臺灣銀行代理發行。有關新臺幣發行之資產及負債屬於中央銀行，發行準備由中央銀行提供並保管，發行費用由中央銀行負擔；而券幣之調撥、運送、地區調節及回籠券之整理等業務，則委由臺灣銀行辦理。</p><p>（三）中央銀行自行發行<br>民國89年間，中央銀行陳報行政院訂定「中央銀行發行新臺幣辦法」，自同年7月1日起，新臺幣改由中央銀行直接發行，將新臺幣提升為國幣。有關發行新臺幣而產生之券幣收付、運送、調節供需及整理回籠券等附隨業務，則另訂定「中央銀行委託臺灣銀行經理新臺幣發行附隨業務辦法」，繼續委由臺灣銀行經理。</p>"
+                    }
+                },
+                "centralBank": {
+                    "title": "Issuance by the Central Bank of the Republic of China (Taiwan)",
+                    "description": "<p>August 1992 saw the abolition of the “Regulations Governing the Issuance of the Silver Dollar and the Silver Dollar Exchange Certificate”, and the Silver Dollar lost its status as the national currency. Later, the Central Bank cited Article 13 of “the Central Bank of the Republic of China (Taiwan) Act” (which stipulates that the currency of the Republic of China shall be issued by the Central Bank) and announced the “Regulations Governing the Issuance of New Taiwan Dollar by the Central Bank of China (Taiwan)” on January 26, 2000.</p><p>On July 1 of that year, the Central Bank started to issue the New Taiwan dollar. The bank of issuance as inscribed on the banknotes was changed to the Central Bank, and the New Taiwan dollar officially became the national currency. New regulations, “Regulations Governing the Entrustment to the Bank of Taiwan of Matters Associated with the Issuance of the New Taiwan Dollar by the Central Bank of the Republic of China (Taiwan)”, were formulated and matters associated with the issuance of the New Taiwan dollar continued to be entrusted to the Bank of Taiwan.</p>",
+                    "detail": {
+                        "title": "新臺幣時期",
+                        "contentHtml": "<p>新臺幣自民國38年6月15日發行以來，期間由於時代背景變遷，發行制度歷經三階段演變。</p><p>（一）臺灣銀行自行發行<br>臺灣光復，政府為穩定地方金融，核准臺灣銀行於民國35年5月22日發行臺幣（俗稱舊臺幣）。隨後由於物價暴漲，遂實施幣制改革，於民國38年6月15日頒布「新臺幣發行辦法」，由臺灣銀行發行新臺幣取代臺幣，並以臺幣肆萬圓折合新臺幣壹圓，限期兌換，逾期作廢。</p><p>（二）中央銀行委託臺灣銀行代理發行<br>民國50年7月1日中央銀行在臺復業，遵照「中央銀行復業方案」，由中央銀行執行貨幣發行權；並依行政院頒布之「中央銀行在臺灣地區委託臺灣銀行發行新臺幣辦法」規定，委由臺灣銀行代理發行。有關新臺幣發行之資產及負債屬於中央銀行，發行準備由中央銀行提供並保管，發行費用由中央銀行負擔；而券幣之調撥、運送、地區調節及回籠券之整理等業務，則委由臺灣銀行辦理。</p><p>（三）中央銀行自行發行<br>民國89年間，中央銀行陳報行政院訂定「中央銀行發行新臺幣辦法」，自同年7月1日起，新臺幣改由中央銀行直接發行，將新臺幣提升為國幣。有關發行新臺幣而產生之券幣收付、運送、調節供需及整理回籠券等附隨業務，則另訂定「中央銀行委託臺灣銀行經理新臺幣發行附隨業務辦法」，繼續委由臺灣銀行經理。</p>"
+                    }
+                }
+            }
+        }
+    },
+    "service": {
+        "title": "Information and Services",
+        "firstPage": "First page",
+        "lastPage": "Last page",
+        "previousPage": "Previous",
+        "nextPage": "Next",
+        "totalItems": "total items: {{count}}",
+        "announcement": {
+            "title": "What's New",
+            "all": "all",
+            "public": "國內券幣",
+            "downtime": "國外券幣",
+            "other": "其他"
+        },
+        "promote": {
+            "title": "推廣專區",
+            "all": "全部",
+            "propaganda": "券幣大小事",
+            "activity": "紀念性券幣銷售",
+            "education": "防偽辨識",
+            "otherinformation": "其他資訊",
+            "financial": "金融文物館"
+        },
+        "audio": {
+            "title": "語音導覽"
+        },
+        "law": {
+            "title": "Regulations Governing the Issurance of Banknotes and Coins",
+            "publication": "券幣出版品",
+            "electronicPreview": "電子試閱",
+            "law": "Regulation Name"
+        },
+        "link": {
+            "title": "Links",
+            "tab1": "Taiwan",
+            "tab2": "America",
+            "tab3": "Europe",
+            "tab4": "Africa",
+            "tab5": "Asia",
+            "tab6": "Oceania"
+        }
+    },
+    "communicate": {
+        "title": "Information exchange",
+        "email": {
+            "title": "Contact Us",
+            "stepTitle": "E-mail filling and processing steps",
+            "stepContentHtml": "<p>Personal data collection and handling use consent form</p><p>1. To confirm you have provided a valid e-mail address or to prevent fraudulent use, a \"confirmation letter\" will be automatically sent to your mailbox when you fill out the content. Please click the confirmation link to complete the process. Mail will be handled by the concerned departments, and reply within seven days (the system service flow chart is as follows).</p><p>2. Your personal information (including name, e-mail, phone number, address) will be protected by the Personal Data Protection Regulations. Personal information will only be used for relevant businesses and will not open to the public.</p><p>3. I have understood and agreed to collect, process and use the information I have filled in the content.</p>",
+            "accept": "Agree(continue)",
+            "flowPicTitle": "System service flow chart",
+            "send": {
+                "notice": "Required",
+                "name": "Full name:",
+                "phone": "Teleohone number:",
+                "mailTtile": "Subject:",
+                "mailContent": "Your message",
+                "identificationCode": "Captcha:",
+                "reload": "Refresh",
+                "ok": "GO",
+                "clean": "Cancel",
+                "alertMessage": "Your letter has been sent!",
+                "dot": "。"
+            },
+            "seach": {
+                "title": "Case Enquiry",
+                "sender": "Name：",
+                "sendDate": "寄件日期：",
+                "mailTitle": "Title：",
+                "mailStatus": "Status：",
+                "mailContetn": "Contetnt：",
+                "response": "Reply to comments：",
+                "pendingReply": "Pending reply",
+                "alreadyReply": "Replied"
+            }
+        },
+        "faq": {
+            "title": "FAQ"
+        }
+    },
+    "multimedia": {
+        "title": "多媒體專區",
+        "download": {
+            "title": "下載區",
+            "desktop": "桌布",
+            "learn": "學習單"
+        },
+        "game": {
+            "title": "遊戲區"
+        },
+        "video": {
+            "title": "影片區"
+        }
+    },
+    "aboutMuseum": {
+        "title": "關於券幣數位博物館",
+        "contentHtml": "<h6>「券幣數位博物館」之建置目的</h6><ol><li>介紹我國券幣的歷史發展。</li><li>宣導券幣防偽知識及愛護券幣的觀念和作法。</li><li>建立數位典藏資料庫，以利各界研究參考。</li><li>提供全球網路使用者，隨時獲取有關我國券幣的相關資訊，以促進國際間文化交流。</li></ol><h6>券幣數位博物館的特色</h6><ol><li>民眾利用網路即可觀賞，不受時空限制，較實體博物館便利。</li><li>網站提供「大眾版」、「兒童版」及「虛擬展覽館」等三大部分，適合社會各界不同人士瀏覽。</li><li>「兒童版」採生動的圖像動畫表達方式，激發學童瀏覽、學習的興趣，以發揮寓教於樂的功用。</li><li>「虛擬展覽館」以實體博物館的概念，除以常設展覽介紹我國券幣發行史為主軸外，並將典藏品依主題舉辦線上特展，滿足多元化的觀賞需求。</li><li>數位典藏資料庫收藏本行歷年發行的券幣，民眾可利用線上查詢系統，便利搜尋相關券幣典藏品的資訊。</li><li>結合豐富生動的多媒體技術，以圖文說明搭配插畫故事、券幣環物展示、影音動畫及互動遊戲，兼具知識性、趣味性與教育性。</li></ol><h6>展示內容</h6><ol><li>券幣的歷史發展及趣聞軼事。</li><li>以我國近代券幣發行歷史為主軸，並突顯臺灣在地發展脈絡，於網站中展出各時期的券幣圖像。</li><li>介紹新臺幣的生命週期，將設計、印鑄、發行、回籠，以至整理及銷毀等各流程整合製成影片，具體呈現在民眾面前。</li><li>結合多媒體技術，介紹新臺幣券幣防偽功能及正確使用的方法。</li><li>建立我國券幣數位典藏資料庫，以利各界研究參考。</li></ol>"
+    },
+    "openDataAnnouncement": {
+        "title": "政府網站開放資料宣告",
+        "contentHtml": "<ul class=\"outside-list\"><li><h6>一、授權方式及範圍</h6><p>為利各界廣為利用網站資料，中央銀行（以下簡稱本行）網站上刊載之所有資料與素材，其得受著作權保護之範圍，以無償、非專屬，得再授權之方式提供公眾使用，使用者得不限時間及地域，重製、改作、編輯、公開傳輸或為其他方式之利用，開發各種產品或服務（簡稱加值衍生物），此一授權行為不會嗣後撤回，使用者亦無須取得本行之書面或其他方式授權；然使用時，應註明出處。</p></li><li><h6>二、相關事項說明：</h6><ul><li>(一)本授權範圍僅及於著作權保護之範圍，不及於其他智慧財產權利，包括但不限於專利、商標、及本行標誌之提供。</li><li>(二)當事人自行公開或依法令公開之個人資料是否得被蒐集、處理及利用，使用者須自行依照個人資料保護法之相關規定，規劃並執行法律要求之相應措施。</li><li>(三)部分的影音、圖像、樂譜、專人專案撰文或其他著作，經本行特別聲明者，須取得同意方可使用。</li></ul></li><li><h6>三、應注意不得侵害第三人之著作人格權(包括姓名表示權及禁止不當變更權)。</h6></li><li><h6>四、使用本授權提供之資料與素材，不得惡意變更其相關資訊，若利用後所展示之資訊與原資料與素材不符，使用者須自負民事、刑事上之法律責任。</h6></li><li><h6>五、本網站之授權，並不授予使用者代表本行建議、認可或贊同其加值衍生物之地位。</h6></li></ul>"
+    },
+    "copyright": {
+        "title": "Copyright Notice",
+        "contentHtml": "Please read carefully the following notice, which describes permitted use of authorized content published on the Virtual Money Museum website, in accordance with intellectual property rights. If you have any comments or questions, please contact us. Thank you for your interest.<br>1. In browsing or using this website, the user is deemed to fully understand and accept the regulations of this notice, related R.O.C. laws, and all international internet regulations and normal practices. This website is not to be used for any illegal purpose.<br>2. With the exception of areas to which the “Copyright Act” does not apply (e.g. laws, orders, administrative drafts, press releases, etc.—see article 9 of the “Copyright Act”), all content published on this website is protected under copyright, including written texts, photographs, pictures, audio recordings, moving images, and other content.<br>3. Anyone may freely use any content not protected by the “Copyright Act” (as above).<br>4. This website and the content of the collection are protected under copyright. Beyond fair use, users must first obtain consent or authorisation from the copyright holder. Please contact us in advance if you need to use this content.<br>5. “Fair use” is explained as follows:<br>(a) The Central Bank is deemed to be the author of all content published under its name on this website. Content may be reproduced, broadcast, or transmitted within the limits of “fair use”. The source of the materials should be indicated at the time of use.<br>(b) Information provided on this website may only be reproduced for personal or private use. Commercial use is prohibited.<br>(c) Website content may be cited for use in reports, commentaries, education, research, and other legitimate purposes, providing the source is indicated.<br>(d) For more on fair use, please refer to articles 44 to 65.of the “Copyright Act”.<br>6. It is not permitted to remove or alter electronic rights management information from this website except where, in accordance with article 80 of the “Copyright Act”, either it is unavoidable in the lawful exploitation of the content, or removal or alteration is technically necessary for the purpose of recording or transmission system changes.<br>7. This website contains hyperlinks to external websites. Copyright to these websites remains with their authors or legitimate copyright holders.<br>"
+    },
+    "privacy": {
+        "title": "Privacy Policy",
+        "contentHtml": "The Virtual Money Museum endeavors to ensure that your use of this site is safe and secure and that your privacy is respected. The following policy details the ways in which we safeguard your use and how we collect, utilize, and protect your personal information. If you have any questions which are not answered by the policy, please contact us. Thank you for your interest.<br>1. The following declaration refers to the gathering, use, and protection of your personal data in relation to your use of this website. It does not apply to any other websites linked to from this site. Such external websites may have their own privacy protection and information security policies, which are completely unrelated to our website and we are in no way responsible for them.<br>2. When does the website collect personal data?<br>The website collects personal data from the following services:<br>(a) Communication<br>In order to enable us to reply to your communication, you are required to provide accurate personal contact details any time you contact us through email or the online comment box.<br>(b) Other<br>When you browse or search the website, our server will automatically generate a record of your IP address, time of use, and the type and version of your browser, as well as your browsing history.<br>3. How does the website use this information?<br>(a) Personal data<br>Personal data such as your name, email address, and contact telephone number are only used by this website in order to reply to your communications and to provide you with the information you require. We will not use your data for any other purpose and we will not share your data with any third-party organization or individual.<br>(b) Other data<br>Our server automatically records data on website use, and then these data will be used by our IT team to analyse website traffic and browsing behaviour in order to enhance the quality of this site. Analyses only look at aggregate data and do not refer to individual use.<br>4. We hereby inform you of the collection, management, use, etc. of personal data, in accordance with article 8 of the “Personal Information Protection Act”.<br>(a) Name of organization: Central Bank of the Republic of China (Taiwan).<br>(b)Purpose of data collection: information (communication) and database management (136).<br>(c) Type of personal data collected: C001 personal identification data (name, email address, telephone number).<br>(d) Time, place, goal, and manner of the use of personal data: the website only uses these data to reply to users’ communications.<br>(e) You have the following rights with regard to your personal data:<br>(i) You may request to query, view, or copy our records of your personal data, but the Central Bank may levy a charge for such services.<br>(ii) You may request additions or corrections.<br>(iii) Provided that it does not infringe on the Central Bank’s carrying out of its professional duties and business activities, you may request that the Bank cease to gather, manage, or use your personal data and that the data be deleted. <br>(f) If you choose not to supply your personal data, we will be unable to respond to your correspondence or provide you with the information you require.<br>5. We make every effort to protect your personal data, but please be aware that transmitted information may be intercepted by a third party.<br>6. Given the rapidity of technological development, it is impossible for the relevant rules and regulations to cover all situations in advance and predict all relevant future changes. For this reason, the present data protection and privacy policies are subject to revision in order to safeguard your privacy and the security of our network. Should the terms of our data protection or privacy policies undergo wholesale revision, the website will immediately publish an announcement in “What’s New” section and display a prominent link to a page where you can read the new policies.<br>7. If you have any questions or comments regarding the above, you are welcome to contact us."
+    },
+    "security": {
+        "title": " Data Protection Policy",
+        "contentHtml": "The Virtual Money Museum endeavors to ensure that your use of this site is safe and secure and that your privacy is respected. The following policy details the ways in which we safeguard your use and how we collect, utilize, and protect your personal information. If you have any questions which are not answered by the policy, please contact us. Thank you for your interest.<br>Collection and Use of Personal Data<br>When you register with this website or its related services, you may be asked to supply relevant personal data or other information. All data collected by this website, personal or otherwise, are treated in accordance with the “Personal Information Protection Act” and related regulations. Data will only be used for the explicit purpose for which they are collected and will not be disclosed to any third party. In addition, during your use of this website, the following data will be collected automatically: date and time, pages visited, ISP, browser type, actions on this website (downloads, etc.), and successful/unsuccessful actions. These data may be used to improve the performance of this website. We may also monitor heavy traffic loads in order to determine the effect on website performance.<br>Data Protection<br>This website uses a variety of ways to prevent network intrusion, data theft, and damage. Among the key safety features in use are: firewall, invasion detection, anti-virus, and more. Some areas of the website use SSL encryption to enable secure transmission of personal data during your use of the website and its associated services. All data retained by the website are protected in order to guarantee your security.<br>Policy on Data Delivery and Electronic Mail<br>When you sign up to this website, we may send you emails informing you of changes to content. You are able to cancel your subscription at any time by clicking on the link in our emails or through this website. Please note that this site does not use encrypted email. If your communication contains sensitive information (e.g. your account number or identification number), you should consider using registered mail rather than email.<br><br>Protection Measures<br>For your own protection, please safeguard your personal data. Do not reveal your data, especially passwords, to any third party.<br><br>Cookie Restrictions and Notifications<br>In order to provide you with the best possible service, this website uses cookies. Cookies are small temporary files stored by your browser on your hard disk which permit our server to differentiate users’ individual preferences. Cookies coming from our website are only readable by our site and are only related to our content. Our website uses cookies in an auxiliary role, to store information about your individual preferences. In general, cookies are only valid for a single visit or for a limited duration; they do not contain any information which would enable third parties to contact you. You can fix how your browser deals with cookies by accessing the Advanced pane in Netscape’s Settings menu or the Security pane in Internet Explorer’s Internet Options menu. You can choose at least one of the following three settings: accept all cookies, receive notification when a cookie is offered, or refuse all cookies.<br>"
+    }
+}

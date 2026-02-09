@@ -1,0 +1,10 @@
+<div class="row clearfix">
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <div class="card">
+      <div class="body">
+        <h6>內文</h6>
+        <ckeditor  [editor]="Editor" [data]="htmlData || ''" [config]="{ placeholder:'請輸入詳細內容(圖片可以copy貼上)'}" (ready)="onReady($event)" (change)="onChange($event)"></ckeditor>
+      </div>
+    </div>
+  </div>
+</div>

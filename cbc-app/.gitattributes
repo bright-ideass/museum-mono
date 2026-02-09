@@ -1,0 +1,47 @@
+# ============================================
+# Standard Web Project Settings (HTML/CSS/JS)
+# Force everything text-based to use LF
+# ============================================
+
+# Default: normalize all text files to LF
+* text=auto eol=lf
+
+# Explicit text formats
+*.html  text eol=lf
+*.htm   text eol=lf
+*.css   text eol=lf
+*.js    text eol=lf
+*.ts    text eol=lf
+*.json  text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.xml   text eol=lf
+*.md    text eol=lf
+*.txt   text eol=lf
+
+# Templates
+*.php   text eol=lf
+*.tpl   text eol=lf
+
+# Prevent binary files from being modified
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.svg   text
+*.ico   binary
+
+*.ttf   binary
+*.otf   binary
+*.woff  binary
+*.woff2 binary
+
+# Archives
+*.zip   binary
+*.tar   binary
+*.gz    binary
+*.rar   binary
+
+# Ignore OS junk
+*.DS_Store  export-ignore
+Thumbs.db   export-ignore

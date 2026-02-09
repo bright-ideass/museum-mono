@@ -1,0 +1,67 @@
+<div class="addContainer">
+  <div class="modalHeader">
+    <div class="editRowModal">
+      <div class="modalHeader clearfix">
+        <!--<img [src]='advanceTable.img' alt="avatar">-->
+        <div class="modal-about">
+          <div class="fw-bold p-t-5 p-l-10 font-17">
+            {{dialogTitle}}</div>
+        </div>
+      </div>
+    </div>
+    <button mat-icon-button (click)="dialogRef.close()" class="modal-close-button" aria-label="Close dialog">
+      <mat-icon>close</mat-icon>
+    </button>
+  </div>
+  <div mat-dialog-content>
+    <form class="register-form m-4" [formGroup]="isForm">
+      <div class="row">
+        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+
+          <mat-form-field class="example-full-width" appearance="outline">
+            <mat-label>單元名稱</mat-label>
+            <input matInput formControlName="Title" #Title>
+            <mat-hint align="end">{{Title?.value?.length || 0}}/200</mat-hint>
+            <mat-error>
+              <app-shared-validator-error [ctrl]="isForm.get('Title')"></app-shared-validator-error>
+            </mat-error>
+          </mat-form-field>
+
+
+        </div>
+
+        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+
+          <app-shared-file-one-upload [type]="'gameQa'" [filePath]="isForm.get('File1')?.value"
+            (uploadFile)="onFile($event,'File1')"></app-shared-file-one-upload>
+
+          <app-shared-file-one-upload [type]="'gameQaBk'" [filePath]="isForm.get('File2')?.value"
+            (uploadFile)="onFile($event,'File2')"></app-shared-file-one-upload>
+
+        </div>
+
+
+      </div>
+
+      <div class="row">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
+          @defer {
+          <app-shareds-state-button [control]="isForm.get('state')"></app-shareds-state-button>}
+        </div>
+
+      </div>
+
+      <div class="row">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
+          <div class="example-button-row">
+            <button mat-raised-button color="primary" [disabled]="!isForm.dirty || !isForm.valid" [mat-dialog-close]="1"
+              (click)="confirmAdd()">Save</button>
+            <button mat-raised-button color="warn" (click)="onNoClick()" tabindex="-1">Cancel</button>
+          </div>
+        </div>
+      </div>
+
+      <!--{{isForm.value | json}}-->
+    </form>
+  </div>
+</div>

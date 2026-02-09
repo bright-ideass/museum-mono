@@ -1,0 +1,129 @@
+<div class="addContainer">
+    <div class="modalHeader">
+        <div class="editRowModal">
+            <div class="modalHeader clearfix">
+                <!--<img [src]='advanceTable.img' alt="avatar">-->
+                <div class="modal-about">
+                    <div class="fw-bold p-t-5 p-l-10 font-17">
+                        {{dialogTitle}}</div>
+                </div>
+            </div>
+        </div>
+        <button mat-icon-button (click)="dialogRef.close()" class="modal-close-button" aria-label="Close dialog">
+            <mat-icon>close</mat-icon>
+        </button>
+    </div>
+    <div mat-dialog-content>
+        <form class="register-form m-4" [formGroup]="isForm">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+
+                    <mat-form-field class="example-full-width " appearance="outline">
+                        <mat-label>單元</mat-label>
+                        <mat-select formControlName="Game_ID" required>
+                            @for(item of qaGameList(); track $index){
+                            <mat-option [value]="item.ID">{{item.Title}}
+                            </mat-option>
+                            }
+                        </mat-select>
+                        @if (isForm.get('Game_ID')?.hasError('required')) {
+                        <mat-error>
+                            請選擇單元類別
+                        </mat-error>
+                        }
+                    </mat-form-field>
+
+                    <div class="m-b-20">
+                        <mat-label class="msr-3">階級:</mat-label>
+                        <mat-radio-group aria-label="Select gender" formControlName="Grade" required>
+                            @for(item of gradeType(); track $index){
+                            <mat-radio-button [value]="item">{{item | gameGradeType}}</mat-radio-button>}
+                            @if (isForm.get('Grade')?.hasError('required')) {
+                            <mat-error>
+                                請選擇階級類別
+                            </mat-error>
+                            }
+                        </mat-radio-group>
+                    </div>
+
+                    <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>問題名稱</mat-label>
+                        <input matInput formControlName="Title" #Title  maxlength="200">
+                        <mat-hint align="end">{{Title?.value?.length || 0}}/200</mat-hint>
+                        <mat-error>
+                            <app-shared-validator-error [ctrl]="isForm.get('Title')"></app-shared-validator-error>
+                        </mat-error>
+                    </mat-form-field>
+
+                    <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>問題解說</mat-label>
+                        <textarea matInput formControlName="Introduction" #Introduction  maxlength="1000"></textarea>
+                        <mat-hint align="end">{{Introduction?.value?.length || 0}}/1000</mat-hint>
+                        <mat-error>
+                            <app-shared-validator-error
+                                [ctrl]="isForm.get('Introduction')"></app-shared-validator-error>
+                        </mat-error>
+                    </mat-form-field>
+
+
+                </div>
+
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+
+                    <app-shared-file-one-upload [type]="'gameItemImg'" [filePath]="isForm.get('File1')?.value"
+                        (uploadFile)="onFile($event,'File1')"></app-shared-file-one-upload>
+
+
+                    <div class="body">
+                        <h6>選項</h6>
+                        <label id="example-radio-group-label">請擇正解及輸入選項名稱</label>
+                        <mat-radio-group aria-labelledby="example-radio-group-label" class="example-radio-group"
+                            formControlName="AnsOptionId">
+                            <mat-radio-button class="example-radio-button ms-0" [value]="1">
+                                <input matInput formControlName="Option1" #Option1 maxlength="50">
+                            </mat-radio-button>
+                            <mat-radio-button class="example-radio-button ms-0" [value]="2">
+                                <input matInput formControlName="Option2" #Option1 maxlength="50">
+                            </mat-radio-button>
+                            <mat-radio-button class="example-radio-button ms-0" [value]="3">
+                                <input matInput formControlName="Option3" #Option1 maxlength="50">
+                            </mat-radio-button>
+                            <mat-radio-button class="example-radio-button ms-0" [value]="4">
+                                <input matInput formControlName="Option4" #Option1 maxlength="50">
+                            </mat-radio-button>
+                            <mat-radio-button class="example-radio-button ms-0" [value]="5">
+                                <input matInput formControlName="Option5" #Option1 maxlength="50">
+                            </mat-radio-button>
+                            <mat-radio-button class="example-radio-button ms-0" [value]="6">
+                                <input matInput formControlName="Option6" #Option1 maxlength="50">
+                            </mat-radio-button>
+
+                        </mat-radio-group>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
+                    @defer {
+                    <app-shareds-state-button [control]="isForm.get('state')"></app-shareds-state-button>}
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
+                    <div class="example-button-row">
+                        <button mat-raised-button color="primary" [disabled]="!isForm.dirty || !isForm.valid"
+                            [mat-dialog-close]="1" (click)="confirmAdd()">Save</button>
+                        <button mat-raised-button color="warn" (click)="onNoClick()" tabindex="-1">Cancel</button>
+                    </div>
+                </div>
+            </div>
+
+            <!--{{isForm.value | json}}-->
+        </form>
+    </div>
+</div>

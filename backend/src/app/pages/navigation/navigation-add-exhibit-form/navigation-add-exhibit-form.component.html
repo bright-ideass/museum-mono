@@ -1,0 +1,113 @@
+<div class="addContainer">
+  <div class="modalHeader">
+    <div class="editRowModal">
+      <div class="modalHeader clearfix">
+        <!--<img [src]='advanceTable.img' alt="avatar">-->
+        <div class="modal-about">
+          <div class="fw-bold p-t-5 p-l-10 font-17">
+            {{dialogTitle}}</div>
+        </div>
+      </div>
+    </div>
+    <button mat-icon-button (click)="dialogRef.close()" class="modal-close-button" aria-label="Close dialog">
+      <mat-icon>close</mat-icon>
+    </button>
+  </div>
+  <div mat-dialog-content>
+
+    <div class="row ">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <div class="materialTableHeader">
+        <div class="left">
+          <ul class="header-buttons-left ms-0">
+            <li class="tbl-search-box">
+              <label for="search-input"><i class="material-icons search-icon">search</i></label>
+              <input placeholder="Search" type="text" #filter class="browser-default search-field" aria-label="Search box" (keyup)="applyFilter($event)">
+            </li>
+          </ul>
+        </div>
+      </div>
+
+
+        <div class="card">
+          <div class="header">
+            <h2>請拖曳展品名稱至展間區塊</h2>
+          </div>
+          <div class="body">
+            <div class="row">
+              <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-5">
+
+                <div class="example-container2">
+                  <h5>展品清單</h5>
+                  <div cdkDropList #exhList="cdkDropList" [cdkDropListData]="exhibitList()"
+                    [cdkDropListConnectedTo]="[room1List,room2List,room3List]" class="example-list"
+                    (cdkDropListDropped)="drop($event)">
+                    @for (item of exhibitList(); track item) {
+                    <div class="example-box-small" cdkDrag><a href="javascript:void(0)"
+                        (click)="editExhPreview(item.ExhibitsId)">{{item.ExhibitsName}}</a>
+                    </div>
+                    }
+                  </div>
+                </div>
+
+
+                <div class="example-container2">
+                  <h5>展間1：{{room1_Name}}</h5>
+                  <div cdkDropList #room1List="cdkDropList" [cdkDropListData]="room1"
+                    [cdkDropListConnectedTo]="[exhList,room2List,room3List]" class="example-list"
+                    (cdkDropListDropped)="drop($event)">
+                    @for (item of room1; track item) {
+                    <div class="example-box-small" cdkDrag><a href="javascript:void(0)"
+                        (click)="editExhPreview(item.ExhibitsId)">{{item.ExhibitsName}}</a>
+                      sort：{{item.Sort}}</div>
+                    }
+                  </div>
+                </div>
+
+                <div class="example-container2">
+                  <h5>展間2：{{room2_Name}}</h5>
+                  <div cdkDropList #room2List="cdkDropList" [cdkDropListData]="room2"
+                    [cdkDropListConnectedTo]="[exhList,room1List,room3List]" class="example-list"
+                    (cdkDropListDropped)="drop($event)">
+                    @for (item of room2; track item) {
+                    <div class="example-box-small" cdkDrag><a href="javascript:void(0)"
+                        (click)="editExhPreview(item.ExhibitsId)">{{item.ExhibitsName}}</a>
+                      sort：{{item.Sort}}</div>
+                    }
+                  </div>
+                </div>
+                <div class="example-container2">
+                  <h5>展間3：{{room3_Name}}</h5>
+                  <div cdkDropList #room3List="cdkDropList" [cdkDropListData]="room3"
+                    [cdkDropListConnectedTo]="[exhList,room1List,room2List]" class="example-list"
+                    (cdkDropListDropped)="drop($event)">
+                    @for (item of room3; track item) {
+                    <div class="example-box-small" cdkDrag><a href="javascript:void(0)"
+                        (click)="editExhPreview(item.ExhibitsId)">{{item.ExhibitsName}}</a>
+                      sort：{{item.Sort}}</div>
+                    }
+                  </div>
+                </div>
+
+
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--room3： {{room3 | json }}<br>
+       done {{done | json }}<br>
+        sss {{sss | json }}<br>-->
+    <div class="row">
+      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
+        <div class="example-button-row">
+          <button mat-raised-button color="primary" (click)="confirm()">Save</button>
+          <button mat-raised-button color="warn" (click)="onNoClick()" tabindex="-1">Cancel</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

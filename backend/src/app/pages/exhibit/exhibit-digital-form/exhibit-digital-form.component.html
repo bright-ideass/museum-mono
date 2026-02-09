@@ -1,0 +1,193 @@
+<div class="addContainer">
+  <div class="modalHeader">
+    <div class="editRowModal">
+      <div class="modalHeader clearfix">
+        <!--<img [src]='advanceTable.img' alt="avatar">-->
+        <div class="modal-about">
+          <div class="fw-bold p-t-5 p-l-10 font-17">
+            {{dialogTitle}}</div>
+        </div>
+      </div>
+    </div>
+    <button mat-icon-button (click)="dialogRef.close()" class="modal-close-button" aria-label="Close dialog">
+      <mat-icon>close</mat-icon>
+    </button>
+  </div>
+  <div mat-dialog-content>
+    <form class="register-form m-4" [formGroup]="isForm">
+      <div class="row">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+          <div class="card">
+            <div class="body">
+              流通券幣
+              <mat-radio-group aria-label="Select gender" formControlName="showWeb0" required>
+                <mat-radio-button [value]="1">顯示</mat-radio-button>
+                <mat-radio-button [value]="0">不顯示</mat-radio-button>
+              </mat-radio-group>
+              @if(isForm.get('showWeb0')?.value === 1){
+              <div class="row">
+                <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 mb-2">
+                  <app-exhibit-period-select [type]="'DigitalTyp1'" [isSelect]="isForm.get('webType0')?.value"
+                    (isCategory)="onSelect($event, 'webType0')"></app-exhibit-period-select>
+                </div>
+
+                <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 mb-2">
+                  @if(isForm.get('webType0')?.value){
+                  <app-exhibit-period-select [type]="'subCode'" [parentSelect]="isForm.get('webType0')?.value"
+                    [isSelect]="isForm.get('webSubType0')?.value"
+                    (isCategory)="onSelect($event, 'webSubType0')"></app-exhibit-period-select>
+                  }
+                </div>
+                <div class="col-xl-2 col-lg-2 col-md-12 col-sm-12 mb-2">
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>排序</mat-label>
+                    <span matPrefix><mat-icon class="m-2">sort</mat-icon></span>
+                    <input matInput placeholder="0~999數值由小排至大..." formControlName="order0" type="number" max="999"
+                      #sortId>
+                  </mat-form-field>
+                </div>
+              </div>}
+
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+          <div class="card">
+            <div class="body">
+              套幣與紀念性券幣
+              <mat-radio-group aria-label="Select gender" formControlName="showWeb1" required>
+                <mat-radio-button [value]="1">顯示</mat-radio-button>
+                <mat-radio-button [value]="0">不顯示</mat-radio-button>
+              </mat-radio-group>
+              @if(isForm.get('showWeb1')?.value === 1){
+              <div class="row">
+                <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 mb-2">
+                  <app-exhibit-period-select [type]="'DigitalTyp2'" [isSelect]="isForm.get('webType1')?.value"
+                    (isCategory)="onSelect($event, 'webType1')"></app-exhibit-period-select>
+                </div>
+
+                <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 mb-2">
+                  @if(isForm.get('webType1')?.value){
+                  <app-exhibit-period-select [type]="'subCode'" [parentSelect]="isForm.get('webType1')?.value"
+                    [isSelect]="isForm.get('webSubType1')?.value"
+                    (isCategory)="onSelect($event, 'webSubType1')"></app-exhibit-period-select>
+                  }
+                </div>
+                <div class="col-xl-2 col-lg-2 col-md-12 col-sm-12 mb-2">
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>排序</mat-label>
+                    <span matPrefix><mat-icon class="m-2">sort</mat-icon></span>
+                    <input matInput placeholder="0~999數值由小排至大..." formControlName="order1" type="number" max="999"
+                      #sortId>
+                  </mat-form-field>
+                </div>
+              </div>}
+
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+          <div class="card">
+            <div class="body">
+              券幣介紹
+              <mat-radio-group aria-label="Select gender" formControlName="showWeb2" required>
+                <mat-radio-button [value]="1">顯示</mat-radio-button>
+                <mat-radio-button [value]="0">不顯示</mat-radio-button>
+              </mat-radio-group>
+              @if(isForm.get('showWeb2')?.value === 1){
+              <div class="row">
+                <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 mb-2">
+                  <app-exhibit-period-select [type]="'DigitalTyp0'" [isSelect]="isForm.get('webType2')?.value"
+                    (isCategory)="onSelect($event, 'webType2')"></app-exhibit-period-select>
+                </div>
+
+                <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 mb-2">
+                  @if(isForm.get('webType2')?.value){
+                  <app-exhibit-period-select [type]="'subCode'" [parentSelect]="isForm.get('webType2')?.value"
+                    [isSelect]="isForm.get('webSubType2')?.value"
+                    (isCategory)="onSelect($event, 'webSubType2')"></app-exhibit-period-select>
+                  }
+                </div>
+                <div class="col-xl-2 col-lg-2 col-md-12 col-sm-12 mb-2">
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>排序</mat-label>
+                    <span matPrefix><mat-icon class="m-2">sort</mat-icon></span>
+                    <input matInput placeholder="0~999數值由小排至大..." formControlName="order2" type="number" max="999"
+                      #sortId>
+                  </mat-form-field>
+                </div>
+              </div>}
+
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="card">
+        <div class="body">
+          <div class="row">
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+              <mat-form-field class="example-full-width" appearance="outline">
+                <mat-label>仿偽辨識網址:</mat-label>
+                <input matInput formControlName="FakeWeb" #FakeWeb maxlength="200">
+                <mat-hint align="end">{{FakeWeb?.value?.length || 0}}/200</mat-hint>
+              </mat-form-field>
+
+              <mat-checkbox class="example-margin" formControlName="skuBrowsing">商品瀏覽 顯示於首頁</mat-checkbox>
+              @if(isForm.get('skuBrowsing')?.value){
+              <mat-form-field class="example-full-width" appearance="outline">
+                <mat-label>商品瀏覽</mat-label>
+                <input matInput formControlName="URLlink" #URLlink maxlength="200">
+                <mat-hint align="end">{{URLlink?.value?.length || 0}}/200</mat-hint>
+              </mat-form-field>
+              }
+            </div>
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+              <app-shared-file-one-upload [type]="'webImg'" [filePath]="isForm.get('WebImg')?.value"
+                (uploadFile)="onFile($event, 'WebImg')"></app-shared-file-one-upload>
+              <app-shared-file-one-upload [type]="'eBook'" [id]="isForm.get('ExhibitsId')?.value"
+                [filePath]="isForm.get('ebook')?.value"
+                (uploadFile)="onFile($event, 'ebook')"></app-shared-file-one-upload>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="card">
+        <div class="body" formGroupName="en">
+          英文版資料
+          <div class="row">
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+              <mat-form-field class="example-full-width" appearance="outline">
+                <mat-label>仿偽辨識網址:</mat-label>
+                <input matInput formControlName="FakeWeb" #FakeWeb maxlength="200">
+                <mat-hint align="end">{{FakeWeb?.value?.length || 0}}/200</mat-hint>
+              </mat-form-field>
+            </div>
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+              <app-shared-file-one-upload [type]="'webImg'" [filePath]="isForm.get('en')?.get('WebImg')?.value"
+                (uploadFile)="onFile($event, 'en_webImg')"></app-shared-file-one-upload>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="row">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
+          <div class="example-button-row">
+            <button mat-raised-button color="primary" [disabled]="!isForm.dirty || !isForm.valid" [mat-dialog-close]="1"
+              (click)="confirmAdd()">Save</button>
+            <button mat-raised-button color="warn" (click)="onNoClick()" tabindex="-1">Cancel</button>
+          </div>
+        </div>
+      </div>
+      <!--{{isForm.value | json}}-->
+
+    </form>
+  </div>
+</div>

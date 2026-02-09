@@ -1,0 +1,530 @@
+<div class="addContainer">
+  <div class="modalHeader">
+    <div class="editRowModal">
+      <div class="modalHeader clearfix">
+        <!--<img [src]='advanceTable.img' alt="avatar">-->
+        <div class="modal-about">
+          <div class="fw-bold p-t-5 p-l-10 font-17">
+            {{dialogTitle}}</div>
+        </div>
+      </div>
+    </div>
+    <button mat-icon-button (click)="dialogRef.close()" class="modal-close-button" aria-label="Close dialog">
+      <mat-icon>close</mat-icon>
+    </button>
+  </div>
+  <div mat-dialog-content>
+
+
+    <form class="register-form m-4" [formGroup]="isForm">
+
+      <div class="row">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+
+          <mat-tab-group>
+            <mat-tab label="基本資料">
+              <br>
+
+              <div class="row example-tab-box">
+                <div class="col-6">
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>品名</mat-label>
+                    <input matInput formControlName="ExhibitsName" #ExhibitsName required maxlength="200">
+                    <mat-hint align="end">{{ExhibitsName?.value?.length || 0}}/200</mat-hint>
+                    <mat-error>
+                      <app-shared-validator-error [ctrl]="isForm.get('ExhibitsName')"></app-shared-validator-error>
+                    </mat-error>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>登錄號</mat-label>
+                    <input matInput formControlName="InputNo" #InputNo maxlength="50">
+                    <mat-hint align="end">{{InputNo?.value?.length || 0}}/50</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width " appearance="outline">
+                    <mat-label>類型</mat-label>
+                    <mat-select formControlName="ExhibitsType" (selectionChange)="ExhibitsTypeOnSelect($event.value)"
+                      required>
+                      @for(item of exhibitsType(); track $index){
+                      <mat-option [value]="item">{{item | exhibitType}}
+                      </mat-option>
+                      }
+                    </mat-select>
+                  </mat-form-field>
+
+                  <div class="row">
+                    <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 mb-2">
+                      <app-exhibit-period-select [type]="'Period'" [isSelect]="isForm.get('PeriodID')?.value"
+                        (isCategory)="onSelect($event, 'PeriodID')"></app-exhibit-period-select>
+                    </div>
+
+                    <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 mb-2">
+                      @if(isForm.get('PeriodID')?.value){
+                      <app-exhibit-period-select [type]="'subCode'" [parentSelect]="isForm.get('PeriodID')?.value"
+                        [isSelect]="isForm.get('PeriodTypeID')?.value"
+                        (isCategory)="onSelect($event, 'PeriodTypeID')"></app-exhibit-period-select>
+                      }
+
+                    </div>
+                  </div>
+
+                  <div class="row">
+                    <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>面額</mat-label>
+                        <input matInput formControlName="Dollar" #Dollar maxlength="10">
+                        <mat-hint align="end">{{Dollar?.value?.length || 0}}/10</mat-hint>
+                      </mat-form-field>
+                    </div>
+
+                    <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>面額(數值)</mat-label>
+                        <input matInput type="number" placeholder="請輸入面額(數值)"
+                          onKeyPress="if(this.value.length==20) return false" formControlName="dollarNum">
+                      </mat-form-field>
+                    </div>
+                  </div>
+
+                  <div class="row">
+                    <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>發行（售）時間</mat-label>
+                        <input matInput formControlName="IssueTime" #IssueTime maxlength="20">
+                        <mat-hint align="end">{{IssueTime?.value?.length || 0}}/20</mat-hint>
+                      </mat-form-field>
+                    </div>
+                    <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>西元年</mat-label>
+                        <input matInput type="number" placeholder="請輸入西元年，例：2022" formControlName="IssueTimeDC"
+                          max="9999" onKeyPress="if(this.value.length==4) return false">
+                      </mat-form-field>
+                    </div>
+                  </div>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>版別</mat-label>
+                    <input matInput formControlName="ExhibitsVers" #ExhibitsVers maxlength="50">
+                    <mat-hint align="end">{{ExhibitsVers?.value?.length || 0}}/50</mat-hint>
+                  </mat-form-field>
+
+                  <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width " appearance="outline">
+                        <mat-label>型式</mat-label>
+                        <mat-select formControlName="Obj_Type">
+                          @for(item of objType(); track $index){
+                          <mat-option [value]="item">{{item }}
+                          </mat-option>
+                          }
+                        </mat-select>
+                      </mat-form-field>
+
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>發行數量</mat-label>
+                        <input matInput formControlName="SendingCount" #SendingCount maxlength="20">
+                        <mat-hint align="end">{{SendingCount?.value?.length || 0}}/20</mat-hint>
+                      </mat-form-field>
+                    </div>
+                  </div>
+
+                </div>
+                <!--第2排-->
+                <div class="col-6">
+                  <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                    <mat-checkbox class="example-margin" formControlName="onForever">永不下架</mat-checkbox>
+                  </div>
+                  <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>上架日期</mat-label>
+                        <input matInput [matDatepicker]="picker" formControlName="ShowStarttime">
+                        <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                        <mat-datepicker #picker></mat-datepicker>
+                        @if (isForm.get('ShowStarttime')?.hasError('required')) {
+                        <mat-error>
+                          Please select 上架日期
+                        </mat-error>
+                        }
+                      </mat-form-field>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label> 下架日期</mat-label>
+                        <input matInput [matDatepicker]="pickerEnd" formControlName="ShowEndtime">
+                        <mat-datepicker-toggle matSuffix [for]="pickerEnd"></mat-datepicker-toggle>
+                        <mat-datepicker #pickerEnd></mat-datepicker>
+                      </mat-form-field>
+                    </div>
+                  </div>
+
+                  <mat-form-field class="example-full-width " appearance="outline">
+                    <mat-label>流通/紀念分類</mat-label>
+                    <mat-select formControlName="UseType" required>
+                      @for(item of useType(); track $index){
+                      <mat-option [value]="item">{{item | exhibitUseType}}
+                      </mat-option>
+                      }
+                    </mat-select>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width " appearance="outline">
+                    <mat-label>文件別</mat-label>
+                    <mat-select formControlName="ExhibitsDoc" required>
+                      @for(item of exhibitsDoc(); track $index){
+                      <mat-option [value]="item">{{item | exhibitDocType}}
+                      </mat-option>
+                      }
+                    </mat-select>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>發行地區</mat-label>
+                    <input matInput formControlName="Area" #Area maxlength="200">
+                    <mat-hint align="end">{{Area?.value?.length || 0}}/200</mat-hint>
+                  </mat-form-field>
+
+                  <div class="row">
+                    <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>製版年代</mat-label>
+                        <input matInput formControlName="PlateYear" #PlateYear maxlength="20">
+                        <mat-hint align="end">{{PlateYear?.value?.length || 0}}/20</mat-hint>
+                      </mat-form-field>
+                    </div>
+                    <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>西元年</mat-label>
+                        <input matInput type="number" placeholder="請輸入西元年，例：2022" formControlName="PlateYearDC"
+                          max="9999" onKeyPress="if(this.value.length==4) return false">
+                      </mat-form-field>
+                    </div>
+                  </div>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>材質</mat-label>
+                    <textarea matInput formControlName="obj_material" #obj_material maxlength="50"></textarea>
+                    <mat-hint align="end">{{obj_material?.value?.length || 0}}/50</mat-hint>
+                  </mat-form-field>
+                </div>
+
+                <div class="col-12">
+                  @if(isForm.get('ExhibitsType')?.value === 1){
+                  <h6>鈔劵設定</h6>
+                  <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>鈔券尺寸： 長度（mm）</mat-label>
+                        <input matInput formControlName="size_L" #size_L maxlength="50">
+                        <mat-hint align="end">{{size_L?.value?.length || 0}}/50</mat-hint>
+                      </mat-form-field>
+
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>主墨色正面</mat-label>
+                        <input matInput formControlName="Obj_color1" #Obj_color1 maxlength="50">
+                        <mat-hint align="end">{{Obj_color1?.value?.length || 0}}/50</mat-hint>
+                      </mat-form-field>
+
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>寬度（mm）</mat-label>
+                        <input matInput formControlName="size_W" #size_W maxlength="50">
+                        <mat-hint align="end">{{size_W?.value?.length || 0}}/50</mat-hint>
+                      </mat-form-field>
+
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>主墨色正面</mat-label>
+                        <input matInput formControlName="Obj_color2" #Obj_color2 maxlength="50">
+                        <mat-hint align="end">{{Obj_color2?.value?.length || 0}}/50</mat-hint>
+                      </mat-form-field>
+                    </div>
+                  </div>}@else {
+                  <h6>硬幣設定</h6>
+                  <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>硬幣重量（公克）</mat-label>
+                        <input matInput formControlName="Weight" #Weight maxlength="50">
+                        <mat-hint align="end">{{Weight?.value?.length || 0}}/50</mat-hint>
+                      </mat-form-field>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>硬幣直徑（mm）</mat-label>
+                        <input matInput formControlName="Diameter" #Diameter maxlength="50">
+                        <mat-hint align="end">{{Diameter?.value?.length || 0}}/50</mat-hint>
+                      </mat-form-field>
+                    </div>
+                  </div>
+                  }
+                </div>
+
+              </div>
+            </mat-tab>
+            <mat-tab label="描述">
+              <br>
+              <div class="row example-tab-box">
+                <div class="col-6">
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>圖案正面</mat-label>
+                    <input matInput formControlName="imgDescr1" #imgDescr1 maxlength="200">
+                    <mat-hint align="end">{{imgDescr1?.value?.length || 0}}/200</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>圖案背面</mat-label>
+                    <input matInput formControlName="imgDescr2" #imgDescr2 maxlength="200">
+                    <mat-hint align="end">{{imgDescr2?.value?.length || 0}}/200</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>圖案防偽</mat-label>
+                    <input matInput formControlName="imgDescr3" #imgDescr3 maxlength="200">
+                    <mat-hint align="end">{{imgDescr3?.value?.length || 0}}/200</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>券幣資料說明(網站與典藏):</mat-label>
+                    <textarea matInput formControlName="Exhibits_Content" #Exhibits_Content  maxlength="3000"></textarea>
+                    <mat-hint align="end">{{Exhibits_Content?.value?.length || 0}}/3000</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline" >
+                    <mat-label>主題展覽內容(虛擬展覽館): </mat-label>
+                    <textarea matInput formControlName="Exhibits_Story" #Exhibits_Story maxlength="3000"></textarea>
+                    <mat-hint align="end">{{Exhibits_Story?.value?.length || 0}}/3000</mat-hint>
+                  </mat-form-field>
+
+                </div>
+                <div class="col-6">
+                  <app-shared-file-one-upload [type]="'thumbnailImg'" [filePath]="isForm.get('ThumbnailImg')?.value"
+                    (uploadFile)="onFile($event, 'ThumbnailImg')"></app-shared-file-one-upload>
+
+                  <app-shared-file-one-upload [type]="'enlargeImg1'" [filePath]="isForm.get('EnlargeImg1')?.value"
+                    (uploadFile)="onFile($event, 'EnlargeImg1')"></app-shared-file-one-upload>
+
+                  <app-shared-file-one-upload [type]="'enlargeImg2'" [filePath]="isForm.get('EnlargeImg2')?.value"
+                    (uploadFile)="onFile($event, 'EnlargeImg2')"></app-shared-file-one-upload>
+
+                </div>
+              </div>
+
+            </mat-tab>
+
+            <mat-tab label="素材">
+              <br>
+              <div class="row example-tab-box">
+                <div class="col-6">
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>館藏地</mat-label>
+                    <input matInput formControlName="Location" #Location maxlength="100">
+                    <mat-hint align="end">{{Location?.value?.length || 0}}/100</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>已作廢日期</mat-label>
+                    <input matInput formControlName="InvalidDate" #InvalidDate maxlength="20">
+                    <mat-hint align="end">{{InvalidDate?.value?.length || 0}}/20</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>停止流通日期</mat-label>
+                    <input matInput formControlName="EndUseDate" #EndUseDate maxlength="20">
+                    <mat-hint align="end">{{EndUseDate?.value?.length || 0}}/20</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>影像檔名</mat-label>
+                    <input matInput formControlName="ImgName" #ImgName maxlength="200">
+                    <mat-hint align="end">{{ImgName?.value?.length || 0}}/200</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>版權</mat-label>
+                    <input matInput formControlName="CC" #CC maxlength="50">
+                    <mat-hint align="end">{{CC?.value?.length || 0}}/50</mat-hint>
+                  </mat-form-field>
+
+
+                </div>
+                <div class="col-6">
+                  <mat-form-field class="example-full-width " appearance="outline">
+                    <mat-label>央行典藏電子圖像規格</mat-label>
+                    <mat-select formControlName="ImgDpi">
+                      @for(item of imgDpiType(); track $index){
+                      <mat-option [value]="item">{{item }} dpi
+                      </mat-option>
+                      }
+                    </mat-select>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline" maxlength="3000">
+                    <mat-label>備註 </mat-label>
+                    <textarea matInput formControlName="Note" #Note maxlength="3000"></textarea>
+                    <mat-hint align="end">{{Note?.value?.length || 0}}/3000</mat-hint>
+                  </mat-form-field>
+
+                </div>
+              </div>
+
+
+            </mat-tab>
+
+
+            <mat-tab label="英文資訊">
+              <br>
+              <div class="row example-tab-box" formGroupName="en">
+                <div class="col-6">
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>英文名稱</mat-label>
+                    <input matInput formControlName="ExhibitsName" #ExhibitsNameEn maxlength="300">
+                    <mat-hint align="end">{{ExhibitsNameEn?.value?.length || 0}}/300</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>面額</mat-label>
+                    <input matInput formControlName="Dollar" #DollarEn maxlength="50">
+                    <mat-hint align="end">{{DollarEn?.value?.length || 0}}/50</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>發行（售）時間</mat-label>
+                    <input matInput formControlName="IssueTime" #IssueTimeEn maxlength="50">
+                    <mat-hint align="end">{{IssueTimeEn?.value?.length || 0}}/50</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>版別</mat-label>
+                    <input matInput formControlName="ExhibitsVers" #ExhibitsVersEn maxlength="50">
+                    <mat-hint align="end">{{ExhibitsVersEn?.value?.length || 0}}/50</mat-hint>
+                  </mat-form-field>
+
+                </div>
+                <div class="col-6">
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>圖案正面</mat-label>
+                    <input matInput formControlName="imgDescr1" #imgDescr1En maxlength="100">
+                    <mat-hint align="end">{{imgDescr1En?.value?.length || 0}}/100</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>圖案背面</mat-label>
+                    <input matInput formControlName="imgDescr2" #imgDescr2En maxlength="100">
+                    <mat-hint align="end">{{imgDescr2En?.value?.length || 0}}/100</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>圖案防偽</mat-label>
+                    <input matInput formControlName="imgDescr3" #imgDescr3En maxlength="100">
+                    <mat-hint align="end">{{imgDescr3En?.value?.length || 0}}/100</mat-hint>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>券幣資料說明(網站與典藏):</mat-label>
+                    <textarea matInput formControlName="Exhibits_Content" #Exhibits_ContentEn
+                      maxlength="3000"></textarea>
+                    <mat-hint align="end">{{Exhibits_ContentEn?.value?.length || 0}}/3000</mat-hint>
+                  </mat-form-field>
+                </div>
+
+                <div class="col-12">
+                  @if(isForm.get('ExhibitsType')?.value === 1){
+                  <h6>鈔劵設定</h6>
+                  <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>鈔券尺寸： 長度（mm）</mat-label>
+                        <input matInput formControlName="size_L" #size_LEn maxlength="50">
+                        <mat-hint align="end">{{size_LEn?.value?.length || 0}}/50</mat-hint>
+                      </mat-form-field>
+
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>主墨色正面</mat-label>
+                        <input matInput formControlName="Obj_color1" #Obj_color1En maxlength="50">
+                        <mat-hint align="end">{{Obj_color1En?.value?.length || 0}}/50</mat-hint>
+                      </mat-form-field>
+
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>寬度（mm）</mat-label>
+                        <input matInput formControlName="size_W" #size_WEn maxlength="100">
+                        <mat-hint align="end">{{size_WEn?.value?.length || 0}}/100</mat-hint>
+                      </mat-form-field>
+
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>主墨色正面</mat-label>
+                        <input matInput formControlName="Obj_color2" #Obj_color2En maxlength="100">
+                        <mat-hint align="end">{{Obj_color2En?.value?.length || 0}}/100</mat-hint>
+                      </mat-form-field>
+                    </div>
+                  </div>}@else {
+                  <h6>硬幣設定</h6>
+                  <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>硬幣重量（公克）</mat-label>
+                        <input matInput formControlName="Weight" #WeightEn maxlength="100">
+                        <mat-hint align="end">{{WeightEn?.value?.length || 0}}/100</mat-hint>
+                      </mat-form-field>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>硬幣直徑（mm）</mat-label>
+                        <input matInput formControlName="Diameter" #DiameterEn maxlength="100">
+                        <mat-hint align="end">{{DiameterEn?.value?.length || 0}}/100</mat-hint>
+                      </mat-form-field>
+                    </div>
+                  </div>
+                  }
+                </div>
+
+              </div>
+            </mat-tab>
+
+          </mat-tab-group>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
+          @defer {
+          <div class="m-b-20">
+            <mat-radio-group aria-label="Select gender" formControlName="IsPublish" required>
+              <mat-radio-button [value]="0">待審核</mat-radio-button>
+              <mat-radio-button [value]="1">審核通過</mat-radio-button>
+              <mat-radio-button [value]="3">審核不通過</mat-radio-button>
+              <mat-radio-button [value]="4">不顯示前台</mat-radio-button>
+              @if (isForm.get('IsPublish')?.hasError('required')) {
+              <mat-error>
+                請選擇狀態
+              </mat-error>
+              }
+            </mat-radio-group>
+          </div>
+
+          }
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
+          <div class="example-button-row">
+            <button mat-raised-button color="primary" [disabled]="!isForm.dirty || !isForm.valid" [mat-dialog-close]="1"
+              (click)="confirmAdd()">Save</button>
+            <button mat-raised-button color="warn" (click)="onNoClick()" tabindex="-1">Cancel</button>
+          </div>
+        </div>
+      </div>
+
+      <!--{{isForm.value | json}}-->
+    </form>
+  </div>
+</div>

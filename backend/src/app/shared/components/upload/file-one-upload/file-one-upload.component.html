@@ -1,0 +1,86 @@
+<div class="body">
+  <h6>{{type | fileNamePipe}}</h6>
+  @if($progress() > 0 && $progress() != 100){
+  <mat-progress-bar mode="determinate" [value]="$progress()"></mat-progress-bar>
+  }
+  @if(!filePath){
+  <div class="file-drop-area">
+    <!--<button mat-raised-button color="primary">Choose file</button>-->
+    <span>{{'Choose file or drag and drop file here' }} </span>
+    <input class="file-input" type="file" [accept]="type | fileTypePipe">
+  </div>
+  }@else{
+  <div class="doc-file-type">
+    <ul class="list-unstyled">
+      <li class="d-flex mb-3">
+        @switch (true) {
+        @case (filePath.includes('.doc')) {
+        <span class="msr-3 align-self-center img-icon primary-rgba text-primary">
+          <i class="far fa-file-word"></i>
+        </span>
+        }
+        @case (filePath.includes('.html')) {
+        <span class="msr-3 align-self-center img-icon primary-rgba text-primary">
+          <i class="far fa-file-code"></i>
+        </span>
+        }
+        @case (filePath.includes('.zip')) {
+        <span class="msr-3 align-self-center img-icon primary-rgba text-primary">
+          <i class="far fa-file-archive"></i>
+        </span>
+        }
+        @case (type?.includes('VR_voice')) {
+        <span class="msr-3 align-self-center img-icon primary-rgba text-primary">
+          <i class="far fa-file-audio"></i>
+        </span>
+        }
+        @default{
+        @if (imageType.includes(type || '')){
+        <span class="msr-3 align-self-center img-icon primary-rgba">
+          <div class="table-img">
+            @switch (true) {
+            @case (type?.includes('enlargeImg')) { <img [src]="ExhibitsEnlarge + filePath" alt="image" /> }
+            @case (type?.includes('thumbnailImg')) { <img [src]="ExhibitsThumbnail + filePath" alt="image" /> }
+            @case (type?.includes('webImg')) { <img [src]="ExhibitsWebImg + filePath" alt="image" /> }
+            @case (type?.includes('VR_Img')) { <img [src]="ExhibitsVR + filePath" alt="image" /> }
+            @default { <img [src]="ExhibitsImg + filePath" alt="image" /> }
+            }
+
+          </div>
+        </span>
+        }
+        }
+        }
+
+
+        <div class="set-flex">
+          <h5 class="font-16 mb-1">
+            @switch (true) {
+            @case (type?.includes('gameZip')) { <a [href]="ExhibitsGame + id + '/' + filePath"
+              target="_blank">{{filePath}}</a>}
+            @case (type?.includes('bookFile2')) { <a [href]="ExhibitsEBook +  filePath"
+              target="_blank">{{filePath}}</a>}
+            @case (type?.includes('enlargeImg')) { <a [href]="ExhibitsEnlarge + filePath"
+              target="_blank">{{filePath}}</a>}
+            @case (type?.includes('Thumbnail')) { <a [href]="ExhibitsThumbnail + filePath"
+              target="_blank">{{filePath}}</a>}
+            @case (type?.includes('VR_')) { <a [href]="ExhibitsVR + filePath" target="_blank">{{filePath}}</a>}
+            @case (type?.includes('webImg')) { <a [href]="ExhibitsWebImg + filePath" target="_blank">{{filePath}}</a>}
+            @default { <a [href]="ExhibitsImg + filePath" target="_blank">{{filePath}}</a> }
+
+            }
+          </h5>
+          <!--<p>.doc, 4.3 MB</p> -->
+        </div>
+        <div class="ms-auto">
+          <td>
+            <i class="far fa-trash-alt psr-3" (click)="deleteFile()"></i>
+            <!--<i class="far fa-arrow-alt-circle-down"></i>-->
+          </td>
+        </div>
+      </li>
+
+    </ul>
+  </div>
+  }
+</div>

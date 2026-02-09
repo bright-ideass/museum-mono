@@ -1,0 +1,199 @@
+<div class="addContainer">
+  <div class="modalHeader">
+    <div class="editRowModal">
+      <div class="modalHeader clearfix">
+        <!--<img [src]='advanceTable.img' alt="avatar">-->
+        <div class="modal-about">
+          <div class="fw-bold p-t-5 p-l-10 font-17">
+            {{dialogTitle}}</div>
+        </div>
+      </div>
+    </div>
+    <button mat-icon-button (click)="dialogRef.close()" class="modal-close-button" aria-label="Close dialog">
+      <mat-icon>close</mat-icon>
+    </button>
+  </div>
+  <div mat-dialog-content>
+
+
+    <form class="register-form m-4" [formGroup]="isForm">
+
+      <div class="row">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+
+          <mat-tab-group>
+            <mat-tab label="基本資料">
+              <br>
+
+              <div class="row example-tab-box">
+                <div class="col-6">
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>展覽名稱</mat-label>
+                    <input matInput formControlName="Navigation" #Navigation required maxlength="200">
+                    <mat-hint align="end">{{Navigation?.value?.length || 0}}/200</mat-hint>
+                    <mat-error>
+                      <app-shared-validator-error [ctrl]="isForm.get('ExhibitsName')"></app-shared-validator-error>
+                    </mat-error>
+                  </mat-form-field>
+
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>內容</mat-label>
+                    <textarea matInput formControlName="note" #note maxlength="3000"></textarea>
+                    <mat-hint align="end">{{note?.value?.length || 0}}/3000</mat-hint>
+                  </mat-form-field>
+
+                  <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width " appearance="outline">
+                        <mat-label>主題樣式</mat-label>
+                        <mat-select formControlName="CssType">
+                          @for(item of cssType(); track $index){
+                          <mat-option [value]="item">{{item }}
+                          </mat-option>
+                          }
+                        </mat-select>
+                      </mat-form-field>
+
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      回顧展是否顯示：
+                      <mat-radio-group aria-label="Select gender" formControlName="NavigationType" required>
+                        <mat-radio-button [value]="'1'">顯示</mat-radio-button>
+                        <mat-radio-button [value]="'0'">不顯示</mat-radio-button>
+                      </mat-radio-group>
+                    </div>
+                  </div>
+
+                </div>
+                <!--第2排-->
+                <div class="col-6">
+                  <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label>上架日期</mat-label>
+                        <input matInput [matDatepicker]="picker" formControlName="showDate1">
+                        <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                        <mat-datepicker #picker></mat-datepicker>
+                        @if (isForm.get('showDate1')?.hasError('required')) {
+                        <mat-error>
+                          Please select 上架日期
+                        </mat-error>
+                        }
+                      </mat-form-field>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mb-2">
+                      <mat-form-field class="example-full-width" appearance="outline">
+                        <mat-label> 下架日期</mat-label>
+                        <input matInput [matDatepicker]="pickerEnd" formControlName="showDate2">
+                        <mat-datepicker-toggle matSuffix [for]="pickerEnd"></mat-datepicker-toggle>
+                        <mat-datepicker #pickerEnd></mat-datepicker>
+                      </mat-form-field>
+                    </div>
+
+                    <app-shared-file-one-upload [type]="'VR_Img'" [filePath]="isForm.get('ImgSrc')?.value"
+                      (uploadFile)="onFile($event, 'ImgSrc')"></app-shared-file-one-upload>
+
+                    <app-shared-file-one-upload [type]="'VR_voice'" [filePath]="isForm.get('mainVoice')?.value"
+                      (uploadFile)="onFile($event, 'mainVoice')"></app-shared-file-one-upload>
+                  </div>
+
+                </div>
+
+
+              </div>
+            </mat-tab>
+            <mat-tab label="展間1">
+              <br>
+              <div class="row example-tab-box">
+                <div class="col-6">
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>展間1名稱</mat-label>
+                    <input matInput formControlName="room1_Name" #room1_Name maxlength="50">
+                    <mat-hint align="end">{{room1_Name?.value?.length || 0}}/50</mat-hint>
+                  </mat-form-field>
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>展間1內容</mat-label>
+                    <textarea matInput formControlName="room1_desc" #room1_desc maxlength="3000"></textarea>
+                    <mat-hint align="end">{{room1_desc?.value?.length || 0}}/3000</mat-hint>
+                  </mat-form-field>
+                </div>
+                <div class="col-6">
+                  <app-shared-file-one-upload [type]="'VR_Img'" [filePath]="isForm.get('room1_img0')?.value"
+                    (uploadFile)="onFile($event, 'room1_img0')"></app-shared-file-one-upload>
+                  <app-shared-file-one-upload [type]="'VR_voice'" [filePath]="isForm.get('room1_voice')?.value"
+                    (uploadFile)="onFile($event, 'room1_voice')"></app-shared-file-one-upload>
+                </div>
+              </div>
+            </mat-tab>
+
+            <mat-tab label="展間2">
+              <br>
+              <div class="row example-tab-box">
+                <div class="col-6">
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>展間2名稱</mat-label>
+                    <input matInput formControlName="room2_Name" #room2_Name maxlength="50">
+                    <mat-hint align="end">{{room2_Name?.value?.length || 0}}/50</mat-hint>
+                  </mat-form-field>
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>展間1內容</mat-label>
+                    <textarea matInput formControlName="room2_desc" #room2_desc maxlength="3000"></textarea>
+                    <mat-hint align="end">{{room2_desc?.value?.length || 0}}/3000</mat-hint>
+                  </mat-form-field>
+                </div>
+                <div class="col-6">
+                  <app-shared-file-one-upload [type]="'VR_Img'" [filePath]="isForm.get('room2_img0')?.value"
+                    (uploadFile)="onFile($event, 'room2_img0')"></app-shared-file-one-upload>
+                  <app-shared-file-one-upload [type]="'VR_voice'" [filePath]="isForm.get('room2_voice')?.value"
+                    (uploadFile)="onFile($event, 'room2_voice')"></app-shared-file-one-upload>
+                </div>
+              </div>
+            </mat-tab>
+
+            <mat-tab label="展間3">
+              <br>
+              <div class="row example-tab-box">
+                <div class="col-6">
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>展間3名稱</mat-label>
+                    <input matInput formControlName="room3_Name" #room3_Name maxlength="50">
+                    <mat-hint align="end">{{room3_Name?.value?.length || 0}}/50</mat-hint>
+                  </mat-form-field>
+                  <mat-form-field class="example-full-width" appearance="outline">
+                    <mat-label>展間3內容</mat-label>
+                    <textarea matInput formControlName="room3_desc" #room3_desc maxlength="3000"></textarea>
+                    <mat-hint align="end">{{room3_desc?.value?.length || 0}}/3000</mat-hint>
+                  </mat-form-field>
+                </div>
+                <div class="col-6">
+                  <app-shared-file-one-upload [type]="'VR_Img'" [filePath]="isForm.get('room3_img0')?.value"
+                    (uploadFile)="onFile($event, 'room3_img0')"></app-shared-file-one-upload>
+                  <app-shared-file-one-upload [type]="'VR_voice'" [filePath]="isForm.get('room3_voice')?.value"
+                    (uploadFile)="onFile($event, 'room3_voice')"></app-shared-file-one-upload>
+                </div>
+              </div>
+            </mat-tab>
+          </mat-tab-group>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
+          @defer {
+          <app-shareds-state-button [control]="isForm.get('state')"></app-shareds-state-button>}
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-2">
+          <div class="example-button-row">
+            <button mat-raised-button color="primary" [disabled]="!isForm.dirty || !isForm.valid" (click)="confirmAdd()">Save</button>
+            <button mat-raised-button color="warn" (click)="onNoClick()" tabindex="-1">Cancel</button>
+          </div>
+        </div>
+      </div>
+
+      <!--{{isForm.value | json}}-->
+    </form>
+  </div>
+</div>

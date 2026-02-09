@@ -1,0 +1,1199 @@
+{
+    "common": {
+        "audioGuide": "語音導覽",
+        "furtherReading": "延伸閱讀",
+        "watchVideo": "觀看影音",
+        "360surround": "360°環場",
+        "surroundView": "環物瀏覽",
+        "antiCounterfeit": "防偽辨識",
+        "dictionary": "小辭典",
+        "detailIntroduce": "詳細介紹",
+        "eBook": "電子書",
+        "multimediaLook": "觀看",
+        "multimediaDisplay": "多媒體展示",
+        "issueTime": "發行時間",
+        "issueArea": "發行地區",
+        "yearVersion": "年版",
+        "issueVersion": "版別",
+        "pieceSize": "本件尺寸(毫米)",
+        "diplayType": "型式",
+        "material": "材質",
+        "mainColor": "主墨色",
+        "pattern": "圖案",
+        "frontSite": "正面",
+        "backSite": "背面",
+        "watermark": "水印",
+        "content": "內容",
+        "denomination": "面額",
+        "goBackPage": "回上一頁",
+        "weightWithG": "重量(公克)",
+        "diameterWithMm": "直徑(毫米)",
+        "cbc": "中央銀行全球資訊網行動版",
+        "sitemap": "網站導覽",
+        "informationAnnouncement": "網站資訊宣告",
+        "otherLink": "其他連結",
+        "updateTime": "更新日期：",
+        "kids": "兒童版",
+        "virtualExhibition": "虛擬展覽館",
+        "collection": "典藏寶庫",
+        "relatedLink": "相關連結",
+        "attachmentDownload": "附件下載",
+        "footerOpen": "展開",
+        "footerClose": "收合",
+        "pdfDownload": "PDF下載",
+        "siteSearch": "網站檢索",
+        "shareToFacebook": "分享至Facebook",
+        "shareToTwitter": "分享至twitter",
+        "shareToLine": "分享至LINE",
+        "learnineMore": "更多券幣",
+        "shareToInstagram": "分享至Instagram",
+        "linkInstagram": "https://www.Instagram.com/CBC.gov.tw"
+    },
+    "index": {
+        "name": "首頁",
+        "bannerAlt": "Banner",
+        "productBrowse": "商品瀏覽",
+        "moreNews": "更多訊息",
+        "contact": {
+            "title": "與我們聯絡",
+            "address": "聯絡地址：100243 臺北市中正區羅斯福路一段2號",
+            "phone": "聯絡電話：(02)2393-6161",
+            "fax": "傳真：(02)2357-1974"
+        },
+        "story": {
+            "buttonName": "貨幣的故事",
+            "contentTitle": "什麼是貨幣？",
+            "content": "「貨幣」是被大眾普遍接受，可用來支付交易、償還債務的工具，包括通貨及活期性存..."
+        },
+        "antiCounterfeit": {
+            "buttonName": "辨識秘訣",
+            "contentTitle": "新臺幣辨識秘訣",
+            "content": "簡單三口訣教您如何辨識新臺幣真偽"
+        },
+        "cycle": {
+            "buttonName": "券幣的一生",
+            "contentTitle": "券幣的生命週期",
+            "content": "我國的鈔券和硬幣，目前是由中央銀行設立的中央印製廠及中央造幣廠印製與鑄造..."
+        },
+        "master": {
+            "buttonName": "成為達人",
+            "contentTitle": "券幣達人",
+            "content": "您有所不知的券幣知識"
+        }
+    },
+    "circulation": {
+        "noteAndCoin": "流通券幣",
+        "note": "鈔券",
+        "coin": "硬幣",
+        "furtherReadingHtml": "<ol><li class=\"mb-3\">中央銀行，《中華民國中央銀行之制度與功能》，臺北市：中央銀行，1991。</li><li class=\"mb-3\">臺灣銀行，《「臺灣銀行五十年」專輯》，臺北市：臺灣銀行，1996。</li><li class=\"mb-3\">中央銀行發行局，《臺幣•新臺幣圖鑑》，臺北市：中央銀行發行局，1998。</li><li class=\"mb-3\">中央印製廠，《中央印製廠建廠六十週年紀念》，新北市：中央印製廠，2001。</li><li class=\"mb-3\">中央銀行，《中華民國中央銀行之制度與功能（92年版）》，臺北市：中央銀行，2003。</li><li class=\"mb-3\">中央造幣廠開鑄七十週年慶祝活動籌備委員會，《中央造幣廠幣章圖鑑（82-92）》，桃園縣：中央造幣廠，2003。</li><li class=\"mb-3\">臺灣銀行，《臺灣銀行六十年》，臺北市：臺灣銀行，2006。</li><li class=\"mb-3\">中央造幣廠幣章圖鑑籌備委員會，《中央造幣廠幣章圖鑑（92-98）》，桃園縣：中央造幣廠，2009。</li><li class=\"mb-3\">中央印製廠 http://www.cepp.gov.tw/internet/cn/index.aspx</li><li class=\"mb-3\">中央造幣廠 http://www.cmc.gov.tw/index.jsp</li></ol>",
+        "furtherReadingHtml_2": "<ol><li class=\"mb-3\">臺灣生命大百科 http://eol.taibif.tw</li><li class=\"mb-3\">臺灣櫻花鉤吻鮭環境教育數位學習網 http://salmon.spnp.gov.tw/dispPageBox/index.htm</li><li class=\"mb-3\">中華民國總統府網站 http://www.president.gov.tw/Default.aspx?tabid=1202</li><li class=\"mb-3\">陽明山中山樓網站 http://www.ntl.edu.tw/ct.asp?xItem=10890&CtNode=1264&mp=13</li><li class=\"mb-3\">玉山國家公園網站 http://www.ysnp.gov.tw</li><li class=\"mb-3\">太魯閣國家公園網站 http://www.taroko.gov.tw</li><li class=\"mb-3\">雪霸國家公園網站 http://www.spnp.gov.tw</li><li class=\"mb-3\">清華大學生命科學院-櫻花鉤吻鮭答客問 http://life.nthu.edu.tw/~labtcs/Salmon/faq/faq_index.htm</li><li class=\"mb-3\">中華民國野鳥學會網站 http://www.bird.org.tw</li><li class=\"mb-3\">中華民國健行登山會網站 http://www.alpineclub.org.tw</li><li class=\"mb-3\">國立自然科學博物館網站 http://www.nmns.edu.tw/</li></ol>",
+        "banknote": {
+            "title": "流通鈔券",
+            "description": "「中央銀行法」第13條規定，中華民國貨幣，由中央銀行發行之，對於中華民國境內的一切支付，具有法償效力。<br>現行的流通鈔券共有100、200、500、1000及2000元等5種面額，除特重防偽性與實用性外，構圖及主題以關懷本土，並兼具尊重歷史、展現臺灣未來希望、表現本土景觀及生態保育為原則。"
+        },
+        "anniversary": {
+            "title": "紀念性流通鈔券",
+            "description": "中央銀行為紀念國家重大慶典、重要節日、舉辦著名國際性活動或國家其他特殊紀念事蹟等主題，依據「金銀幣及紀念性券幣發行辦法」發行有面額、且具流通性質的紀念性流通鈔券。"
+        },
+        "pictureGuide": {
+            "title": "鈔券圖話",
+            "description": "鈔券可視為一個國家的縮影，其主題圖像反映了該國特色。我國流通鈔券的設計，除延續國父及先總統蔣公肖像主題圖像外，另搭配歷史建築和臺灣特有動植物種及壯麗山岳，凸顯了臺灣人文與自然的獨特性及本土性，期盼藉此傳達愛護生態，進而提升國人的保育觀念。",
+            "100": {
+                "name": "壹佰元券",
+                "zhongshanTower": "中山樓",
+                "zhongshanTowerPalaceManuscriptAlt": "中山樓圖案原稿",
+                "zhongshanTowerPalaceManuscriptRemark": "中山樓圖案原稿",
+                "zhongshanTowerPalacePrintPatternAlt": "中山樓凹版印刷圖案",
+                "zhongshanTowerPalacePrintPatternRemark": "中山樓凹版印刷圖案",
+                "zhongshanTowerPalaceDescriptionHtml": "<p>民國55年為紀念國父百年誕辰，緬懷其創立中華民國的偉績，特於臺北陽明山上籌建中山樓，嗣後舉凡國家重要會議及國民大會均曾在此召開。</p><p>中山樓為中國宮殿式建築，氣勢磅礡，是女建築師修澤蘭的傑出作品。綠瓦屋頂層疊鋪蓋，與紅簷白牆呈顯其壯麗；飛簷翹角則如大鵬展翅，室內裝飾刻畫銅雀紋，均蘊含中國文化藝術特質。樓前牌樓挺拔，鐫刻國父墨蹟「天下為公」和「大道之行」；襯以大門前蒼松翠柏及石獅，自然形成肅穆寧靜的氣氛。</p>"
+            },
+            "200": {
+                "name": "貳佰元券",
+                "presidentialPalace": "總統府",
+                "presidentialPalaceManuscriptAlt": "總統府圖案原稿",
+                "presidentialPalaceManuscriptRemark": "總統府圖案原稿",
+                "presidentialPalacePrintPatternAlt": "總統府凹版印刷圖案",
+                "presidentialPalacePrintPatternRemark": "總統府凹版印刷圖案",
+                "presidentialPalaceDescriptionHtml": "<p>總統府前身為日治時期的臺灣總督府，於西元1919年竣工，是當時全臺的地標。二次大戰期間嚴重損毀，戰後經整修，民國39年成為中華民國總統府，持續扮演政治中樞的角色。</p><p>總統府主體及附屬空地均為國定古蹟。建築屬後期文藝復興式風格，立面古典且華麗，可見柱列、山牆、圓拱窗、牛眼窗、托座、羅馬柱式、複柱等建築構件。整體結構經過縝密規畫，穩固且耐震。</p>"
+            },
+            "500": {
+                "name": "伍佰元券",
+                "dabaMountain": "大霸尖山",
+                "dabaMountainManuscriptAlt": "大霸尖山圖案原稿",
+                "dabaMountainManuscriptRemark": "大霸尖山圖案原稿（周梅玲版權所有）",
+                "dabaMountainDescriptionHtml": "<p>大霸群峰位於雪山山脈聖稜線的北端，是雪山山脈主脊的大支脈；並以大霸尖山為軸點，向東、北、西三面分出長短不一的四條山稜。地質特殊，由硬砂岩風蝕而成；山勢突地拔起，危峰孤峙，山頂呈金字塔狀。</p><p>大霸尖山四面崖壁寸草不生，山形冷峻，令人生畏，素有「世紀奇峰」之稱；與中央尖山、達芬尖山合稱「三尖」。泰雅族和賽夏族原住民視其為聖山。</p>",
+                "sikaDeer": "梅花鹿",
+                "sikaDeerManuscriptAlt": "梅花鹿圖案原稿",
+                "sikaDeerManuscriptRemark": "梅花鹿圖案原稿（陳鏗版權所有）",
+                "sikaDeerPrintPatternAlt": "梅花鹿凹版印刷圖案",
+                "sikaDeerPrintPatternRemark": "梅花鹿凹版印刷圖案",
+                "sikaDeerDescriptionHtml": "<p>梅花鹿分布在亞洲東南部，臺灣梅花鹿是其中體形較大的亞種，昔日主要棲息在中低海拔的平原及丘陵地。近幾百年來，因大量濫捕及棲地因開發而遭到破壞，導致數量日益減少。墾丁國家公園自1984年起積極展開復育計畫，期使鹿群回歸原野，重現山林。</p><p>梅花鹿因為背上分布狀似梅花的白色斑點而得名。夏季毛色為淡栗色，斑點較明顯，背部正中線為黑色帶。鹿角生長具年週期性，公鹿兩歲開始長角，五歲前每年增加一個分叉。梅花鹿性溫馴、敏感及機警。以樹葉、嫩芽及青草為主食，通常在清晨和黃昏時覓食。</p>"
+            },
+            "1000": {
+                "name": "壹仟元券",
+                "sunrise": "日出",
+                "sunriseManuscriptAlt": "日出圖案原稿",
+                "sunriseManuscriptRemark": "日出圖案原稿（許惠娜版權所有）",
+                "sunriseDescriptionHtml": "<p>太陽從地平線出現瞬間，光線受到大氣層灰塵影響而產生散射，會使天空瀰漫著薄霞，氣象萬千。</p><p>由於日出時灰塵較日落時少，霞氣淡雅。古文人常以徐徐昇起的旭日和生機蓬勃的萬物，隱喻志向，抒發情懷。</p>",
+                "yushan": "玉山",
+                "yushanManuscriptAlt": "玉山圖案原稿",
+                "yushanManuscriptRemark": "玉山圖案原稿（梁明本版權所有）",
+                "yushanDescriptionHtml": "<p>玉山山塊是因歐亞大陸板塊與菲律賓板塊擠撞而隆起，主峰海拔3,952公尺，為臺灣第一高峰，位於南投縣、高雄市及嘉義縣交界處；山容氣勢磅礡，雄踞一方。臺灣八景之一「玉山積雪」即指冬季遠望雪白如玉的景緻。</p><p>主峰與鄰近地區崇山峻嶺，溪谷深邃，天然植被隨海拔變化而異，有亞熱帶、溫帶、高山寒帶等林相，次第變化。並有多元物種，其中動物有黑長尾雉、臺灣野山羊、臺灣水鹿、臺灣黑熊、臺灣山羌、臺灣獼猴及冰河時期孑遺物種阿里山山椒魚等；植物有高山沙參、玉山龍膽、玉山杜鵑等，殊為珍貴。</p><p>此外尚有清代和日治時期的八通關及關山古道、越嶺道等歷史遺跡，橫亙其間。全區曾是布農族生活領域，兼具自然人文研究價值。</p>",
+                "cirsiumTatakaense": "塔塔加薊",
+                "cirsiumTatakaenseManuscriptAlt": "塔塔加薊圖案原稿",
+                "cirsiumTatakaenseManuscriptRemark": "塔塔加薊圖案原稿（陳玉峯版權所有）",
+                "cirsiumTatakaenseDescriptionHtml": "<p>菊科薊屬植物，為臺灣特有種，主要生長於玉山山脈海拔2,000-3,000公尺的塔塔加一帶山區，美麗又罕見。全株具銳針刺，莖直立，上部分枝，葉長披針形，先端漸尖，開紫色的頭狀花序，花期約在每年8月至10月左右，花序盛開時下垂。</p><p>塔塔加薊長期以來被歸為「玉山薊」，經過中興大學森林學系研究團隊多年研究及比對，確認與玉山薊不同，係尚未被命名的全新物種，於108年2月發表於國際期刊，將其命名為「塔塔加薊」。</p>",
+                "syrmaticusMikado": "黑長尾雉",
+                "syrmaticusMikadoPictureAlt": "黑長尾雉",
+                "syrmaticusMikadoPictureRemark": "黑長尾雉（黃煥君版權所有）",
+                "syrmaticusMikadoPrintPatternAlt": "黑長尾雉凹版印刷圖案",
+                "syrmaticusMikadoPrintPatternRemark": "黑長尾雉凹版印刷圖案",
+                "syrmaticusMikadoDescriptionHtml": "<p>昔稱帝雉，臺灣特有種，分布在中、高海拔山區，棲息針闊葉混合林及箭竹林。</p><p>雄鳥和雌鳥的外觀不同。雄鳥身體呈現閃亮光澤的藍黑色，眼周鮮紅色，翅膀有一白色翼帶；雌鳥羽毛以褐色為主，無長尾羽。</p><p>多出沒坡度陡峭地區，生性謹慎隱密及安靜，常在濃霧或雨後在道路兩側或林緣地帶覓食，以蕨類植物嫩芽、野草莓及昆蟲為食。行走時步伐沉穩，昂首慢步。雌雄鳥成對覓食時，雄鳥會緊鄰雌鳥，並保持警戒。</p>"
+            },
+            "2000": {
+                "name": "貳仟元券",
+                "nanhuMountain": "南湖大山",
+                "nanhuMountainManuscriptAlt": "南湖大山圖案原稿",
+                "nanhuMountainManuscriptRemark": "南湖大山圖案原稿（陳炳元版權所有）",
+                "nanhuMountainDescriptionHtml": "<p>中央山脈北段最高峰，標高3,742公尺，與玉山、雪山、秀姑巒山、北大武山合稱「五岳」，是臺灣最具代表性的五座高山。</p><p>南湖大山位處太魯閣國家公園保護區內，地質以第三紀形成的黏板岩為主，自然環境似寒原，對地處亞熱帶的臺灣而言，實屬罕見。</p><p>該地區有許多特有或保育類動植物，如：南湖柳葉菜、南湖大山紫雲英、奇萊喜普鞋蘭等，臺灣黑熊、臺灣水鹿也經常出沒其間。由於臺灣高山陡峭、多峽谷、多山峰的地勢特徵，南湖主、東群峰環繞形成的上、下兩個寬闊U型谷，為非常特殊的地理景觀。</p>",
+                "taiwanSalmon": "臺灣櫻花鉤吻鮭",
+                "taiwanSalmonManuscriptAlt": "臺灣櫻花鉤吻鮭圖案原稿",
+                "taiwanSalmonManuscriptRemark": "臺灣櫻花鉤吻鮭圖案原稿（雪霸國家公園管理處版權所有）",
+                "taiwanSalmonDraftPictureAlt": "臺灣櫻花鉤吻鮭凹版印刷圖案初稿",
+                "taiwanSalmonDraftPictureRemark": "臺灣櫻花鉤吻鮭凹版印刷圖案初稿",
+                "taiwanSalmonDescriptionHtml": "<p>中央山脈北段最高峰，標高3,又稱臺灣鮭魚，原為太平洋鮭魚屬的洄游性魚類，冰河時期因海平面下降，被阻絕於大甲溪上游，成為陸封型鮭魚，是臺灣特有亞種，屬冰河時期的孑遺生物；並以分布獨特性與陸封生態，而聞名於世。</p><p>適合生長在水溫5-17℃且水質乾淨的溪流，主要以水棲昆蟲（石蠶、石蠅、蜉蝣等）為食。繁殖期間體色變深，體側橢圓形橫斑逐漸轉為暗褐色霞狀雲斑，雄魚吻部向上彎曲形成鉤吻狀。由於生活習性迥異於臺灣其他魚類，且分布獨特，瀕臨絕種，有「國寶魚」的美稱。自1985年起在雪霸國家公園中的七家灣溪實施人工復育計畫，目前已有相當成效。</p>"
+            }
+        },
+        "currency": {
+            "title": "流通幣",
+            "description": "「中央銀行法」第13條規定，中華民國貨幣，由中央銀行發行之，對於中華民國境內的一切支付，具有法償效力。<br>為方便民眾小額支付及找零使用，現行的流通硬幣共有1、5、10、20及50元等5種面額；為加強防偽辨識，部分面額採用隱藏圖案、幣邊滾字及浮凸點等特徵。"
+        },
+        "anniversaryCurrency": {
+            "title": "紀念性流通幣",
+            "description": "中央銀行為紀念國家重大慶典、重要節日、舉辦著名國際性活動或國家其他特殊紀念意義之事蹟，依據「金銀幣及紀念性券幣發行辦法」發行有面額、且具流通性質的紀念性流通幣。"
+        }
+    },
+    "antiCounterfeit": {
+        "antiCounterfeitForNT": "新臺幣防偽功能",
+        "front": "正面",
+        "back": "反面",
+        "furtherReadingHtml": "新臺幣防偽介紹<br><br><br>中央銀行，《中華民國中央銀行之制度與功能》，臺北市：中央銀行，1991。<br>中央銀行發行局，《臺幣•新臺幣圖鑑》，臺北市：中央銀行發行局，1998。<br>中央印製廠，《中央印製廠建廠六十週年紀念》，新北市：中央印製廠，2001。<br>中央造幣廠開鑄七十週年慶祝活動籌備委員會，《中央造幣廠幣章圖鑑（82-92）》，桃園縣：中央造幣廠，2003。<br>中央銀行，《中華民國中央銀行之制度與功能（92年版）》，臺北市：中央銀行，2003。<br>中央造幣廠幣章圖鑑籌備委員會，《中央造幣廠幣章圖鑑（92-98）》，桃園縣：中央造幣廠，2009。<br>中央印製廠 http://www.cepp.gov.tw/internet/cn/index.aspx <br>中央造幣廠 http://www.cmc.gov.tw/index.jsp",
+        "circulation": {
+            "title": "流通券幣防偽",
+            "descriptionHtml": "<p>為防止券幣被不法分子偽造，中央印製廠與中央造幣廠不斷研發先進防偽技術，目前均已達國際水準。中央銀行除積極宣導外，更依照「金融機構處理偽造變造仿造新臺幣券幣辦法」，要求各金融機構加強截留偽造券幣。另建立偽造券幣資料庫，供查緝偽鈔專案小組偵辦及追蹤使用，以保障民眾權益，維護幣信。</p><p>現行新臺幣鈔券使用的防偽設計有：凹版印紋、水印、變色油墨、窗式安全線、隱藏字、光影變化箔膜、金屬油墨等，並以「看一看」、「摸一摸」、「轉一轉」等簡單口訣介紹辨識方法；硬幣則有隱藏圖案、浮凸點、幣邊滾字等。以上各項防偽設計，可方便民眾目視、視障者辨識及機器檢視。</p>",
+            "tipTitle": "鈔券防偽三口訣，介紹辨識方法：",
+            "tip1": "看一看",
+            "tip1DescriptionHtml": "拿起鈔券迎光看一看，找找隱藏起來的水印和隱藏字。<span class=\"d-none d-md-inline d-lg-none d-xl-inline\"><br>&nbsp;</span>",
+            "tip2": "摸一摸",
+            "tip2DescriptionHtml": "摸一摸鈔券上面有哪些凹版印紋的觸感？<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span>",
+            "tip3": "轉一轉",
+            "tip3DescriptionHtml": "轉一轉鈔券，看看獨特的窗式安全線、變色油墨和光影變化箔膜。"
+        },
+        "note": {
+            "title": "流通鈔券",
+            "see": "看一看",
+            "touch": "摸一摸",
+            "turn": "轉一轉",
+            "100": {
+                "title": "壹佰圓",
+                "see": {
+                    "tip1": "水印",
+                    "tip1DescriptionHtml": "迎光透視鈔券正面左邊空白處，有層次分明的「梅花」圖案，及特別明亮的「100」阿拉伯面額數字。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span>",
+                    "tip2": "隱藏字",
+                    "tip2DescriptionHtml": "輕轉鈔券，在鈔券正面右下角有條狀的連續式花紋圖案，以15度角迎光檢視時，會浮現代表面額的「100」數字，而且不同的角度，會有深淺兩種變化。"
+                },
+                "touch": {
+                    "tip1": "凹版印紋",
+                    "tip1DescriptionHtml": "鈔券正面的「100」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip2": "凹版印紋",
+                    "tip2DescriptionHtml": "鈔券正面左邊的「浮凸點」，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip3": "凹版印紋",
+                    "tip3DescriptionHtml": "鈔券正面的「100」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。<span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip4": "凹版印紋",
+                    "tip4DescriptionHtml": "鈔券正面的「中華民國」、「中央銀行」字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip5": "凹版印紋",
+                    "tip5DescriptionHtml": "鈔券正面的「壹佰圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip6": "凹版印紋",
+                    "tip6DescriptionHtml": "鈔券背面的「100」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip7": "凹版印紋",
+                    "tip7DescriptionHtml": "鈔券背面的「壹佰圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。"
+                },
+                "turn": {
+                    "tip1": "窗式變色安全線",
+                    "tip1DescriptionHtml": "鈔券正面有五段顯露窗式變色安全線，線上印有阿拉伯面額數字「100」，輕轉鈔券，會由紫色變成綠色；鈔券迎光透視，會變成不透光的實線，內有透光的「100」字樣。",
+                    "tip2": "變色油墨",
+                    "tip2DescriptionHtml": "鈔券正面左下角阿拉伯面額數字「100」使用特殊油墨印製；輕轉鈔券時，會出現紫紅色和綠色的變化。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span>"
+                }
+            },
+            "200": {
+                "title": "貳佰圓",
+                "see": {
+                    "tip1": "水印",
+                    "tip1DescriptionHtml": "迎光透視鈔券正面左邊空白處，有層次分明的「蘭花」圖案，及特別明亮的「200」阿拉伯面額數字。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span>",
+                    "tip2": "隱藏字",
+                    "tip2DescriptionHtml": "輕轉鈔券，在鈔券正面右下角有條狀的連續式花紋圖案，以15度角迎光檢視時，會浮現代表面額的「200」數字，而且不同的角度，會有深淺兩種變化。"
+                },
+                "touch": {
+                    "tip1": "凹版印紋",
+                    "tip1DescriptionHtml": "鈔券正面的「200」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip2": "凹版印紋",
+                    "tip2DescriptionHtml": "鈔券正面左邊的「浮凸點」，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip3": "凹版印紋",
+                    "tip3DescriptionHtml": "鈔券正面的「200」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。<span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip4": "凹版印紋",
+                    "tip4DescriptionHtml": "鈔券正面的「中華民國」、「中央銀行」字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip5": "凹版印紋",
+                    "tip5DescriptionHtml": "鈔券正面的「貳佰圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip6": "凹版印紋",
+                    "tip6DescriptionHtml": "鈔券背面的「200」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip7": "凹版印紋",
+                    "tip7DescriptionHtml": "鈔券背面的「貳佰圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。"
+                },
+                "turn": {
+                    "tip1": "窗式變色安全線",
+                    "tip1DescriptionHtml": "鈔券正面有五段顯露窗式變色安全線，線上印有阿拉伯面額數字「200」，輕轉鈔券，會由紫色變成綠色；鈔券迎光透視，會變成不透光的實線，內有透光的「200」字樣。",
+                    "tip2": "變色油墨",
+                    "tip2DescriptionHtml": "鈔券正面左下角阿拉伯面額數字「200」使用特殊油墨印製；輕轉鈔券時，會出現金色和綠色的變化。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span>"
+                }
+            },
+            "500": {
+                "title": "伍佰圓",
+                "see": {
+                    "tip1": "水印",
+                    "tip1DescriptionHtml": "迎光透視鈔券正面左邊空白處，有層次分明的「竹子」圖案，及特別明亮的「500」阿拉伯面額數字。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span>",
+                    "tip2": "隱藏字",
+                    "tip2DescriptionHtml": "輕轉鈔券，在鈔券正面右下角有條狀的連續式花紋圖案，以15度角迎光檢視時，會浮現代表面額的「500」數字，而且不同的角度，會有深淺兩種變化。"
+                },
+                "touch": {
+                    "tip1": "凹版印紋",
+                    "tip1DescriptionHtml": "鈔券正面的「500」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip2": "凹版印紋",
+                    "tip2DescriptionHtml": "鈔券正面左邊的「浮凸點」，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip3": "凹版印紋",
+                    "tip3DescriptionHtml": "鈔券正面的「500」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。<span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip4": "凹版印紋",
+                    "tip4DescriptionHtml": "鈔券正面的「中華民國」、「中央銀行」字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip5": "凹版印紋",
+                    "tip5DescriptionHtml": "鈔券正面的「伍佰圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip6": "凹版印紋",
+                    "tip6DescriptionHtml": "鈔券背面的「伍佰圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。"
+                },
+                "turn": {
+                    "tip1": "變色油墨",
+                    "tip1DescriptionHtml": "鈔券正面左下角阿拉伯面額數字「500」使用特殊油墨印製；輕轉鈔券時，會出現金色和綠色的變化。",
+                    "tip2": "條狀光影變化箔膜",
+                    "tip2DescriptionHtml": "輕輕轉轉動鈔券正面，右側條狀箔膜呈現七彩光影變化效果。<span class=\"d-none d-md-inline\"><br>&nbsp;</span>",
+                    "tip3": "變色油墨",
+                    "tip3DescriptionHtml": "鈔券背面左上角阿拉伯面額數字「500」使用特殊油墨印製；輕轉鈔券時，會出現金色和綠色的變化。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip4": "窗式變色安全線",
+                    "tip4DescriptionHtml": "鈔券背面有六段顯露式窗式光影變化安全線，線上印有阿拉伯面額數字「500」，輕轉鈔券，會呈現七彩光影變化效果；鈔券迎光透視，會變成不透光的實線，內有透光的「500」字樣。"
+                }
+            },
+            "1000": {
+                "title": "壹仟圓",
+                "see": {
+                    "tip1": "水印",
+                    "tip1DescriptionHtml": "迎光透視鈔券正面左邊空白處，有層次分明的「菊花」圖案，及特別明亮的「1000」阿拉伯面額數字。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span>",
+                    "tip2": "隱藏字",
+                    "tip2DescriptionHtml": "輕轉鈔券，在鈔券正面右下角有條狀的連續式花紋圖案，以15度角迎光檢視時，會浮現代表面額的「1000」數字，而且不同的角度，會有深淺兩種變化。"
+                },
+                "touch": {
+                    "tip1": "凹版印紋",
+                    "tip1DescriptionHtml": "鈔券正面的「1000」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip2": "凹版印紋",
+                    "tip2DescriptionHtml": "鈔券正面左邊的「浮凸點」，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip3": "凹版印紋",
+                    "tip3DescriptionHtml": "鈔券正面的「1000」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。<span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip4": "凹版印紋",
+                    "tip4DescriptionHtml": "鈔券正面的「中華民國」、「中央銀行」字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip5": "凹版印紋",
+                    "tip5DescriptionHtml": "鈔券正面的「壹仟圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip6": "凹版印紋",
+                    "tip6DescriptionHtml": "鈔券背面的「壹仟圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。"
+                },
+                "turn": {
+                    "tip1": "變色油墨",
+                    "tip1DescriptionHtml": "鈔券正面左下角阿拉伯面額數字「1000」使用特殊油墨印製；輕轉鈔券時，會出現金色和綠色的變化。",
+                    "tip2": "條狀光影變化箔膜",
+                    "tip2DescriptionHtml": "輕輕轉轉動鈔券正面，右側條狀箔膜呈現七彩光影變化效果。<span class=\"d-none d-md-inline\"><br>&nbsp;</span>",
+                    "tip3": "變色油墨",
+                    "tip3DescriptionHtml": "鈔券背面左上角阿拉伯面額數字「1000」使用特殊油墨印製；輕轉鈔券時，會出現金色和綠色的變化。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip4": "窗式變色安全線",
+                    "tip4DescriptionHtml": "鈔券背面有六段顯露式窗式光影變化安全線，線上印有阿拉伯面額數字「1000」，輕轉鈔券，會呈現七彩光影變化效果；鈔券迎光透視，會變成不透光的實線，內有透光的「1000」字樣。"
+                }
+            },
+            "2000": {
+                "title": "貳仟圓",
+                "see": {
+                    "tip1": "水印",
+                    "tip1DescriptionHtml": "迎光透視鈔券正面左邊空白處，有層次分明的「松樹」圖案，及特別明亮的「2000」阿拉伯面額數字。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span>",
+                    "tip2": "隱藏字",
+                    "tip2DescriptionHtml": "輕轉鈔券，在鈔券正面右下角有條狀的連續式花紋圖案，以15度角迎光檢視時，會浮現代表面額的「2000」數字，而且不同的角度，會有深淺兩種變化。"
+                },
+                "touch": {
+                    "tip1": "凹版印紋",
+                    "tip1DescriptionHtml": "鈔券正面的「2000」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip2": "凹版印紋",
+                    "tip2DescriptionHtml": "鈔券正面左邊的「浮凸點」，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip3": "凹版印紋",
+                    "tip3DescriptionHtml": "鈔券正面的「2000」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。<span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip4": "凹版印紋",
+                    "tip4DescriptionHtml": "鈔券正面的「中華民國」、「中央銀行」字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip5": "凹版印紋",
+                    "tip5DescriptionHtml": "鈔券正面的「貳仟圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip6": "凹版印紋",
+                    "tip6DescriptionHtml": "鈔券背面的「2000」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。<span class=\"d-none d-lg-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip7": "凹版印紋",
+                    "tip7DescriptionHtml": "鈔券背面的「貳仟圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。"
+                },
+                "turn": {
+                    "tip1": "變色油墨",
+                    "tip1DescriptionHtml": "鈔券正面左下角阿拉伯面額數字「2000」使用特殊油墨印製；輕轉鈔券時，會出現金色和綠色的變化。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span>",
+                    "tip2": "窗式變色安全線",
+                    "tip2DescriptionHtml": "鈔券正面有五段顯露窗式變色安全線，線上印有阿拉伯面額數字「2000」，輕轉鈔券，會由紫色變成綠色；鈔券迎光透視，會變成不透光的實線，內有透光的「2000」字樣。",
+                    "tip3": "金屬油墨加印「2000」字樣",
+                    "tip3DescriptionHtml": "這是貳仟圓券特有的防偽功能。「火箭」圖案兩側呈現金屬光澤左側並浮線「2000」字樣，隨角度不同會有深淺變化。",
+                    "tip4": "光影變化薄膜",
+                    "tip4DescriptionHtml": "輕轉鈔券，正面右側光影變化箔膜上的「2000」字樣及「衛星」圖案呈現漸次閃動、七彩光影變化效果。<span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>"
+                }
+            }
+        },
+        "coin": {
+            "title": "流通硬幣",
+            "10": {
+                "title": "拾圓",
+                "anti": "防偽辨識",
+                "tip1": "隱藏圖案",
+                "tip1DescriptionHtml": "硬幣向左轉時，背面上緣如意邊框內浮現「國泰」字樣；硬幣向右轉時，上緣如意邊框內浮現「民安」字樣。",
+                "tip2": "隱藏圖案",
+                "tip2DescriptionHtml": "硬幣向左轉時，面額數字「0」內浮現「<i class=\"icon-taiwan\"></i>」圖案；硬幣向右轉時，面額數字「0」內浮現「<i class=\"icon-plum-blossom\"></i>」圖案。<span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span>",
+                "tip3": "浮凸點",
+                "tip3DescriptionHtml": "硬幣背面下緣鐫有一個清楚的凸點，可供視障者觸摸辨識。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none d-xl-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>"
+            },
+            "20": {
+                "title": "貳拾圓",
+                "tip1": "隱藏圖案",
+                "tip1DescriptionHtml": "硬幣正面向右轉動檢視，下方出現西元年序的隱藏圖案。",
+                "tip2": "浮凸點",
+                "tip2DescriptionHtml": "硬幣背面下緣鐫有兩個清楚的凸點，可供視障者觸摸辨識。"
+            },
+            "50": {
+                "title": "伍拾圓",
+                "tip1": "幣邊滾字",
+                "tip1DescriptionHtml": "幣邊共有四段「NT$50⋄」字樣，呈正、反順序排列在絲狀幣邊中間，且幣邊滾字的刻痕清晰。",
+                "tip2": "隱藏圖案",
+                "tip2DescriptionHtml": "硬幣背面中間向左、右各轉15度角檢視，可清楚浮現「五十」及「50」字樣",
+                "tip3": "浮凸點",
+                "tip3DescriptionHtml": "硬幣背面下緣鐫有三個清楚的凸點，可供視障者觸摸辨識。<span class=\"d-none d-md-inline\"><br>&nbsp;</span>"
+            }
+        },
+        "oldVersion": {
+            "title": "舊版新臺幣",
+            "paper": "紙張",
+            "ink": "油墨",
+            "print": "印刷",
+            "50": {
+                "title": "伍拾圓",
+                "fullTitle": "舊版伍拾圓",
+                "tip1DescriptionHtml": "<ol><li>鈔紙質地堅挺，韌性大，耐折摺。</li></ol>",
+                "tip2DescriptionHtml": "<ol><li>主要圖紋採凹版印刷，用手觸摸可感覺墨紋凸出紙面，且墨色深濃，表面無光澤。</li><li>底紋為特別色油墨，色彩鮮明。</li></ol>",
+                "tip3DescriptionHtml": "<ol><li>正面人像線條精細，毛髮清楚，絲絲清晰可辨。</li><li>底紋正背面迎光透視，花飾圖案正背面套印準確。</li><li>官章字劃清晰，線條分明；鈔券號碼字體特殊，字劃粗細均勻。</li></ol>"
+            },
+            "100": {
+                "title": "壹佰圓",
+                "fullTitle": "舊版壹佰圓",
+                "tip1DescriptionHtml": "<ol><li>鈔紙質地堅挺，韌性大，耐折摺。</li><li>人像水印於造紙時嵌入，迎光透視，水印圖案層次分明，清晰可見。</li><li>隱形安全線於造紙時嵌入紙中，表面不易看出有深色線條，迎光透視時，可見明顯黑線。</li></ol>",
+                "tip2DescriptionHtml": "<ol><li>主要圖紋採凹版印刷，用手觸摸可感覺墨紋凸出紙面，且墨色深濃，表面無光澤。</li><li>底紋為特別色油墨，色彩鮮明。</li></ol>",
+                "tip3DescriptionHtml": "<ol><li>正面人像線條精細，毛髮清楚，絲絲清晰可辨。</li><li>官章字劃清晰，線條分明；鈔券號碼字體特殊，字劃粗細均勻。</li><li>正面右下方梅花圖案為浮凸點，用手觸摸可感覺凸起的印紋；左下角花飾內以15度角檢視，可見「100」字樣。</li></ol>"
+            },
+            "500": {
+                "title": "伍佰圓",
+                "fullTitle": "舊版伍佰圓",
+                "tip1DescriptionHtml": "<ol><li>鈔紙質地堅挺，韌性大，耐折摺。</li><li>人像水印於造紙時嵌入，迎光透視，水印圖案層次分明，清晰可見。</li><li>隱形安全線於造紙時嵌入紙中，表面不易看出有深色線條，迎光透視時，可見明顯黑線。</li></ol>",
+                "tip2DescriptionHtml": "<ol><li>主要圖紋採凹版印刷，用手觸摸可感覺墨紋凸出紙面，且墨色深濃，表面無光澤。</li><li>底紋為特別色油墨，色彩鮮明。</li></ol>",
+                "tip3DescriptionHtml": "<ol><li>正面人像線條精細，毛髮清楚，絲絲清晰可辨。</li><li>底紋正背面迎光透視，花飾圖案正背面套印準確。</li><li>官章字劃清晰，線條分明；鈔券號碼字體特殊，字劃粗細均勻。</li></ol>"
+            },
+            "1000": {
+                "title": "壹仟圓",
+                "fullTitle": "舊版壹仟圓",
+                "tip1DescriptionHtml": "<ol><li>鈔紙質地堅挺，韌性大，耐折摺。</li><li>人像水印於造紙時嵌入，迎光透視，水印圖案層次分明，清晰可見。</li><li>隱形安全線於造紙時嵌入紙中，表面不易看出有深色線條，迎光透視時，可見明顯黑線。</li></ol>",
+                "tip2DescriptionHtml": "<ol><li>主要圖紋採凹版印刷，用手觸摸可感覺墨紋凸出紙面，且墨色深濃，表面無光澤。</li><li>底紋為特別色油墨，色彩鮮明。</li></ol>",
+                "tip3DescriptionHtml": "<ol><li>正面人像線條精細，毛髮清楚，絲絲清晰可辨。</li><li>底紋正背面迎光透視，花飾圖案正背面套印準確。</li><li>官章字劃清晰，線條分明；鈔券號碼字體特殊，字劃粗細均勻。</li></ol>"
+            },
+            "500anyi": {
+                "title": "伍佰圓(安一版)",
+                "see": {
+                    "tip1": "水印",
+                    "tip1DescriptionHtml": "迎光透視鈔券正面左邊空白處，有層次分明的「竹子」圖案，及特別明亮的「500」阿拉伯面額數字。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span>",
+                    "tip2": "隱藏字",
+                    "tip2DescriptionHtml": "輕轉鈔券，在鈔券正面右下角有條狀的連續式花紋圖案，以15度角迎光檢視時，會浮現代表面額的「500」數字，而且不同的角度，會有深淺兩種變化。"
+                },
+                "touch": {
+                    "tip1": "凹版印紋",
+                    "tip1DescriptionHtml": "鈔券正面的「500」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip2": "凹版印紋",
+                    "tip2DescriptionHtml": "鈔券正面左邊的「浮凸點」，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip3": "凹版印紋",
+                    "tip3DescriptionHtml": "鈔券正面的「500」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。<span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip4": "凹版印紋",
+                    "tip4DescriptionHtml": "鈔券正面的「中華民國」、「中央銀行」字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip5": "凹版印紋",
+                    "tip5DescriptionHtml": "鈔券正面的「伍佰圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip6": "凹版印紋",
+                    "tip6DescriptionHtml": "鈔券背面的「500」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。<span class=\"d-none d-lg-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip7": "凹版印紋",
+                    "tip7DescriptionHtml": "鈔券背面的「伍佰圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。"
+                },
+                "turn": {
+                    "tip1": "窗式變色安全線",
+                    "tip1DescriptionHtml": "鈔券正面有五段顯露式窗式光影變化安全線，線上印有阿拉伯面額數字「500」，輕轉鈔券，會由紫色變成綠色；鈔券迎光透視，會變成不透光的實線，內有透光的「500」字樣。",
+                    "tip2": "變色油墨",
+                    "tip2DescriptionHtml": "鈔券正面左下角阿拉伯面額數字「500」使用特殊油墨印製；輕轉鈔券時，會出現紫紅色和綠色的變化。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>"
+                }
+            },
+            "1000anyi": {
+                "title": "壹仟圓(安一版)",
+                "see": {
+                    "tip1": "水印",
+                    "tip1DescriptionHtml": "迎光透視鈔券正面左邊空白處，有層次分明的「菊花」圖案，及特別明亮的「1000」阿拉伯面額數字。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;</span>",
+                    "tip2": "隱藏字",
+                    "tip2DescriptionHtml": "輕轉鈔券，在鈔券正面右下角有條狀的連續式花紋圖案，以15度角迎光檢視時，會浮現代表面額的「1000」數字，而且不同的角度，會有深淺兩種變化。"
+                },
+                "touch": {
+                    "tip1": "凹版印紋",
+                    "tip1DescriptionHtml": "鈔券正面的「1000」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip2": "凹版印紋",
+                    "tip2DescriptionHtml": "鈔券正面左邊的「浮凸點」，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip3": "凹版印紋",
+                    "tip3DescriptionHtml": "鈔券正面的「1000」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。<span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip4": "凹版印紋",
+                    "tip4DescriptionHtml": "鈔券正面的「中華民國」、「中央銀行」字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip5": "凹版印紋",
+                    "tip5DescriptionHtml": "鈔券正面的「壹仟圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。",
+                    "tip6": "凹版印紋",
+                    "tip6DescriptionHtml": "鈔券背面的「1000」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。<span class=\"d-none d-lg-inline d-xl-none\"><br>&nbsp;</span>",
+                    "tip7": "凹版印紋",
+                    "tip7DescriptionHtml": "鈔券背面的「壹仟圓」面額字樣，以凹版印刷，用手觸摸可感覺墨紋凸出紙面。"
+                },
+                "turn": {
+                    "tip1": "窗式變色安全線",
+                    "tip1DescriptionHtml": "鈔券正面有五段顯露式窗式光影變化安全線，線上印有阿拉伯面額數字「1000」，輕轉鈔券，會由紫色變成綠色；鈔券迎光透視，會變成不透光的實線，內有透光的「1000」字樣。",
+                    "tip2": "變色油墨",
+                    "tip2DescriptionHtml": "鈔券正面左下角阿拉伯面額數字「1000」使用特殊油墨印製；輕轉鈔券時，會出現金色和綠色的變化。<span class=\"d-none d-md-inline\"><br>&nbsp;</span><span class=\"d-none d-md-inline d-lg-none\"><br>&nbsp;<br>&nbsp;</span><span class=\"d-none d-md-inline d-xl-none\"><br>&nbsp;</span>"
+                }
+            }
+        }
+    },
+    "commemorate": {
+        "setAndCommemorative": "套幣與紀念性券幣",
+        "furtherReadingHtml": "<ol><li class=\"mb-3\">中央造幣廠，《中央造幣廠開鑄五十週年紀念特刊》，桃園縣：中央造幣廠，1983。</li><li class=\"mb-3\">中央銀行，《中華民國中央銀行之制度與功能》，臺北市：中央銀行，1991。</li><li class=\"mb-3\">中央造幣廠，《中央造幣廠開鑄六十週年紀念特刊》，桃園縣：中央造幣廠，1993。</li><li class=\"mb-3\">中央造幣廠，《中央造幣廠開鑄六十週年紀念特刊》，桃園縣：中央造幣廠，1993。</li><li class=\"mb-3\">臺灣銀行，《「臺灣銀行五十年」專輯》，臺北市：臺灣銀行，1996。</li><li class=\"mb-3\">中央銀行發行局，《臺幣•新臺幣圖鑑》，臺北市：中央銀行發行局，1998。</li><li class=\"mb-3\">中央印製廠，《中央印製廠建廠六十週年紀念》，新北市：中央印製廠，2001。</li><li class=\"mb-3\">中央造幣廠開鑄七十週年慶祝活動籌備委員會，《中央造幣廠幣章圖鑑（82-92）》，桃園縣：中央造幣廠，2003。</li><li class=\"mb-3\">中央銀行，《中華民國中央銀行之制度與功能（92年版）》，臺北市：中央銀行，2003。</li><li class=\"mb-3\">臺灣銀行，《臺灣銀行六十年》，臺北市：臺灣銀行，2006。</li><li class=\"mb-3\">中央造幣廠幣章圖鑑籌備委員會，《中央造幣廠幣章圖鑑（92-98）》，桃園縣：中央造幣廠，2009。</li><li class=\"mb-3\">中央印製廠 http://www.cepp.gov.tw/internet/cn/index.aspx</li><li class=\"mb-3\">中央造幣廠 http://www.cmc.gov.tw/index.jsp</li></ol>",
+        "zodiacSign": {
+            "title": "生肖系列",
+            "first": {
+                "title": "第一輪",
+                "description": "<p>生肖套幣以每年的生肖為主題圖案，從民國82年起開始發售，迄今已發售至第三輪。第一輪生肖套幣於民國82年至93年間發售，以當年生肖為主題的紀念章牌，搭配年版的各面額硬幣為組合；第二輪生肖紀念套幣於民國94年至105年間發售，以當年生肖為主題的紀念銀幣，搭配年版伍拾圓、貳拾圓硬幣為組合；第三輪生肖紀念套幣於民國106年起推出，以當年生肖為主題的紀念銀幣及銅合金幣各1枚為組合。</p>"
+            },
+            "second": {
+                "title": "第二輪",
+                "description": "<p>生肖套幣以每年的生肖為主題圖案，從民國82年起開始發售，迄今已發售至第三輪。第一輪生肖套幣於民國82年至93年間發售，以當年生肖為主題的紀念章牌，搭配年版的各面額硬幣為組合；第二輪生肖紀念套幣於民國94年至105年間發售，以當年生肖為主題的紀念銀幣，搭配年版伍拾圓、貳拾圓硬幣為組合；第三輪生肖紀念套幣於民國106年起推出，以當年生肖為主題的紀念銀幣及銅合金幣各1枚為組合。</p>"
+            },
+            "third": {
+                "title": "第三輪",
+                "description": "<p>生肖套幣以每年的生肖為主題圖案，從民國82年起開始發售，迄今已發售至第三輪。第一輪生肖套幣於民國82年至93年間發售，以當年生肖為主題的紀念章牌，搭配年版的各面額硬幣為組合；第二輪生肖紀念套幣於民國94年至105年間發售，以當年生肖為主題的紀念銀幣，搭配年版伍拾圓、貳拾圓硬幣為組合；第三輪生肖紀念套幣於民國106年起推出，以當年生肖為主題的紀念銀幣及銅合金幣各1枚為組合。</p>"
+            }
+        },
+        "theme": {
+            "title": "主題套幣",
+            "nationalPark": {
+                "title": "臺灣國家公園采風系列",
+                "description": "<p>臺灣國家公園采風系列套幣自民國101年起發售，分別以墾丁、玉山、陽明山、太魯閣、雪霸、金門、東沙環礁、台江及澎湖南方四島國家公園，以及壽山國家自然公園為主題。</p>"
+            },
+            "aboriginal": {
+                "title": "臺灣原住民文化采風系列",
+                "description": "<p>臺灣原住民文化采風系列套幣共14套，係介紹臺灣原住民部落生活、祭儀文化及傳統藝術等內容。自民國87年至100年發售，依序為雅美族、排灣族、卑南族、魯凱族、阿美族、鄒族、布農族、泰雅族、賽夏族、邵族、噶瑪蘭族、太魯閣族、撒奇萊雅族及賽德克族等14族。</p>"
+            },
+            "flower": {
+                "title": "花卉蝴蝶系列",
+                "description": "<p>花卉蝴蝶系列套幣共3套，民國84年至86年發售。正面圖案以臺灣各種蘭花為主題，背面圖案以蝴蝶為主題，呈現臺灣生態與花卉之美。</p>"
+            },
+            "other": {
+                "title": "其他主題",
+                "description": "<p>民國104年發售「紀念抗戰勝利暨臺灣光復七十週年」新臺幣硬幣組合，內嵌104年版50元及20元硬幣各1枚，面額合計為「70」，寓意抗戰勝利暨臺灣光復70週年。</p>"
+            }
+        },
+        "note": {
+            "title": "紀念鈔券",
+            "description": "<p>紀念鈔券係中央銀行依照「金銀幣及紀念性券幣發行辦法」規定所發行的鈔券，目前已發行「新臺幣發行五十週年紀念性塑膠鈔券」和「慶祝建國一百年壹佰圓券三開典藏版」等兩種。</p>"
+        },
+        "coin": {
+            "title": "紀念幣",
+            "nationalCelebration": {
+                "title": "國家重大慶典",
+                "description": "<p>中央銀行自民國50年起，以國家重大慶典和人物為主題，發行具有面額之紀念幣。民國94年9月30日修正「金銀幣及紀念性券幣發行辦法」規定，發行主題以國家重大慶典、重要節日、舉辦著名國際性活動，或國家其他具有特殊紀念意義之事蹟為限。</p>"
+            },
+            "festival": {
+                "title": "重要節日",
+                "description": "<p>中央銀行自民國50年起，以國家重大慶典和人物為主題，發行具有面額之紀念幣。民國94年9月30日修正「金銀幣及紀念性券幣發行辦法」規定，發行主題以國家重大慶典、重要節日、舉辦著名國際性活動，或國家其他具有特殊紀念意義之事蹟為限。</p>"
+            },
+            "internationalEvents": {
+                "title": "著名國際性活動",
+                "description": "<p>中央銀行自民國50年起，以國家重大慶典和人物為主題，發行具有面額之紀念幣。民國94年9月30日修正「金銀幣及紀念性券幣發行辦法」規定，發行主題以國家重大慶典、重要節日、舉辦著名國際性活動，或國家其他具有特殊紀念意義之事蹟為限。</p>"
+            },
+            "specialMemorial": {
+                "title": "特殊紀念事蹟",
+                "description": "<p>中央銀行自民國50年起，以國家重大慶典和人物為主題，發行具有面額之紀念幣。民國94年9月30日修正「金銀幣及紀念性券幣發行辦法」規定，發行主題以國家重大慶典、重要節日、舉辦著名國際性活動，或國家其他具有特殊紀念意義之事蹟為限。</p>"
+            }
+        },
+        "medal": {
+            "title": "紀念章",
+            "nationalCelebration": {
+                "title": "國家重要慶典",
+                "description": "<p>中央銀行委託中央造幣廠鑄造的紀念章，係以紀念國家重大慶典、事蹟或人物為主題；紀念章不具有面額，沒有交易功能。</p>"
+            },
+            "festival": {
+                "title": "重要節日",
+                "description": "<p>中央銀行委託中央造幣廠鑄造的紀念章，係以紀念國家重大慶典、事蹟或人物為主題；紀念章不具有面額，沒有交易功能。</p>"
+            }
+        }
+    },
+    "cycle": {
+        "lifeCycle": "券幣的生命週期",
+        "furtherReadingHtml": "<ol><li class=\"mb-3\">中央造幣廠，《中央造幣廠開鑄五十週年紀念特刊》，桃園縣：中央造幣廠，1983。</li><li class=\"mb-3\">中央銀行，《中華民國中央銀行之制度與功能》，臺北市：中央銀行，1991。</li><li class=\"mb-3\">中央造幣廠，《中央造幣廠開鑄六十週年紀念特刊》，桃園縣：中央造幣廠，1993。</li><li class=\"mb-3\">臺灣銀行，《「臺灣銀行五十年」專輯》，臺北市：臺灣銀行，1996。</li><li class=\"mb-3\">中央印製廠，《中央印製廠建廠六十週年紀念》，新北市：中央印製廠，2001。</li><li class=\"mb-3\">中央銀行，《中華民國中央銀行之制度與功能（92年版）》，臺北市：中央銀行，2003。</li><li class=\"mb-3\">臺灣銀行，《臺灣銀行六十年》，臺北市：臺灣銀行，2006。</li><li class=\"mb-3\">中央印製廠 http://www.cepp.gov.tw/internet/cn/index.aspx</li><li class=\"mb-3\">中央造幣廠 http://www.cmc.gov.tw/index.jsp</li></ol>",
+        "lifetime": {
+            "title": "券幣的一生",
+            "disign": {
+                "title": "券幣設計",
+                "shortTitle": "設計",
+                "description": "「中央銀行法」第15條規定，我國券幣之面額、成分、形式及圖案，由中央銀行擬定，報請行政院核定之。"
+            },
+            "printCast": {
+                "title": "印製與鑄造",
+                "shortTitle": "印鑄",
+                "description": "我國的鈔券和硬幣，分別由中央銀行設立的中央印製廠及中央造幣廠印製與鑄造。發行業務則由中央銀行發行局辦理，並委託臺灣銀行經理新臺幣發行附隨業務。"
+            },
+            "issue": {
+                "title": "調撥與發行",
+                "shortTitleForIssue": "發行",
+                "shortTitleForCirculation": "流通",
+                "description1": "印製和鑄造完成的券幣，必須經過縝密檢驗步驟，確認無誤後，才能包裝、解繳到中央銀行，等待調撥與發行。",
+                "description2": "配合中央銀行發行新臺幣業務的需要，在臺灣銀行各主要營業單位均設有發庫，以便調撥、發行市面所需的券幣。",
+                "description3": "臺灣銀行各發庫的券幣，透過該行各營業單位及其他金融機構，送到社會大眾手中。"
+            },
+            "arrange": {
+                "title": "回籠與整理",
+                "shortTitle": "整理",
+                "description1": "為維持流通券幣的品質，民眾若持有污破損或舊版券幣，可向臺灣銀行辦理兌換。",
+                "description2": "回籠鈔券的整理分為機器及人工兩部分。其中機器整理部分，係交由臺灣銀行（發行部、臺中、高雄分行）及中央印製廠裝設的高速鈔券整理機整理；人工部分則由臺灣銀行的檢券員處理。"
+            },
+            "destroy": {
+                "title": "券幣銷毀",
+                "shortTitle": "銷毀",
+                "description": "高速鈔券整理機剔出的不適宜流通鈔券，於整理機上直接線上銷毀；其他人工整出的不適流通券幣，則由中央銀行會同相關單位代表監點無誤後，分送中央印製廠及中央造幣廠辦理銷毀事宜。"
+            }
+        },
+        "print": {
+            "title": "鈔券印製",
+            "centralPrintingPlant": {
+                "title": "中央印製廠",
+                "description1Html": "<p>對日抗戰前及抗戰初期，我國鈔券全數委由國外印製。民國29年夏，因海岸線幾全部遭日軍封鎖，政府當局為免鈔券供應中斷，乃於民國30年2月1日於重慶，由中央信託局籌備「印製鈔券事務處」（旋改稱為印製處），同時接收財政部重慶印製局，改稱「重慶印製廠」，負責鈔券、稅票、郵票等有價證券及政府文件之印製。</p>",
+                "description2Html": "<p>對日抗戰勝利，中央印製廠奉命於民國34年9月接收敵偽上海中央儲備銀行印刷廠，成立上海廠，並另於北平成立北平分廠。由於鈔券需要殷切，除大量趕印金圓券外，同時配合臺灣銀行印刷所印製臺幣。民國38年總管理處遷臺辦公，承印之鈔券有法幣、流通券、關金券、金圓券及臺幣等。</p><p>臺灣光復後，臺北廠立即配合趕印金圓券、銀元券及銀元兌換券。民國38年中央印製廠隨政府播遷來臺，設於三重。成立初期，因臺幣與新臺幣均由臺灣銀行負責發行，該行並設有印鈔工廠，故多委由該行印製。</p>",
+                "description3Html": "<p>民國50年6月中央銀行復業，9月接收臺灣銀行大理街印刷所（改稱萬華廠），印鈔工作始交由中央印製廠辦理。該廠嗣於民國53年間添購設備成立青潭廠。</p><p>民國61年成立配備有最新式印鈔機之安康廠，專司各類鈔券之印製；青潭廠則專責印製票據、公債、國庫券、郵票、匯票等有價證券及護照、身分證等政府重要文件。</p>",
+                "tip1": "金圓券",
+                "tip2": "銀元券"
+            },
+            "step": {
+                "title": "印製流程",
+                "design": {
+                    "tab": "A.鈔券設計",
+                    "title1": "01.主圖設計",
+                    "description1": "鈔券中的人像、風景等主要圖案，早期必須借重技藝高超的雕刻師鐫刻於鋼版，現在則用雷射雕刻製版。",
+                    "title2": "02.底紋設計",
+                    "description2": "運用電腦印前設計系統，以鈔券設計特殊軟體繪製幾何圖形構成的花式網紋等圖案，進行拼製，成為鈔券的底紋。"
+                },
+                "plate": {
+                    "tab": "B.製版作業",
+                    "title1": "01.平凸印版",
+                    "description1": "將底紋大張圖案經由CToP 電腦製版設備製版，完成印製底紋專用的平凸印版。",
+                    "title2": "02.印刷凹版",
+                    "description2": "人像、風景等主圖拼製成凹版大版圖檔，送至CTiP 雷射雕刻直接製版設備，製成塑膠凹版母版。再送到電鍍室，做表面噴銀與電鍍處理，製成鎳印版，最後經拋光、修整、鍍鉻等步驟，即製成印刷凹版。"
+                },
+                "print": {
+                    "tab": "C.印刷作業",
+                    "title1": "01.平凸版印刷",
+                    "description1": "印刷作業首先以多色平凸印機，一次將正背雙面底紋同時印刷完成。",
+                    "title2": "02.凹版印刷",
+                    "description2": "底紋印製完成，經過乾燥後，再由凹版印機，以一版多色的方法，分別印刷出正背面主題、副主題等凹版圖案。"
+                },
+                "complete": {
+                    "tab": "D.完成作業",
+                    "title1": "01.品管",
+                    "description1": "印刷過程中，各印製機組均有專人隨機檢查，以嚴格控制印刷與墨色品質。全部印刷作業完成後，再由全自動大張鈔券檢查機進行品質檢查，以剔除印刷及非印刷原紙瑕疵壞票。",
+                    "title2": "02.號章印刷",
+                    "description2": "將大張鈔券檢查機篩檢後的全好票，送到號章機套印號碼和官章。",
+                    "title3": "03.裁切",
+                    "description3": "送入裝有電腦控制的裁切、點數、包封一貫室生產設備，只要把規定的尺寸調好，便可整齊劃一的完成一疊疊的鈔票。",
+                    "title4": "04.檢驗",
+                    "description4": "完成上列程序後的鈔券，再經人工與電子點數機複點並檢查，以剃除瑕疵鈔券。",
+                    "title5": "05.包封裝箱",
+                    "description5": "鈔券經檢驗品質與數量無誤後，最後以電腦進行條碼掃描、比對，始送進包封機中，用塑膠加熱包封，以防潮、防蛀和防竊，並依序裝箱，由駐衛警押送到中央銀行，準備發行流通。"
+                }
+            }
+        },
+        "cast": {
+            "title": "硬幣鑄造",
+            "centralPrintingPlant": {
+                "title": "中央造幣廠",
+                "description1Html": "<p>民國9年政府為鑄造新臺幣以建立統一幣制之基礎，乃積極籌建上海造幣廠；惟因財政困窘，工作屢有停頓。</p><p>國民政府成立後續行推動設廠計畫，民國17年正式改名中央造幣廠，隸屬財政部。民國22年政府實行費兩改元，並頒布銀本位幣鑄造條例，中央造幣廠乃奉令於當年3月1日正式開鑄，由中央銀行將中外各銀行登記之寶銀彙送改鑄新幣，再解送中央銀行發行。</p>",
+                "description2Html": "<p>民國24年11月4日政府宣布採取法幣政策，乃停鑄銀本位幣。民國25年1月11日公布輔幣條例，明定輔幣由中央造幣廠鑄造、中央銀行發行。</p><p>抗戰時期隨政府遷往重慶設總辦事處，並先後於武昌、成都、桂林、蘭州及昆明成立分廠，接續生產任務。抗戰勝利後，分廠業務依次結束，民國35年返回上海原址復廠。</p><p>民國38年隨政府遷臺，設址於臺北市酒泉街，同時改隸中央銀行。當年9月與臺灣銀行訂約，開始鑄造新臺幣輔幣。民國65年遷建於桃園縣龜山鄉現址。</p>",
+                "description3Html": "<p>造幣廠主要任務為流通硬幣及紀念幣之鑄造、銷毀、回籠硬幣處理，以及承接印信、勳獎章鑄製等業務。並在不妨礙流通硬幣及紀念幣生產任務下，得依業務及市場需求，兼營紀念章、牌及其他各種金屬鑄品業務。</p>",
+                "pictureRemark1": "上海造幣廠",
+                "pictureRemark2": "中央造幣廠臺北廠時期",
+                "pictureRemark3": "輔幣",
+                "pictureRemark4": "造幣廠陳列室",
+                "pictureRemark5": "鑄造三大步驟：圖案設計、鎔軋成餅、印花衡計"
+            },
+            "step": {
+                "title": "鑄造流程",
+                "design": {
+                    "tab": "A.幣模鑄製",
+                    "title1": "01.塑盤",
+                    "description1": "由造幣廠雕刻師設計硬幣圖稿完成後，再塑成石膏盤。",
+                    "title2": "02.縮刻",
+                    "description2": "石膏盤的圖案彙先翻製成樹脂盤，再使用縮刻機或電腦雕刻機，依所需尺寸縮刻成鋼模。鋼模經人工修整打模，稱為原始模。",
+                    "title3": "03.印花模",
+                    "description3": "原始模經過熱處理，再用壓模機反覆壓制，就形成鑄幣所需的印花模，最後經由硬化處理，即可印鑄各類硬幣。"
+                },
+                "smelt": {
+                    "tab": "B.鎔軋成餅",
+                    "title1": "01.熔煉",
+                    "description1": "首先將銅、鎳、鋁等硬幣的主要原料，依比例投入鎔爐熔解，再將金屬鎔液倒入保溫爐中，由拉鑄機與捲片機捲片機製成一噸重的鑄片片捲。",
+                    "title2": "02.軋片",
+                    "description2": "將片捲送進粗軋機反覆軋至一定厚度後，送入鐘罩式退火爐中退火並調整硬度，再經過精軋機軋出硬幣的標準厚度。",
+                    "title3": "03.沖餅",
+                    "description3": "將標準厚度的鑄片，導入沖餅機，沖製出固定直徑的幣餅；再用光邊機將邊緣滾光，形成一定弧度與直徑。",
+                    "title4": "04.清洗",
+                    "description4": "沖製後的幣餅，經退火、酸洗等一貫作業後，就形成鑄造流通硬幣所需的光餅。",
+                    "title5": "05.幣餅檢驗",
+                    "description5": "光餅送入自動檢餅機檢驗，篩選合格後，即可進入成幣工廠等待壓印。"
+                },
+                "complete": {
+                    "tab": "C.印花衡計",
+                    "title1": "01.印花",
+                    "description1": "光餅經印花機壓印出硬幣的正、背面，就製成我們看到的硬幣。",
+                    "title2": "02.成幣檢驗",
+                    "description2": "製成的硬幣再經由人工方式做雙面的檢驗。",
+                    "title3": "03.衡計包裝",
+                    "description3": "檢驗無誤的硬幣，進行計數包裝。",
+                    "title4": "04.入庫代繳",
+                    "description4": "包裝後的硬幣再放置到庫房中，準備繳到中央銀行。"
+                }
+            }
+        },
+        "cherish": {
+            "title": "愛惜券幣",
+            "description": "鈔券及硬幣代表國家的形象，國民應養成愛惜及維護券幣整潔的好習慣。",
+            "tip1": "鈔券要整齊放在皮夾內",
+            "tip2": "不要摺疊、搓揉",
+            "tip3": "髒舊的券幣，請回存金融機構",
+            "tip4": "不要在鈔券上面塗抹、做記號",
+            "tip5": "將家中的硬幣拿出來使用，以響應環保，資源再利用"
+        }
+    },
+    "story": {
+        "currencyStory": "貨幣的故事",
+        "furtherReadingHtml_1": "<ol><li class=\"mb-3\">李榮謙，《貨幣銀行學》，臺北市：智勝，1998。</li><li class=\"mb-3\">尼汀.諾利亞編、劉世平譯，《MBA百科全書》，臺北市：商周，2000。</li><li class=\"mb-3\">大英博物館，《金錢的歷史》，臺北市：博雅書屋，2009。</li><li class=\"mb-3\">汪錫鵬、殷叔平，《錢的故事》，臺北市：好讀，2010。</li><li class=\"mb-3\">黃昱程，《貨幣銀行學》，臺北市：華泰，2010。</li><li class=\"mb-3\">朱嘉明，《從自由到壟斷―中國貨幣經濟兩千年（上）》，臺北市：遠流，2012。</li><li class=\"mb-3\">中國古代貨幣（http://www.chiculture.net/0901/html/index.html）</li></ol>",
+        "furtherReadingHtml_2": "<ol><li class=\"mb-3\">許義宗，《原色省銀行紙幣圖說•中央、中國、交通、農民銀行篇》，臺北市：許義宗，1994。</li><li class=\"mb-3\">許義宗，《原色省銀行紙幣圖說•臺灣銀行及各省省銀行篇》，臺北市：許義宗，1995。</li><li class=\"mb-3\">許義宗，《TOP中國紙幣》，臺北市：許義宗，1997。</li><li class=\"mb-3\">許義宗，《臺灣貨幣圖說》，臺北市：許義宗，1999。</li><li class=\"mb-3\">許義宗，《中國紙幣新論》，臺北市：許義宗，2002。</li><li class=\"mb-3\">莊銘國，《典藏鈔票異數》，臺北市：五南，2007。</li><li class=\"mb-3\">莊銘國、卓素娟，《遇見鈔票》，臺北市：五南，2009。</li><li class=\"mb-3\">洪啟耀，《典藏世界鈔票藝術》，臺中市：臺中市民俗文物學會，2010。</li><li class=\"mb-3\">銀劍玲等編，《你也可以當總統》，臺北市：國史館，2012。</li></ol>",
+        "whatIsCurrency": {
+            "title": "什麼是貨幣",
+            "descriptionHtml": "<p>「<span class=\"text-profession text-lg\">貨幣</span>」是指被大眾普遍接受，可作為交易、清償債務的工具，並具備價值儲藏功能，包括通貨及存款。</p><p>通貨又可分為鈔券與硬幣兩種，統稱券幣。我國的券幣係由中央銀行發行。</p>"
+        },
+        "birth": {
+            "title": "貨幣的演進",
+            "description": "貨幣的發展脈絡，隨著人類交易行為的頻繁與多元化，從以物易物到商品貨幣，逐漸發展出由國家統一鑄造與發行的標準化貨幣制度，並演變成信用貨幣，如今甚至已進步到塑膠貨幣及電子貨幣。",
+            "dictionary": {
+                "title": "小辭典",
+                "tip1": "貝幣：",
+                "description1": "海貝因大小適中，堅固耐用，不易腐敗，便於攜帶和計數，而且是先民喜愛的裝飾品，因而成為沿海以漁獵維生的住民和中原地區的住民進行交換的重要物品。漢字也衍生出諸多與物品接受、交換及價值有關的字詞，均與「貝」字相關，例如：財、貴、賠、賺、貨……等。",
+                "tip2": "布幣：",
+                "description2": "春秋戰國時期，流通於三晉、兩周一帶，形制仿自耕作翻土的鏟子「鎛（布）」。早期的布幣為空首布，後逐漸演變出平首布、圓足布、三孔布……等種類。",
+                "tip3": "刀幣：",
+                "description3": "春秋戰國時期，流通於齊、燕國一帶，形制仿自漁獵刀具，可再細分為針首刀、尖首刀、元首刀……等種類。",
+                "tip4": "圜錢：",
+                "description4": "春秋戰國時期，流通於楚、秦一帶，形制仿自玉璧和紡輪，又分為圓孔和方孔兩種。因鑄造簡單，攜帶方便，於是成為後來通行貨幣的基本形制。",
+                "tip5": "紡輪：",
+                "description5": "以陶或石製成，多呈扁圓形，中有一孔。於中心孔上插入細竹棒，以固定紡線，組合成紡錘，紡成織布用的線。",
+                "tip6": "交子：",
+                "description6": "形式源於唐憲宗元和年間（西元806-820年）的飛錢，為異地匯兌票據或憑證的形式，當時經營飛錢業務的有政府機構，也有民間鋪戶。中國紙幣大規模流通則始於宋代，而紙幣被稱為「鈔」也是自宋代起始，當時曾有交子、會子、關子及引子等種類。交子最早出現於四川的富商大戶，至仁宗天聖年間設交子務，才統一由國家發行，並規定發行額與流通期限，使用範圍遍及全國。",
+                "tip7": "秤量貨幣：",
+                "description7": "形狀、成色及重量未標準化的金屬貨幣，必須鑑定成色並秤量重量，以確定其使用價值。",
+                "tip8": "電子貨幣：",
+                "description8": "係指以電子方式，將消費者預先支付的貨幣價值，儲存在所持有的電子裝置或產品上，例如：晶片卡、個人電腦（或伺服器）的硬碟或行動電話等可攜式裝置內，具有便利性。"
+            },
+            "commodity": {
+                "title": "商品貨幣",
+                "description1Html": "<p>遠古人類最初過著自給自足的經濟生活，隨著生產力提高與社會分工的需要，於是出現「以物易物」的行為，以解決物資的供需。諸如珠玉、皮革、齒角和金屬等天然物產，或是人類生產的穀類、布帛、飾品和豢養的牲畜，都曾用來作為交換的標的。</p>",
+                "description2Html": "<p>隨著交易活動的頻繁和多元化，部分物品逐漸發揮貨幣的功能，其中尤以<a href=\"\" title=\"海貝（貝幣）\" data-toggle=\"modal\" data-target=\"#modal-1\">海貝（貝幣）</a>通行於中國；而上古的美索不達米亞和埃及，則廣泛使用金、銀、青銅等貴金屬作為貨幣。其他如龜殼、瑪瑙，也曾被用作貨幣。這種以物品當交易媒介，稱為「商品貨幣」或「實體貨幣」。</p><p>由於商品貨幣的來源無法有效控制、數量有限、不敷流通需求，以及不便計數等因素，於是逐漸被人工製造的金、銀、銅及鐵等金屬所取代。</p>"
+            },
+            "metal": {
+                "title": "金屬貨幣",
+                "description1Html": "<p>早期的金屬貨幣沒有統一式樣，所以需要測定成色及秤重;隨著人類文明的發展，其後逐漸形成，並建立了一套較為先進的貨幣制度。</p><p>春秋戰國時期盛行青銅製造的貨幣，形制多元。除了從海貝演變成的蟻鼻錢之外，基本上都是仿照當時的生產工具來鑄造及命名，例如：鏟形農具的「<a href=\"\" title=\"海貝（貝幣）\" data-toggle=\"modal\" data-target=\"#modal-1\">布幣</a>」、漁獵工具的「<a href=\"\" title=\"海貝（貝幣）\" data-toggle=\"modal\" data-target=\"#modal-1\">刀幣</a>」、<a href=\"\" title=\"海貝（貝幣）\" data-toggle=\"modal\" data-target=\"#modal-1\">紡輪</a>或玉璧的「<a href=\"\" title=\"海貝（貝幣）\" data-toggle=\"modal\" data-target=\"#modal-1\">圜錢</a>」，都是地區性的流通貨幣。</p>",
+                "description2Html": "<p>自秦至漢武帝初年，為中國步入標準化貨幣的時期。秦始皇兼併六國後，統一了混亂的貨幣制度；「秦半兩」這種圓形方孔的銅幣，確立了往後貨幣的形制。漢武帝元狩5年（西元前118年）改採較方便流通的「五銖錢」，重如其文（標準重量約3.5公克）；中央政府規定形制和重量，由地方郡國鑄行，嚴禁私人鑄幣。標準化貨幣的誕生，確立了中央的貨幣專鑄權，也宣告了貨幣秤量時代的結束。</p>",
+                "description3Html": "<p>唐高祖武德4年（西元621年）開始鑄行的「開元通寶」，開啟了中國貨幣發展史上的新紀元。於貨幣名稱上，開元通寶結束記重、記值的階段，改採歷代君王年號的抽象化、符號化命名方式。從此，貨幣改稱「通寶」、「元寶」、「重寶」等；重量則確立了以一錢（一枚錢為一文，每十文重一兩）為法定貨幣標準單位的規範。十錢為一兩的十進位制，後來更延伸出一千文為一「貫」的概念，貨幣的計量單位漸趨系統化與完整。</p>",
+                "description4Html": "<p>自古以來，金、銀即是中西方曾使用的金屬通貨。在中國古代一直是「秤量貨幣」，成鋌形和餅形。金代出現「承安寶貨」，開創了白銀由官府鑄造法定計數銀幣的先河。明代蓬勃的海上貿易，挾帶大量海外白銀流入中國，銀價變貴，逐漸取代銅幣的重要性。清咸豐年間，林則徐等提議鑄造銀餅。其後，清政府於光緒15年（西元1889年）在廣州從英國引進造幣機器，是中國大規模鑄造機製銀幣的開始。民國22年實行「廢兩改元」，銀兩制度乃正式宣告結束。</p>"
+            },
+            "credit": {
+                "title": "信用貨幣",
+                "description1Html": "<p>「信用貨幣」是指貨幣的價值建立在民眾對貨幣的信賴，而非幣材本身的價值。中西方早期均以低價的金屬大量鑄造法定貨幣（簡稱法幣）。隨著商業發展，金屬貨幣受重量因素所限，不便攜帶及大額交易，又由於造紙術和印刷術的發明，促成了紙幣的誕生。紙幣最初起源於中國北宋，即所謂的「<a href=\"\" title=\"海貝（貝幣）\" data-toggle=\"modal\" data-target=\"#modal-1\">交子</a>」，是一種異地匯兌票據或憑證，統一由國家發行，通行全國，並沿用數朝。</p>",
+                "description2Html": "<p>中國最早的匯兌，可上溯自唐代的「飛錢」。而近代大規模匯兌，則始於晚清的「票號」；它專營銀兩異地匯兌及兼作部分存款、貸款等業務，類似當今的銀行。中國第一家票號「日昇昌」創設於西元1823年（清道光初年）山西省平遙縣，一共經營了123年。鴉片戰爭後，日昇昌僅憑各省分號一紙匯票，就將全國攤派上繳的賠款，如期如數的匯往北京，並兌換成現銀直送戶部銀庫。0.5公克）；中央政府規定形制和重量，由地方郡國鑄行，嚴禁私人鑄幣。標準化貨幣的誕生，確立了中央的貨幣專鑄權，也宣告了貨幣秤量時代的結束。</p><p>道光皇帝為此曾讚揚道：「好一個日昇昌，還能匯通天下！」。從此「匯通天下」一辭，便成為形容匯兌無遠弗屆的最佳註腳。</p>",
+                "description3Html": "<p>國家銀行發行的流通鈔券，源自於十七世紀的英格蘭銀行。中國受西方影響，大清戶部銀行自光緒31年（西元1905年）開始發行兌換券，此為我國鈔券的濫觴。</p>"
+            },
+            "plasticAndElectronic": {
+                "title": "塑膠貨幣及電子貨幣",
+                "description1Html": "<p>1960年代以來，轉帳卡(金融卡)、信用卡等支付工具逐漸興起，這類卡片因可取代現金消費，而被稱為塑膠貨幣(plastic money)。事實上，這些塑膠貨幣只是交易媒介，並不具備貨幣價值。到了1980年代，隨著資訊與通信科技蓬勃發展，貨幣邁向另一個新里程，出現了電子貨幣(electronic money)。電子貨幣是將貨幣價值預先以電子形式儲存在卡片(如電子票證)上的安全晶片，或手機、電腦上的應用軟體(如電子支付帳戶App、電子錢包)，再透過讀卡機或網路傳輸，移轉儲存的款項。</p>"
+            }
+        },
+        "kaleidoscope": {
+            "title": "券幣萬花筒",
+            "description": "世界各國券幣除了面額代表的價值以外，也是一個國家政治、經濟、文化、歷史、地理的縮影。還有許多有關券幣形式、券幣制度及鈔券號碼等軼聞趣事，值得一窺堂奧。",
+            "furtherReading": {
+                "section1": "許義宗，《原色省銀行紙幣圖說•中央、中國、交通、農民銀行篇》，臺北市：許義宗，1994。",
+                "section2": "許義宗，《原色省銀行紙幣圖說•臺灣銀行及各省省銀行篇》，臺北市：許義宗，1995。",
+                "section3": "許義宗，《TOP中國紙幣》，臺北市：許義宗，1997。",
+                "section4": "許義宗，《臺灣貨幣圖說》，臺北市：許義宗，1999。",
+                "section5": "許義宗，《中國紙幣新論》，臺北市：許義宗，2002。",
+                "section6": "莊銘國，《典藏鈔票異數》，臺北市：五南，2007。",
+                "section7": "莊銘國、卓素娟，《遇見鈔票》，臺北市：五南，2009。",
+                "section8": "洪啟耀，《典藏世界鈔票藝術》，臺中市：臺中市民俗文物學會，2010。",
+                "section9": "銀劍玲等編，《你也可以當總統》，臺北市：國史館，2012。"
+            },
+            "tellStory": {
+                "title": "券幣說故事",
+                "section1": "革命維艱―辛亥革命鈔券",
+                "description1Html": "<p>清宣統3年（西元1911年）辛亥革命爆發，各省陸續對清政府宣告獨立，革命之勢風起雲湧。自辛亥革命起，迄中華民國成立，各省各自發行軍用鈔券，統稱「辛亥革命鈔券」。 國父孫中山先生在美國各地籌募起義經費，以中華革命軍籌餉局名義發行中華民國金幣券。</p>",
+                "section2": "維護外島金融―外島地名鈔券",
+                "description2Html": "<p>民國41至78年間，為安定軍民生活，配合軍政需要，臺灣銀行特於臺灣本島外，在金門、大陳（浙江省溫嶺縣）、馬祖發行外島地名券。鈔券正面加蓋限定使用地區，背面加蓋「金門」、「大陳」、「馬祖」等字樣。其中大陳地名券僅使用2年多，即因大陳島撤退，進行收兌，其未兌者全數作廢。惟自民國78年9月起，在考量發展外島經濟及便民的原則下，對「金門」、「馬祖」地名新臺幣券，改採「只收不發」措施。</p>",
+                "section3": "小券立大功的壹圓券、伍角券",
+                "description3Html": "<p>民國60年代初期，因石油危機導致金屬原料價格上漲，民眾囤積硬幣，使市面壹圓及伍角硬幣奇缺，造成買賣不便。央行乃重新發行壹圓及伍角紙幣，才得以迅速解決硬幣荒。</p>",
+                "section4": "美國壹分幣",
+                "description4Html": "<p>美國於西元1943年，曾經利用鋼鐵鑄造硬幣。因當時投入二次大戰，急需大量製造武器的原料，鑄造局為了節省銅料，於是改以鋼鐵鑄造當時的壹分硬幣。另有一說是珍珠港戰役造成許多美軍軍艦、戰機遭炸毀，鑄造局便利用殘骸，回收熔鍊，鑄成了壹分幣，也解決了銅材欠缺的困境。</p>"
+            },
+            "richMan": {
+                "title": "億萬富翁",
+                "section1": "通膨嚴重的金圓券",
+                "description1Html": "<p>中日戰爭期間，國民政府財政支出增加，法幣大量發行；抗戰勝利後，政府庫存黃金及外幣極度短缺，導致惡性通貨膨脹。國民政府於民國37年實施幣制改革，發行金圓券，並公告以法幣參佰萬圓（關金券壹圓折合法幣貳拾圓）折合金圓券壹圓，限於同年11月20日前無限制兌換，逾期不再收兌。但因未嚴格控制發行限額，短期間內，即鉅幅貶值，最大面額從壹佰圓不斷膨脹到伍佰萬圓，以致民眾拒用金圓券，最後終致失敗。 國父孫中山先生在美國各地籌募起義經費，以中華革命軍籌餉局名義發行中華民國金幣券。</p>",
+                "section2": "肆萬圓換壹圓",
+                "description2Html": "<p>民國38年大陸地區因國共戰爭，物價受到影響而日益上揚。臺灣本島雖使用臺幣（舊臺幣），但仍遭受法幣貶值影響，以致物價狂漲，發行量與日俱增，最高面額也從拾圓增發至壹萬圓，定額本票至壹佰萬圓。</p><p>臺灣省政府為避免臺幣發行失控，遂於民國38年6月公布「新臺幣發行辦法」，以臺幣肆萬圓兌換新臺幣壹圓，並限於同年12月31日前兌換。新臺幣發行後，物價亦因而調整，例如當時基隆市公車的票價，即從原先陸仟圓變成參角，幅度甚大。</p>",
+                "section3": "世界各國的億萬富翁",
+                "description3Html": "<p>當一國政經社會動盪不安時，常會發生可怕的通貨膨脹，商品一日多市，節節高漲，民生困苦異常。近百年來，德國、匈牙利、辛巴威等國均曾發生惡性通膨問題，以致須發行超高面額鈔券，以應付交易需求。</p><p>德國在一次世界大戰後(西元1921-1923年)，政府以印鈔方式支付戰債，造成舊馬克幣值劇貶，一片麵包的價格竟達壹仟億舊馬克，鈔券面額亦有達壹仟億之天文數字者。二十一世紀的辛巴威惡性通膨問題更加嚴重，曾發行面額壹佰兆的鈔券，蔚為當代奇觀。2015年6月辛巴威政府正式廢除辛巴威幣，改採美元、南非幣等外國貨幣，以解決長久以來的惡性通膨問題。</p>"
+            },
+            "anecdote": {
+                "title": "圖像趣聞",
+                "section1": "大陸時期的硬幣趣聞",
+                "description1Html": "<p>我國在大陸時期曾發行以袁世凱和國父像為正面圖案的壹圓銀幣。前者是北洋政府於民國3年依據「國幣條例」發行的壹圓銀幣；後者係民國16年北伐成功，國民政府定都南京，當時為籌劃統一貨幣，財政部飭令停止鑄造袁世凱頭像銀幣，改用國父側身像「開國紀念幣」舊模改鑄的壹圓銀幣。兩者成色、重量相同，併行流通。由於頭像有大小之分，因而民間俗稱圖案大的壹圓幣為「袁大頭」、圖案小的開國紀念幣為「孫小頭」。</p>",
+                "section2": "鈔券裡的青仔欉",
+                "description2Html": "<p>昭和12年（西元1937年）發行的臺灣銀行百圓券，其背面圖案為當時的經濟作物―檳榔樹，俗稱「青仔欉」。由於當時國民所得並不高，該鈔券面額大，看過的人不多，所以老一輩的人會用「沒見過青仔欉」來暗喻沒見過世面的人，或冒失的行為。</p>",
+                "section3": "券幣中的券幣",
+                "description3Html": "<p>以券幣做為鈔券或硬幣的主題圖案的設計概念，展示了券幣發行歷程的意涵。例如大陸時期發行的壹圓券及壹分券，以硬幣作為鈔券圖案的主題。民國88年為紀念新臺幣發行五十週年，以新臺幣發行歷史中最早的壹圓券，和華三版壹佰圓券的縮圖設計「新臺幣發行五十週年紀念性塑膠鈔券」，另採用已發行的各類硬幣的重疊圖案設計「新臺幣發行五十週年拾圓流通紀念幣」，見證新臺幣五十年的發行歷史。由於這兩款券幣的圖樣設計特殊，因此民間又有「鈔中鈔」和「幣中幣」的稱呼。</p>"
+            },
+            "wonder": {
+                "title": "鈔券奇觀",
+                "section1": "特殊版型",
+                "description1Html": "<p>我國從大陸時期起發行過的鈔券，有直式的也有橫式的。目前世界各國鈔券的形式，則大多採長方形，加上橫向圖案。但也有例外，譬如法國和挪威都曾印製正方形鈔券；德國與西班牙則曾出現過圓形的鈔券。</p>",
+                "section2": "特殊尺寸",
+                "description2Html": "<p>歷史上最大張的鈔券，是中國明代的「大明寶鈔」，尺寸為22x34公分。近代世界最大與最小尺寸的鈔券，都出現在俄羅斯，前者為西元1912年沙皇時代發行的彼得大帝500盧布券，尺寸為28.7x13公分。</p>",
+                "section3": "特殊尺寸",
+                "description3Html": "<p>最小尺寸的鈔券是西元1915年俄羅斯為紀念羅曼諾夫王朝而發行的戈比，頭像是沙皇尼古拉，尺寸為2.4x3公分。當時俄羅斯正和德國交戰（第一次世界大戰），俄國為節省資源、方便市面找零，於是發行形狀大小近似郵票的鈔券，以代替輔幣，應急使用。</p>",
+                "section4": "特殊材質",
+                "description4Html": "<p>自中國發行「交子」以來，鈔券多以紙質製成。但西元1921年第一次世界大戰後，德國曾因缺乏物資，而使用絲質為原料，發行地區性鈔券。近代各國為防止仿冒，塑膠也被運用在鈔券印製上，第一張塑膠鈔券即由澳大利亞發行，我國也曾於民國88年發行「新臺幣發行五十週年紀念性塑膠鈔券」。另外，在新疆和貝里斯則曾以布帛及金箔製成鈔券，極為特殊。</p>"
+            },
+            "specialNumber": {
+                "title": "特殊號碼",
+                "section1": "特殊號碼",
+                "description1Html": "<p>鈔券的特殊號碼，例如順號、連號、同號，或是有諧音的「6」、「8」，除了收藏界將它當作難得的收藏標的外，許多民眾也深感好奇，想一窺堂奧。有鑑於此，央行在民國100年發售「慶祝建國一百年壹佰圓券三開典藏版」時，特將其中特殊號碼鈔券抽出，交由臺灣銀行公開拍賣。另自民國100年起，印製完成的鈔券，也會抽出特殊號碼鈔券公開拍賣，以應民眾收藏需求，該所得收益將全數繳交國庫。</p>"
+            },
+            "community": {
+                "title": "社區貨幣",
+                "section1": "發行目的在於凝聚社區民眾向心力及繁榮在地經濟的社區貨幣",
+                "description1Html": "<p>社區貨幣大多只在社區內流通，用以凝聚社區民眾向心力，繁榮在地經濟。這些貨幣雖非國家發行，由於法律並未明文禁止民眾發行，因此常被用於社區作為交易媒介，如美國的「綺色佳工時」(Ithaca Hours)、「底特律加油」(Detroit Cheer)、智利的「服務支票」、英國的「布里克斯頓鎊」(Brixton Pound)以及我國的花幣等，名稱五花八門，性質類似消費抵用券。</p><p>近年來跟上行動App的開發潮流，我國號稱社區貨幣的「臺東金幣」、「高雄幣」及「嘉義幣」等以電子型式一一被開發，儲存在行動載具內，用於零售消費支付上，目的主要為推廣觀光，繁榮在地經濟，性質類似折價券或集點卡。該等貨幣與國幣不同，非屬法償貨幣，民眾容易產生混淆，茲說明於後。</p>",
+                "section2": "國際間的社區貨幣舉例",
+                "imageAlt2_1": "綺色佳工時",
+                "imageAlt2_2": "底特律加油",
+                "imageAlt2_3": "布里克斯頓鎊",
+                "description2_1Html": "<p>(一)  綺色佳工時<br>該券係1991年美國紐約州綺色佳鎮的某位平面藝術家所印製發行。1個單位「綺色佳工時」相當於10美元，可用以支付工資，消費者可持往該鎮有意願使用該券的商店消費。依規定 ，商店採用「綺色佳工時」所賺取的收入，必須換算成等值美元，並以美元納稅。該券發行的目的是希望將該鎮賺取的財富留在鎮上使用，用以刺激該鎮經濟。</p>",
+                "description2_2Html": "<p>(二)  底特律加油<br>2009年在金融海嘯衝擊下，市場需求萎縮，景氣低迷，為使底特律挺過金融海嘯的衝擊，3名在地商人於底特律城的12個地區主導發行「底特律加油)」社區貨幣，其運作方式為當地的個人、商店或企業加入此發行網路，消費者就可以從加入該網絡的銀行購買社區貨幣，通常會有一些折扣，比如花95美分可以買到1美元的「底特律加油」，可持往加入該網絡的商店進行消費。當時約有十多個商家加入，希望將經濟活動留在社區內，以提高居民收入。</p>",
+                "description2_3Html": "<p>(三)  布里克斯頓鎊<br>2009年世界金融危機引發經濟衰退，英國倫敦南部的布里克斯頓鎮發行了「布里克斯頓鎊」。負責管理該貨幣的同名組織指出，發行「布里克斯頓鎊」的目的在於支持在地經濟，提高當地居民收入，凝聚居民向心力，並表彰社區獨一無二的精神；此外，也可以減少因運輸貨品而產生的碳排放量，有益環保。該幣與英鎊的兌換比率為1：1，民眾可於當地的自動販賣機、商店或郵局購買；流通範圍為當地小商家，無法使用於大型連鎖企業。</p>",
+                "description2_4Html": "<p>(四)  服務支票<br>服務支票係由智利的一個非政府組織發起的互助活動。例如，幫鄰居修理插座可以獲得鄰居所開的時間支票，用以支付其他鄰居提供的修理水管或修剪花園等服務的費用，目的是讓經濟弱勢的居民得以用自己的專長換取所需的服務。為鼓勵大家多多使用，每張支票的使用期限只有一個月。</p>",
+                "section3": "我國的第一個社區貨幣-「花幣」",
+                "description3Html": "<p>新北市新店區的花園新城社區曾於民國94年自行印製了我國首見的社區貨幣「花幣」。該社區居民繳交入會費100元，即可獲得200元「花幣」，會員之間可以相互要求勞務交換，例如修草、澆花或曬棉被等等，並支付「花幣」為代價。該幣發行的目的在希望促進社區互動、互助、互惠，並繁榮在地經濟，但隨著發起人遷出社區而沒落。</p>",
+                "section4": "我國行動載具內的「社區貨幣」",
+                "description4_1Html": "<p>(一)  臺東金幣<br>臺東縣政府於民國106年建置在TTPush行動App上的「臺東金幣」，性質類似電子集點卡或兌換券。民眾上網填寫縣府問卷或參與縣府活動後，就有機會獲取數枚「臺東金幣」作為獎勵。每10枚「臺東金幣」等值1元新臺幣，可用以兌換該縣轄區內特約商家的商品或折價券，藉此鼓勵民眾參與公共事務。</p>",
+                "description4_2Html": "<p>(二)  高雄幣<br>高雄市大高雄觀光協會與民間機構共同推動的紅利積點App「幣多多」，於民國108年1月份試營運上線。民眾在該市轄區內特約商家消費，可獲取支付金額一定比例的回饋，該回饋就是高雄幣，存於App「幣多多」。該幣雖可折抵下次消費，用以推廣觀光，繁榮地方經濟，但隨時間經過，幣值會有所減損。</p>",
+                "description4_3Html": "<p>(三)  嘉義幣<br>係由嘉義縣政府推出。消費者可在生產階段透過行動App向特約生產者直接認購農水產品，並獲得紅利積點回饋，用以折抵下次消費，藉以繁榮在地經濟；並希望透過消除大量中間商剝銷，直接連結生產者與消費者，提高農漁民收入。該幣若未於期限內使用完畢，價值即會減少。消費者未用完的點數，由縣府收回，運用在地方公益或建設上。</p>",
+                "section5": "社區貨幣並非國家法定貨幣",
+                "description5Html": "<p>我國國家貨幣為「新臺幣」，根據「中央銀行法」第13條規定，由央行專責發行，對境內一切支付具有法償效力。而社區貨幣本質類似抵用券；前面提到的「臺東金幣」、「高雄幣」及「嘉義幣」都與社區貨幣類似，本質為折價券或集點卡，均僅限在當地特約商家使用，部分甚至規範有使用期限。這些幣都不是具有法償效力的國家貨幣；而由於規模很小，也並不影響新臺幣的發行與流通。</p>"
+            },
+            "cashless": {
+                "title": "無現金社會",
+                "descriptionHtml": "<p class=\"mt-4\">近年各類電子支付工具高速發展，因而掀起「無現金社會」的議題。但實際觀察國際重要國家的統計數據，卻發現除了瑞典等少數北歐國家以外，多數國家的實體貨幣發行額仍在持續成長，尚未出現被電子支付取代的跡象，我國也是如此，顯示現金將消失的說法被過分誇大。</p><p>但現金究竟具有那些優勢而得以屹立不搖？「無現金社會」若真的來臨，對社會大眾的可能影響又是什麼？</p>",
+                "section1": "現金的獨特優勢",
+                "description1Html": "<p>現金對零售業者而言，是相當安全、快速、便利的支付工具，且無須仰賴電子化設備或負擔額外的交易手續費；對使用者而言，持有現金即不用擔心會面臨無法被商家收受的窘境，同時可保障交易隱私，並有效控管預算，避免過度消費。</p><p>現金也兼具價值儲藏的功能，尤其在金融情勢不穩定或利率極低的情況下，許多民眾選擇持有更多現金，作為最安全的價值儲藏工具。</p>",
+                "section2": "無現金社會的風險",
+                "description2Html": "<p>沒有現金存在的社會，除可能造成老年人、幼童及視障人士等弱勢族群支付上的困難外，一般民眾進行支付時也須仰賴電子化設備，一旦系統故障或電力中斷，即無法正常進行交易，導致經濟活動全面停擺。日本北海道於2018年因地震造成電力中斷，即導致部分災民無法以電子支付進行結帳，而被迫暫時停止消費。</p><p>此外，電子支付系統若集中在少數幾家民營機構，可能有壟斷、倒閉，以及遭到駭客入侵的潛在風險，進而對使用者權益造成不利影響。</p>",
+                "summaryHtml": "<p>由此可知，現金與多元電子支付工具兼容並蓄，才能建立完備的支付生態體系。本行支持我國電子支付蓬勃發展，但現金對日常經濟活動仍然不可或缺，只要社會大眾仍有現金需求，本行就會充分供應，以確保經濟維持正常運作，「無現金社會」短期內將不會實現。</p>"
+            }
+        },
+        "master": {
+            "title": "券幣達人",
+            "question1": "什麼是鈔券凹版印刷？",
+            "answer1": "早在19世紀開始，印製鈔券時就已經大量使用凹印技術。印刷時先將油墨填充版面，使得凹槽內充滿油墨，以刮刀刮去多餘的油墨，再施以一定的壓力，使凹槽內的油墨轉印在紙張表面，造成油墨凸起的效果。除具有良好的觸感外，線條精細，更能表現防偽印刷的特殊質感，且便於社會大眾識別。",
+            "question2": "什麼是水印？",
+            "answer2": "水印是民眾熟悉的鈔券防偽特徵。其中多階調層次的水印圖案，是在抄紙過程中，當紙張表面厚薄及紙漿密度的差異夠大時，即形成濃淡分明、層次豐富的水印效果，如此稱為模鑄水印；而紙張較薄所形成透光率特別好的水印圖案，則稱為白水印。以新臺幣壹佰圓券為例，將鈔券迎光透視，可見高低明暗層次分明的模鑄水印「梅花」圖案及白水印「100」字樣。",
+            "question3": "安全線為什麼不在同一個位置？",
+            "answer3": "鈔券的窗式安全線是在造紙時同時嵌入，並在一定範圍內特意安排左右偏差，以免因位置相同，造成紙面凸起，不利後續印刷工序，並影響鈔券捆紮及自動櫃員機（ATM）吐鈔。",
+            "question4": "什麼是光影變化箔膜？",
+            "answer4": "光影變化箔膜是利用光學原理製造影像或色彩變化，透過不同角度可看到不同影像或圖形的色彩變化，具有防止影印、複製等防偽效果。",
+            "question5": "什麼是連續調微小字？",
+            "answer5": "各面額鈔券左上角面額數字處，係由大小、粗細不同的微小面額數字組成；整體觀之有濃淡階調層次，可以防止複製偽造。",
+            "question6": "什麼是正背面套印？",
+            "answer6": "正背面套印是鈔券防偽重要措施之一。方法是在正背面印版上設計不完整的圖紋（顏色或圖案），利用鈔券專用印刷機在鈔券正、背面同時印刷；當透光檢視鈔券時，可以看到正、背面的圖紋組合成一完整的圖案。",
+            "question7": "隱藏字是什麼(鈔券)？",
+            "answer7": "鈔券及硬幣在製作時，利用橫豎不同線條所產生的堆疊效果，使入射光角度將隱藏文字或圖案反射浮出的特有光學辨識功能。鈔券正面右下角處的條狀連續式花紋圖案，以15度角迎光檢視時，會浮現代表各種面額的阿拉伯數字；不同角度，有深淺兩種變化。",
+            "question8": "隱藏字是什麼(硬幣)？",
+            "answer8": "鈔券及硬幣在製作時，利用橫豎不同線條所產生的堆疊效果，使入射光角度將隱藏文字或圖案反射浮出的特有光學辨識功能。硬幣的隱藏字功能，除民國90年發行貳拾圓幣在正面下方橢圓形區內單向刻製發行年版西元年序之隱藏圖案外，之後發行的各種流通幣及紀念性流通幣，一律採用；將背面向左、右各轉15 度角，即可清楚看到各式圖案、文字或數字。",
+            "question9": "如何用浮凸點辨別券幣？",
+            "answer9": "現行流通鈔券及部分硬幣，均有浮凸點的設計。民國77年發行的華三版壹佰圓券，是新臺幣史上最早使用浮凸點的鈔券；目前所有流通鈔券，在正面左邊均有一凹版墨膜堆積凸起的條狀或圓形圖案，提供視障者辨識鈔券。硬幣也有浮凸點的設計，拾圓、貳拾圓及伍拾圓硬幣背面分別有1、2、3個圓凸點，讓視障者分辨不同面額的硬幣。"
+        },
+        "evolution": {
+            "title": "新型態數位貨幣",
+            "description": "現行貨幣制度是在央行與商業銀行共構的雙層金融體系下運作，並透過法規與監理，建立紮實的信任基礎。然而，隨數位化的不斷演進，民間也開始利用創新技術，發行自己的數位貨幣，試圖擺脫傳統架構，獲得市場青睞。由於這些貨幣並非被廣泛接受的支付工具，持有風險相當高，故各國多將其視為虛擬資產而非通貨。",
+            "virtual": {
+                "title": "虛擬通貨",
+                "descriptionHtml": "<p>虛擬通貨原指由私人開發者發行的數位貨幣，僅供特定社群網站的會員使用，可用於購買該網站所提供的商品與服務；因不具實體形式，而以虛擬方式呈現 (如遊戲點數)，故稱為「虛擬通貨」。2009年全球金融危機過後，比特幣(bitcoin)趁勢崛起，突破了使用範圍限制，除可當作一般交易工具使用外，並可與法償貨幣相互兌換，憑空創造出財富；不僅掀起民間發幣熱潮，乙太坊(ethereum)、瑞波幣(ripple)等各式各樣虛擬通貨陸續問世，也帶動創新技術的應用。這類全球性虛擬通貨運用密碼學原理識別用戶身分，或對交易內容進行加密，故又稱為密碼通貨或加密通貨(cryptocurrency)。</p>",
+                "section1": "比特幣(bitcoin)",
+                "description1Html": "<p>貨幣要廣為人接受與使用，必須具備公信力。實體通貨的信用來自內含價值或國家的背書，以及法律所賦予的法償效力；存款貨幣的信用來自銀行，跨行清算另透過具公信力的機構集中處理。比特幣創始於2009年，由化名「中本聰」(Satoshi Nakamoto)之人所提出，利用區塊鏈內容難以篡改的特性，建立互信基礎，並採用分散式帳本技術(Distributed Ledger Technology, DLT)，將交易紀錄公開、分散保管，再透過群體共同驗證，讓付款人與收款人可進行點對點(Peer to Peer, P2P)的資金移轉，無需中介機構，實現交易清算的去中心化(discentralized)。</p>",
+                "section2": "何謂區塊鏈(blockchain)",
+                "description2Html": "<p>「區塊」(block)是存放交易資訊的電子檔案，有制定的格式與容量，上面記載著近期已確認及等待確認之交易。經過一段時間，新區塊透過共識機制(如工作量證明或權益證明)產生，接替前一區塊的記帳功能，舊區塊則永久保存。將這些區塊按照時間順序串聯起來即成為「區塊鏈」，如同會計帳本。</p>",
+                "section3": "區塊鏈內容為何難以篡改",
+                "description3Html": "<p>首先，區塊上的每筆交易紀錄，經過層層雜湊(hash)運算，彙集成長度固定、像是亂數的雜湊值(hash value)，區塊內容如有絲毫更動，都會改變雜湊值，藉此可檢視是否被篡改。其次，每個區塊都會參照前一區塊的hash值，單獨更改某一區塊，會與其他區塊的記載不相吻合，而無法串接在區塊鏈上；如要一併更改分散各處的所有區塊，工程又過於浩大。第三，比特幣帳本是由分散全球各地的眾多節點(node)共同維護，實務上駭客所擁有的運算能力是無法與整體相抗衡的。</p>",
+                "section4": "虛擬通貨帶來的問題",
+                "description4Html": "<p>虛擬通貨非由政府發行，以自訂的單位計價，不具法償效力，持有者需自行承擔風險，卻依然有人願意接受，甚至參與投資，這可歸因於它們的特性與優勢，如供給量有限、可匿名交易、帳戶不會被凍結，以及跨境移轉便利等，但也因此易淪為投機炒作、非法交易的工具。加上被駭事件時有所聞，尤其從虛擬通貨衍生出的首次代幣發行(Initial Coin Offering, ICO)，常涉及金融詐騙、違法募資等問題，使得各國政府紛紛採取監理措施，將其納入規範，並設法保護消費者。</p>"
+            },
+            "stable": {
+                "title": "穩定幣",
+                "descriptionHtml": "<p>貨幣必須具備三大功能，包括交易的媒介、價值儲藏工具，及計價的單位。由於虛擬通貨價格波動性劇烈，持有者多基於投機目的，鮮少用於日常交易；況且暴漲暴跌，也不適合作為價值儲藏工具，或充當計價單位。為彌補這項弱點，虛擬通貨業者於是推出穩定幣，設法讓虛擬通貨的價值與法償貨幣產生連結(如提列發行準備)，藉此穩定價格，吸引更多人使用。</p>",
+                "section1": "臉書(facebook)規劃推出Libra",
+                "description1Html": "<p>目前跨境支付仍存在耗時、不便及成本高等缺點，因此部分金融機構及跨國大型科技公司(BigTechs)有意發行穩定幣，作為跨境移轉資金的媒介。社群媒體巨擘臉書(facebook)即規劃以法償貨幣(美元、英鎊、歐元及日圓等)為準備，打造一個安全、可擴展、價值穩定的虛擬通貨Libra，作為全球貨幣與金融基礎設施；並與多家企業、非營利組織、多邊組織及學術機構合作，成立獨立的非營利組織「Libra協會」，共同治理Libra。由於臉書擁有全球逾20億個用戶，Libra的影響不容小覷，恐衝擊金融生態，甚至挑戰法償貨幣的地位，因而引發各界議論，並帶動各國主管機關對於BigTechs涉入金融領域的重視。</p>"
+            },
+            "digit": {
+                "title": "央行數位通貨",
+                "descriptionHtml": "<p>虛擬通貨對金融監理帶來挑戰，同時也對金融創新帶來契機，除加速金融科技(fintech)的發展外，也衍生出實體通貨數位化的議題。</p><p>「央行數位通貨(CBDC)」尚無明確的定義，泛指由央行發行的新型態數位貨幣，有別於傳統的準備金。CBDC可按使用對象區分為批發型(wholesale)與零售型(retail)兩類；前者是作為金融機構跨行清算的工具，後者則是提供一般大眾使用。CBDC又可從存在形式區分為帳戶基礎(account-based)及代幣基礎(token-based)兩類；前者類似在央行開立個人存款帳戶，後者則是存放於電子錢包的央行代幣。此外，CBDC在設計上還有多種選擇，包括使用範圍、匿名程度、金額限制、營運時間，以及計息方式等，不同形式的CBDC對支付系統、貨幣政策及金融穩定有著不同的影響。</p>",
+                "section1": "主要國家研發CBDC的現況",
+                "description1Html": "<p>目前民眾日常交易所使用的貨幣有三種，即現金、銀行存款及電子貨幣，雖然都具有交易功能，但風險卻不同。持有現金是對央行的債權，持有存款是對銀行的債權，持有電子貨幣則是對電子支付機構的債權。目前電子貨幣的比重相對仍低，但隨著行動支付持續蓬勃發展，勢將引發對無現金社會的疑慮。如何讓民眾能繼續持有無風險性貨幣，是各國央行必須正視的問題。</p><p>瑞典央行鑒於國內現金支付的比例已低，為保障消費者權益、避免電子支付遭私人壟斷，而著手開發可供一般大眾使用的電子克朗(e-krona)。中國大陸幅員廣闊，行動支付十分發達，為降低實體通貨發行與調撥成本，中國人民銀行正積極研擬以法定數位貨幣取代現金的可行方式。加拿大、新加坡、日本及歐元區央行為提升現行支付系統的安全與效率，研擬發行批發型CBDC，並應用DLT於跨行交易清算上，已展開相關試驗。本行則是成立CBDC研究計畫專案小組，針對相關議題，進行研究與測試。</p><p>發行CBDC涉及諸多層面的問題，相關技術仍處於發展階段。為避免潛在的衝擊，現階段各國央行對此多抱持審慎態度，尚無任何具體推出的時間表，需待各項問題一一獲得解決，CBDC方有可能成為零售支付的最後一哩路。</p>"
+            }
+        }
+    },
+    "history": {
+        "ourCountry": "我國券幣的歷史",
+        "develop": {
+            "title": "臺灣券幣的發展",
+            "description": "臺灣先民的交易型態，歷經荷西、明鄭、清領、日據與民國等時期的政局轉變，從以物易物，逐漸轉變為貨幣交易，最後並引進先進國家中央銀行的體制，為以後券幣發行，奠下了健全的基礎。",
+            "dictionary": {
+                "title": "小辭典",
+                "tip1": "「里爾」與「盾」：",
+                "description1": "均為銀幣的計量單位，出現於十四世紀中葉的西班牙與十六世紀的荷蘭，但荷蘭仍多採用西班牙銀幣做為交易的數量單位。貨幣依據大小可分為六種形制，有其制定的面額與重量。十七世紀至十八世紀中葉以前，銀幣的生產方式多採用手工搥打，因此形狀上多不規則，並於正、背面印有花紋。例如西班牙銀幣即印有十字，並有8、4、2、1等面額數字。",
+                "tip2": "銀兩：",
+                "description2": "中國的銀兩大體上分為四種型態，以十進位，最大的重五十兩，稱為「元寶」，其次為十兩及一至五兩，與一兩以下的碎銀。官方制定的含銀量為935.374‰，參雜鉛、鋅或錫等成分。",
+                "tip3": "番銀：",
+                "description3": "又稱佛頭銀或花欄錢，清代通行中國東南地區的外國銀幣，大致分為花邊錢、人頭、雙柱以及劍馬等四類。前三者屬於西班牙銀幣，以里爾（Real）計之；而「劍馬」則屬荷蘭的銀幣，以盾（Guilder）計之。番銀被市場的接受程度高，民間甚至有「只收番銀不收紋銀」的說法。另有仿番銀型式的銀餅，如軍餉銀餅、老公銀餅、臺灣銀餅、如意銀餅等。",
+                "tip4": "永曆通寶：",
+                "description4": "明永曆年間，最初於雲貴地區鑄造；鄭氏父子佔領臺灣後續鑄，甚至遠赴日本鑄造。直至清代中葉以降，仍有流通於臺灣與中國東南沿海的紀錄。",
+                "tip5": "戴潮春事件：",
+                "description5": "戴潮春，彰化四張犁莊人，集天地會餘黨組織「八卦會」，以團練為名，隨官府捕盜；後因聲勢浩大，為官府注目而遭查辦。清同治元年（西元1862年）4月，因該會洪姓總理遭巡視彰化的臺灣道道臺孔昭慈處死，此舉使戴潮春與會眾義憤填膺，正式起事。當時大甲以南，嘉義以北紛紛響應。次年臺灣道丁曰健來臺平定亂事，戴潮春被殺，11月官兵圍剿餘黨，事件才告結束，為臺灣歷時最久的民變。",
+                "tip6": "臺南官銀票：",
+                "description6": "清光緒21年（西元1895年）清廷戰敗，簽訂「馬關條約」割讓臺灣、澎湖。當時，臺灣人抗拒日本接收，自立「臺灣民主國」，推舉唐景崧為總統守臺北，劉永福守臺南，丘逢甲守臺中。日軍進攻，臺北城率先失守，劉永福繼續抗日，以郊商陳銘鏘為總辦，並得南洋大臣張之洞支持，在外國買辦保證下發行銀票救急，並聲明擊退日軍後，將加倍奉還，其間僅維持148天，總計發行八十萬圓。臺南官銀票又可分「護理臺南府正堂忠」及「官銀錢票總局」兩種；前者簡稱「臺南府」，後者簡稱「總局」。",
+                "tip7": "臺灣銀行：",
+                "description7": "明治30年（西元1897年）4月1日，日本政府以法律第38號公布「臺灣銀行法」，決定在臺灣設立臺灣銀行，並宣示設立宗旨。明治32年9月26日，株式會社臺灣銀行在臺北正式開業（今延平南路中山堂附近），明治37年遷址至今總行後段的日式風格行舍；昭和12年擴建後，正門改為面向重慶南路。"
+            },
+            "furtherReading": {
+                "section1": "黄典權，李冕世〈清代臺灣地區貨幣制度之研究〉，《成大歷史學報》（臺南市：國立成功大學歷史研究所、歷史學系），第三期，（1976年7月）。",
+                "section2": "王國璠，《臺灣抗日史（甲篇）》，臺北市：文獻委員會，1981。",
+                "section3": "許義宗，《臺灣貨幣圖說》，臺北市：許義宗，1999。",
+                "section4": "許雪姬，《臺灣歷史辭典》，臺北市：遠流，2003。",
+                "section5": "簡義雄，《臺灣錢淹腳目》，臺北市：健蓁，2006。",
+                "section6": "陳國棟，「飛鴻雪泥－荷蘭時代到清朝統治前期的臺灣貨幣」，臺北市：臺灣博物館，2009。",
+                "learningSite": "歷史文化學習網",
+                "learningSiteTitle": "歷史文化學習網"
+            },
+            "netherlandsAndSpain": {
+                "title": "荷西時期",
+                "section1": "荷西時期（西元1624-1662年）",
+                "description1_1Html": "<p>早期臺灣位居中國、日本與東南亞三區的貿易要衝，進而發展成以海盜走私與季節性漁撈經濟的據點。十七世紀更成為荷蘭、西班牙的東亞貿易要地，也造成了大量白銀流入臺灣。</p>",
+                "description1_2Html": "<p>荷蘭與西班牙的銀幣，分別以<a href=\"\" title=\"「盾」及「里爾」\" data-toggle=\"modal\" data-target=\"#modal-2\">「盾」及「里爾」</a>為計量單位。白銀的流入與交易對象的介入，同時影響了先民以物易物的交易型態；直到明清時期，這些白銀仍為主要的貨幣。</p>"
+            },
+            "qing": {
+                "title": "明鄭與清領時期",
+                "section1": "明鄭與清領時期（西元1662-1895年）",
+                "description1_1Html": "<p>受荷西時期的影響，臺灣於明鄭與清領時期主要係採用銀做為貨幣，其間參雜有中國貨幣型態的銀兩和他國的<a href=\"\" title=\"番銀（銀幣）\" data-toggle=\"modal\" data-target=\"#modal-2\">番銀（銀幣）</a>，民間則多以後者作為交易媒介。中國的銅質制錢，例如：明鄭所鑄造的「<a href=\"\" title=\"永曆通寶\" data-toggle=\"modal\" data-target=\"#modal-2\">永曆通寶</a>」亦通行於臺灣，並可與銀相互兌換。</p>",
+                "description1_2Html": "<p>清領時期，臺灣有兩次發行銀票的紀錄，一為<a href=\"\" title=\"戴潮春事件\" data-toggle=\"modal\" data-target=\"#modal-2\">戴潮春事件</a>發生時，因軍事需要，由臺南籌防總局令士紳殷戶負責籌募的「<a href=\"\" title=\"戴潮春事件\" data-toggle=\"modal\" data-target=\"#modal-2\">臺灣籌防總局官票</a>」，共募得四萬元；一為臺灣民主國抗日期間，劉永福為籌措軍需所發行的「臺南官銀票」，共有壹、伍、拾大員等三種面值。</p>"
+            },
+            "japan": {
+                "title": "日治時期",
+                "section1": "日治時期（西元1895-1945年）",
+                "description1_1Html": "<p>清政府由於沒有對流通貨幣的形制嚴格規範，以致幣制混亂。日本自西元1895年統治臺灣後，遂於1897年公布「臺灣銀行法」，並在1899年成立<a href=\"\" title=\"株式會社臺灣銀行\" data-toggle=\"modal\" data-target=\"#modal-2\">株式會社臺灣銀行</a>，擔負整理幣制、發行鈔券與穩定物價等工作，對該時期的經濟發展扮演極重要的角色。</p>",
+                "description1_2Html": "<p><a href=\"\" title=\"臺灣銀行\" data-toggle=\"modal\" data-target=\"#modal-2\">臺灣銀行</a>成立後，遵行臺灣既有的銀本位制度，發行可與銀幣兌換的「銀券」；明治37年（西元1904年）後，才採行與日本本土相同的金本位制度，發行「金券」；嗣後大正、昭和時期鈔券亦陸續改版。日治時期在臺灣使用的流通鈔券，均稱為臺灣銀行券。</p>"
+            },
+            "roc": {
+                "title": "民國時期",
+                "section1": "民國時期（西元1945-迄今）",
+                "description1_1Html": "<p>民國34年臺灣光復後，臺灣省行政長官公署接收株式會社臺灣銀行，並改組成立臺灣銀行，於民國35年5月22日發行臺幣（俗稱舊臺幣）。民國38年政府遷臺，於6月15日臺灣省政府公布「新臺幣發行辦法」，實行幣制改革，發行新臺幣。</p><p>民國50年7月中央銀行在臺正式復業，同時收回新臺幣發行權；另依行政院頒布的「中央銀行在臺灣地區委託臺灣銀行發行新臺幣辦法」，委請臺灣銀行代理發行。</p><p>中央銀行於民國89年訂定「中央銀行發行新臺幣辦法」，新臺幣由中央銀行直接發行，鈔券票面的發行銀行改為「中央銀行」，新臺幣正式成為國幣。</p>"
+            }
+        },
+        "introduce": {
+            "title": "券幣歷史介紹",
+            "furtherReading": {
+                "section1": "中央印製廠，《中央印製廠建廠六十週年紀念》，新北市：中央印製廠，2001。",
+                "section2": "中央造幣廠，《中央造幣廠開鑄五十週年紀念特刊》，桃園縣：中央造幣廠，1983。",
+                "section3": "中央造幣廠，《中央造幣廠開鑄六十週年紀念特刊》，桃園縣：中央造幣廠，1993。",
+                "section4": "中央造幣廠，《中華民國中央造幣廠幣章圖鑑》，桃園縣：中央造幣廠，1992。",
+                "section5": "中央造幣廠開鑄七十週年慶祝活動籌備委員會，《中央造幣廠幣章圖鑑（82-92）》，桃園縣：中央造幣廠，2003。",
+                "section6": "中央造幣廠幣章圖鑑籌備委員會，《中央造幣廠幣章圖鑑（92-98）》，桃園縣：中央造幣廠，2009。",
+                "section7": "中央銀行，《中華民國中央銀行之制度與功能》，臺北市：中央銀行，1991。",
+                "section8": "中央銀行，《中華民國中央銀行之制度與功能（92年版）》，臺北市：中央銀行，2003。",
+                "section9": "中央銀行發行局，《臺幣•新臺幣圖鑑》，臺北市：中央銀行發行局，1998。",
+                "section10": "許義宗，《TOP中國紙幣》，臺北市：許義宗，1997。",
+                "section11": "許義宗，《中國紙幣新論》，臺北市：許義宗，2002。",
+                "section12": "許義宗，《原色省銀行紙幣圖說•中央、中國、交通、農民銀行篇》，臺北市：許義宗，1994。",
+                "section13": "許義宗，《原色省銀行紙幣圖說•臺灣銀行及各省省銀行篇》，臺北市：許義宗，1995。",
+                "section14": "許義宗，《臺灣貨幣圖說》，臺北市：許義宗，1999。",
+                "section15": "臺灣銀行，《「臺灣銀行五十年」專輯》，臺北市：臺灣銀行，1996。",
+                "section16": "臺灣銀行，《臺灣銀行六十年》，臺北市：臺灣銀行，2006。",
+                "learningSite1": "中央印製廠 http://www.cepp.gov.tw/internet/cn/index.aspx",
+                "learningSite1Title": "中央印製廠",
+                "learningSite2": "中央造幣廠 http://www.cmc.gov.tw/index.jsp",
+                "learningSite2Title": "中央造幣廠"
+            },
+            "mainland": {
+                "title": "大陸時期",
+                "periodHtml": "<p>民國1年<br>1911 <br>　| <br>民國38年<br>1949</p>",
+                "descriptionHtml": "<p>民國初年軍閥割據，為我國貨幣史上最混亂之時期。一方面是傳統貨幣（銀兩、制錢及私票）與新式貨幣（銀元、銅元及銀行兌換券）混用，幣制混亂；另一方面，各地軍閥為籌措軍費，大量鑄造劣質錢幣，濫發不兌現鈔券，而外國銀行之鈔券乘機擴大發行，國計民生深受其苦。</p><p>民國13年國父在廣州成立中央銀行。民國15年為支援北伐，在武漢亦設有中央銀行，兩者純為軍事需要，並非真正的中央銀行。民國17年國民政府為統一幣制、經理國庫與調劑金融等目的，在上海正式成立中央銀行，並依據「中央銀行條例」，明定為國家銀行，在全國各地設分支機構，有專屬發鈔權利。</p><p>民國22年政府頒布「銀本位幣鑄造條例」，實行「廢兩改元」政策，至此影響中國幣制史近千年的銀兩制度，遂告結束。</p><p>中央銀行自民國17年正式成立之後，在大陸時期發行有關金券、法幣、金圓券、銀元券與銀本位幣、輔幣等，茲簡介如上。</p>",
+                "customs": {
+                    "title": "關金券",
+                    "description": "關金券全稱「海關金單位兌換券」，中央銀行於民國20年5月發行關金兌換券，專為繳納關稅之用。民國31年財政部為供應市面鈔券需要，按當時匯價折算，關金兌換券壹圓折合法幣貳拾圓予以折算流通。初時流通數量有限，但隨著法幣快速貶值，政府發行大額關金券。至民國37年8月20日政府頒布「財政經濟緊急處理辦法」，施行幣制改革，廢除法幣及關金券，發行金圓券。",
+                    "detail": {
+                        "title": "大陸時期 - 關金券",
+                        "contentHtml": "<p>關金券全稱「海關金單位兌換券」。民國18年世界銀價暴跌，以海關稅收為抵押之外債，係以黃金為計算標準，但關稅稽徵係以白銀為單位，致關稅收入無形削減，國家財政損失頗鉅。國民政府乃於民國19年2月1日起，將海關進口稅改以價值較穩定之海關金單位（Customs Gold Unit ）計課，以避免銀價跌落所引起之損失。每一關金單位值純金60.1866公毫；民國20年5月中央銀行發行關金兌換券，專為繳納關稅之用。</p><p>海關金單位元原本僅為稽徵計算單位，並非真正貨幣。但自財政部聲明商人完稅，除以銀洋、英鎊或美元向海關兌換金單位外，並可向中央銀行直接購買，以防匯價漲落，且得向中央銀行開立關金活期存款戶。民國31年財政部為供應市面鈔券需要，乃商請中央銀行將印存之關金券，酌量發行，並將關金之純金量，改為每一關金含純金88.8671公毫，按當時匯價套算，折合法幣貳拾圓；並由財政部分別通知中國、交通、農民銀行，對於人民以法幣兌換關金或以關金兌換法幣者，均應按此規定折合率，儘量予以兌換。關金從而進入市場，成為實際支付工具，與法幣無異。</p><p>初時之關金券流通數量有限，後因法幣快速貶值，政府亦發行高面額關金券，最高面額之關金券為關金貳拾伍萬圓。民國37年8月施行幣制改革，發行金圓券，關金券與法幣同時停止流通，並於同年11月20日停止兌換，逾期不再收兌。</p>",
+                        "imgName": "上海印製廠大門"
+                    }
+                },
+                "legal": {
+                    "title": "法幣",
+                    "description": "國民政府於民國17年依據「中央銀行條例」，明定中央銀行為國家銀行；民國24年宣布改革幣制，放棄銀本位，改行法幣制度，以中央、中國、交通三家銀行發行之鈔券為法幣，嗣中國農民銀行所發行之鈔券亦納入法幣中。法幣政策實施成功後，民國31年6月政府公布「統一發行辦法」，將法幣集中由中央銀行發行，統一幣制之目標乃告完成，並維持抗戰期間後方經濟之安定。惟戰後之國共內戰，導致法幣快速貶值，遂於民國37年8月改革幣制，發行金圓券，法幣走入歷史。",
+                    "detail": {
+                        "title": "大陸時期 - 法幣",
+                        "contentHtml": "<p>民國18年美國發生金融危機，造成歷史上首次全球性經濟大恐慌，各國為挽救金融及經濟雙重危機，乃重新釐定貨幣政策，以紓解財經困窘。由於我國以銀為本位，無法任意貶值，以致輸出困難，入超日甚，白銀流出甚鉅，嚴重影響工商事業與國民經濟。</p><p>民國22年3月8日國民政府頒布「銀本位幣鑄造條例」，規定銀本位幣定名為「元」；同年4月6日實施「廢兩改元」，所有公私交易須一律改用銀幣，不得再用銀兩，否則無效。</p><p>民國24年11月3日財政部公告「施行法幣布告」，宣布改革幣制，放棄銀本位，改行法幣制度。以中央、中國、交通三家銀行發行之鈔券為法幣，所有完糧納稅及公司款項收付，概以法幣為限；其後中國農民銀行發行之鈔券亦納入法幣中。</p><p>法幣政策實施後，民國31年6月政府公布「統一發行辦法」，將中央、中國、交通、農民四家銀行之發行法幣權，集中由中央銀行統一辦理。抗戰期間，因法幣政策的成功，雖然財政極為困窘，但仍維持後方經濟之安定。</p><p>然而抗戰勝利後，因受長期戰爭影響，幣值持續貶低，復原重建需求驟增、物資缺乏、物價暴漲，致法幣無法維持貨幣功能，遂於民國37年8月改革幣制，改發行金圓券。</p>"
+                    }
+                },
+                "gold": {
+                    "title": "金圓券",
+                    "description": "民國37年8月，由於法幣及關金券快速貶值，物價高漲，社會動盪，人心不安，國民政府乃改革幣制，發行金圓券。依「金圓券發行辦法」，公告法幣參佰萬圓（關金券壹圓折合法幣貳拾圓）折合金圓券壹圓，致人民財產嚴重縮水，難以獲得信賴；加以國共戰爭不斷擴大，國民政府軍用浩繁，金圓券急遽貶值。民國38年7月，政府再行幣制改革，發行銀元券，限期收兌金圓券，逾期作廢，不再收兌。",
+                    "detail": {
+                        "title": "大陸時期 - 金圓券",
+                        "contentHtml": "<p>民國37年8月，由於法幣及關金券快速貶值，物價高漲，社會動盪，造成人心不安，國民政府頒布「財政經濟緊急處理辦法」，改革幣制，發行金圓券。依「金圓券發行辦法」，經公告以法幣參佰萬圓（關金券壹圓折合法幣貳拾圓）折合金圓券壹圓，限於民國37年11月20日以前無限制兌換，逾期不再收兌。</p><p>金圓券之發行，使人民財產嚴重縮水，難以獲得信賴；加以國共戰爭不斷擴大，國民政府軍用浩繁，財源短絀，金圓券重蹈法幣覆轍，急遽貶值。民國38年7月，國民政府再行幣制改革，發行銀元券，規定金圓券伍億圓兌換銀元券壹圓，限於同年9月1日前無限制兌換，逾期作廢，不再收兌。</p>"
+                    }
+                },
+                "silver": {
+                    "title": "銀元券",
+                    "description": "民國38年7月2日依「動員戡亂時期臨時條款」之規定，公布「銀元及銀元兌換券發行辦法」，再行幣制改革，發行銀元券，以銀元為國幣單位，經公告以金圓券五億圓兌換銀元券壹圓。目前「銀元及銀元兌換券發行辦法」因「動員戡亂時期臨時條款」廢止，而於民國81年8月5日由總統明令廢止。",
+                    "detail": {
+                        "title": "大陸時期 - 銀元券",
+                        "contentHtml": "<p>金圓券之壽命與上海撤退同時告一段落。民國38年7月2日依「動員戡亂時期臨時條款」之規定，制定「銀元及銀元兌換券發行辦法」，再行幣制改革，發行銀元券作為國幣，經公告以金圓券伍億圓兌換銀元券壹圓，並限於同年9月1日前無限制兌換，逾期不再收兌。惟當時臺灣地區係以新臺幣為流通貨幣，因此銀元券從未在臺流通。政府遷臺後，依行政院民國39年6月28日台（39）財字第3114號令訂定「改用新臺幣記帳辦法」之規定，以銀元壹圓折合新臺幣參圓。另依民國40年1月5日財政部公布之「國家行局大陸撤退前各項債務暫緩支付電」規定，暫緩償付，俟光復後另訂處理辦法。目前「銀元及銀元兌換券發行辦法」因「動員戡亂時期臨時條款」廢止，而於民國81年8月5日由總統明令廢止；關於銀元及銀元兌換券之收兌，則依「臺灣地區與大陸地區人民關係條例」規定，於國家統一前不予處理。</p>"
+                    }
+                },
+                "standard": {
+                    "title": "銀本位幣",
+                    "description": "民國3年北洋政府頒布「國幣條例」及「國幣條例施行細則」，規定國幣鑄發權專屬於政府；民國22年政府頒布「銀本位幣鑄造條例」，實行「廢兩改元」政策，銀本位幣開鑄發行；民國24年政府宣布實施法幣政策，乃停鑄銀本位幣。"
+                },
+                "support": {
+                    "title": "輔幣",
+                    "description": "民國24年政府宣布實施法幣政策，停鑄本位幣，中央銀行乃於民國25年2月開始發行輔幣，初期發行貳拾分、拾分、伍分三種純鎳幣及壹分、半分二種銅幣，以解決當時輔幣混亂的狀況。"
+                },
+                "other": {
+                    "title": "其他鈔券",
+                    "description": "民國初年，軍閥割據，各省、縣或官銀錢號受其勢力影響，省銀行林立，並發行各種軍需券或鈔券以供給軍費。中央銀行成立後，雖實施幣制改革，並制定法幣政策，確立我國中央銀行的體制（各國具備中央銀行功能之銀行，名稱不一）；但抗戰與國共內戰期間，尚有各式臨時流通券、銀元輔幣券、銀元兌換券及本票的發行；日本侵華期間，亦於國內先後扶植了部分傀儡政權與中央抗衡，並陸續發行紙幣。",
+                    "detail": {
+                        "title": "大陸時期 - 其他鈔券",
+                        "contentHtml": "<p>清代雖已建立中央銀行的制度（即大清戶部銀行），然而民國初年軍閥割據，各省、縣或官銀錢號受其勢力影響，省銀行林立，並發行各種軍需券或鈔券以供給軍費。民國13年中央銀行成立，民國17年起明定其為國家銀行，並實施幣制改革，制定法幣政策，我國中央銀行的體制因而確立。</p><p>但抗戰與國共內戰期間，我國長時間處於內憂外患，中央銀行發行的鈔券，除關金券、法幣、金圓券與銀元券之外，尚有各式臨時流通券、銀元輔幣券、銀元兌換券、本票的發行。除此之外，日本在「九一八事變」後，亦於國內先後扶植部分傀儡政權與中央抗衡，並陸續發行紙幣。</p>"
+                    }
+                }
+            },
+            "japan": {
+                "title": "日治時期",
+                "periodHtml": "<p>明治28年<br>1895 <br>　| <br>昭和20年<br>1945</p>",
+                "descriptionHtml": "<p>「臺灣銀行券」為臺灣日治時期通行之貨幣，由臺灣銀行發行。明治時期之初，暫行臺灣既有之銀本位制，發行「銀券」，後採與日本本土相同之金本位制度，發行「金券」。大正與昭和時期，由於臺灣總督府推動政策改革，以及印刷與製紙技術進步，故陸續進行鈔券改版。</p>",
+                "meiji": {
+                    "title": "明治時期",
+                    "description": "明治32年（西元1899年），日本設立之株式會社臺灣銀行暫行臺灣既有之銀本位制度，發行可與銀幣兌換之「銀券」；明治37年（西元1904年）鑑於銀價不穩，物價波動，且銀券未能在市場上流暢通行，故改採與日本本土相同之金本位制度，發行「金券」。"
+                },
+                "taisho": {
+                    "title": "大正時期",
+                    "description": "大正時期，臺灣總督府確立之「農業臺灣，工業日本」政策頗具成效，而株式會社臺灣銀行發行之鈔券亦自大正3年（西元1914年）起，版面由直式改為橫式，並改印「臺灣銀行券」字樣。計有壹圓、五圓、拾圓、五拾圓等四種面額，並選用臺灣神社及鵝鑾鼻燈塔為主題圖案。"
+                },
+                "showa": {
+                    "title": "昭和時期",
+                    "description": "昭和年間由於印刷與製紙技術進步，為防止偽造、變造，株式會社臺灣銀行於昭和8年（西元1933年）起陸續發行新版臺灣銀行券，共有壹圓、五圓、拾圓及百圓券四種面額。昭和17年（西元1942年）再度改版，共有壹圓、五圓及拾圓三種面額。另由於太平洋戰爭之影響，日本國內物資嚴重欠缺，原由「大日本帝國印刷局」印製之鈔券，改由臺灣就地取材，自行印製，共有拾圓及百圓券二種面額。"
+                }
+            },
+            "td": {
+                "title": "(舊)臺幣時期",
+                "periodHtml": "<p>民國35年<br>1946 <br>　| <br>民國38年<br>1949</p>",
+                "1": "臺幣壹圓券",
+                "500": "臺幣伍佰圓券",
+                "10000": "臺幣壹萬圓券",
+                "1000000": "壹佰萬圓臺灣銀行本票",
+                "descriptionHtml": "<p>臺灣光復後，臺灣省行政長官公署於民國35年5月20日接收日治時期「株式會社臺灣銀行」，並改組成立「臺灣銀行」，於同月22日起發行臺幣（後因有別於改制之新臺幣，俗稱舊臺幣）。嗣因通貨膨脹嚴重，臺灣省政府遂於民國38年6月15日頒布「新臺幣發行辦法」，施行幣制改革，發行新臺幣。</p>",
+                "description": "臺灣光復後，臺灣省行政長官公署於民國35年5月20日接收日治時期「株式會社臺灣銀行」，並改組成立「臺灣銀行」，於同月22日起發行臺幣（後因有別於改制之新臺幣，俗稱舊臺幣）。嗣因通貨膨脹嚴重，臺灣省政府遂於民國38年6月15日頒布「新臺幣發行辦法」，施行幣制改革，發行新臺幣。",
+                "td": {
+                    "detail": {
+                        "title": "(舊)臺幣時期",
+                        "contentHtml": "<p>臺灣光復後，臺灣省行政長官公署為穩定金融，於民國35年5月20日依財政部頒布之「臺灣省當地銀行鈔券及金融機關處理辦法」，接收日治時期「株式會社臺灣銀行」，並改組成立「臺灣銀行」，於同月22日發行臺幣（俗稱舊臺幣）。</p><p>臺幣發行總額最初核定為參拾億元，隨後因戰後臺灣百廢待舉，又受大陸惡性通貨膨脹影響，發行額急遽增加。為因應當時市面需要，除臺幣外，另發行「臺銀本票」，分為伍仟圓、壹萬圓、拾萬圓、壹佰萬圓四種面額，與鈔券同時在市面流通。為解救經濟困境，遏阻物價上漲，政府於民國38年6月15日頒布「新臺幣發行辦法」，施行幣制改革，發行新臺幣，以臺幣肆萬圓折合新臺幣壹圓，限於同年12月31日前無限制兌換，後展延至民國39年1月14日止，逾期作廢。</p>"
+                    }
+                }
+            },
+            "ntd": {
+                "title": "新臺幣時期",
+                "periodHtml": "<p>民國38年<br>1949 <br>　| <br>至今</p>",
+                "descriptionHtml": "<p>民國38年6月15日，臺灣省政府公布「新臺幣發行辦法」，施行幣制改革。自民國38年迄今，先後由臺灣銀行與中央銀行承辦發行業務。</p>",
+                "boc": {
+                    "title": "臺灣銀行發行",
+                    "description": "民國38年6月15日，臺灣省政府公布「新臺幣發行辦法」，施行幣制改革，由臺灣銀行發行新臺幣，並以臺幣肆萬圓折合新臺幣壹圓，限期兌換，逾期不再收兌。民國50年7月1日中央銀行在臺復業，依「中央銀行在臺灣地區委託臺灣銀行發行新臺幣辦法」，委請臺灣銀行代理發行，新臺幣視同國幣。另新臺幣原僅在臺灣地區流通，後為因應金門、大陳及馬祖等地經濟需要，曾先後在各該地區發行地名新臺幣，規定僅在各該地區流通，不得攜至臺灣使用，目前該等地名新臺幣已停止流通。",
+                    "detail": {
+                        "title": "新臺幣時期",
+                        "contentHtml": "<p>新臺幣自民國38年6月15日發行以來，期間由於時代背景變遷，發行制度歷經三階段演變。</p><p>（一）臺灣銀行自行發行<br>臺灣光復，政府為穩定地方金融，核准臺灣銀行於民國35年5月22日發行臺幣（俗稱舊臺幣）。隨後由於物價暴漲，遂實施幣制改革，於民國38年6月15日頒布「新臺幣發行辦法」，由臺灣銀行發行新臺幣取代臺幣，並以臺幣肆萬圓折合新臺幣壹圓，限期兌換，逾期作廢。</p><p>（二）中央銀行委託臺灣銀行代理發行<br>民國50年7月1日中央銀行在臺復業，遵照「中央銀行復業方案」，由中央銀行執行貨幣發行權；並依行政院頒布之「中央銀行在臺灣地區委託臺灣銀行發行新臺幣辦法」規定，委由臺灣銀行代理發行。有關新臺幣發行之資產及負債屬於中央銀行，發行準備由中央銀行提供並保管，發行費用由中央銀行負擔；而券幣之調撥、運送、地區調節及回籠券之整理等業務，則委由臺灣銀行辦理。</p><p>（三）中央銀行自行發行<br>民國89年間，中央銀行陳報行政院訂定「中央銀行發行新臺幣辦法」，自同年7月1日起，新臺幣改由中央銀行直接發行，將新臺幣提升為國幣。有關發行新臺幣而產生之券幣收付、運送、調節供需及整理回籠券等附隨業務，則另訂定「中央銀行委託臺灣銀行經理新臺幣發行附隨業務辦法」，繼續委由臺灣銀行經理。</p>"
+                    }
+                },
+                "centralBank": {
+                    "title": "中央銀行發行",
+                    "description": "民國81年8月「銀元及銀元兌換券發行辦法」公告廢止後，作為國幣之銀元喪失發行法源。中央銀行爰依「中央銀行法」第13條「中華民國貨幣，由本行發行之」之規定，於民國89年1月26日訂定「中央銀行發行新臺幣辦法」，自同年7月1日起，新臺幣由中央銀行直接發行，鈔券票面之發行銀行由「臺灣銀行」改為「中央銀行」，將新臺幣提升為國幣。有關發行新臺幣而產生之附隨業務，則另訂「中央銀行委託臺灣銀行經理新臺幣發行附隨業務辦法」，繼續委由臺灣銀行辦理。",
+                    "detail": {
+                        "title": "新臺幣時期",
+                        "contentHtml": "<p>新臺幣自民國38年6月15日發行以來，期間由於時代背景變遷，發行制度歷經三階段演變。</p><p>（一）臺灣銀行自行發行<br>臺灣光復，政府為穩定地方金融，核准臺灣銀行於民國35年5月22日發行臺幣（俗稱舊臺幣）。隨後由於物價暴漲，遂實施幣制改革，於民國38年6月15日頒布「新臺幣發行辦法」，由臺灣銀行發行新臺幣取代臺幣，並以臺幣肆萬圓折合新臺幣壹圓，限期兌換，逾期作廢。</p><p>（二）中央銀行委託臺灣銀行代理發行<br>民國50年7月1日中央銀行在臺復業，遵照「中央銀行復業方案」，由中央銀行執行貨幣發行權；並依行政院頒布之「中央銀行在臺灣地區委託臺灣銀行發行新臺幣辦法」規定，委由臺灣銀行代理發行。有關新臺幣發行之資產及負債屬於中央銀行，發行準備由中央銀行提供並保管，發行費用由中央銀行負擔；而券幣之調撥、運送、地區調節及回籠券之整理等業務，則委由臺灣銀行辦理。</p><p>（三）中央銀行自行發行<br>民國89年間，中央銀行陳報行政院訂定「中央銀行發行新臺幣辦法」，自同年7月1日起，新臺幣改由中央銀行直接發行，將新臺幣提升為國幣。有關發行新臺幣而產生之券幣收付、運送、調節供需及整理回籠券等附隨業務，則另訂定「中央銀行委託臺灣銀行經理新臺幣發行附隨業務辦法」，繼續委由臺灣銀行經理。</p>"
+                    }
+                }
+            }
+        }
+    },
+    "service": {
+        "title": "訊息與服務",
+        "firstPage": "第一頁",
+        "lastPage": "最末頁",
+        "previousPage": "上一頁",
+        "nextPage": "下一頁",
+        "totalItems": "共 {{count}} 則",
+        "announcement": {
+            "title": "訊息公告",
+            "all": "全部",
+            "public": "國內券幣",
+            "downtime": "國外券幣",
+            "other": "其他"
+        },
+        "promote": {
+            "title": "推廣專區",
+            "all": "全部",
+            "propaganda": "券幣大小事",
+            "activity": "紀念性券幣銷售",
+            "education": "防偽辨識",
+            "otherinformation": "其他資訊",
+            "financial": "金融文物館"
+        },
+        "audio": {
+            "title": "語音導覽"
+        },
+        "law": {
+            "title": "券幣法規與出版品",
+            "publication": "券幣出版品",
+            "electronicPreview": "電子試閱",
+            "law": "券幣法規"
+        },
+        "link": {
+            "title": "網網相連",
+            "tab1": "臺灣 Taiwan",
+            "tab2": "美洲 America",
+            "tab3": "歐洲 Europe",
+            "tab4": "非洲 Africa",
+            "tab5": "亞洲 Asia",
+            "tab6": "大洋洲 Oceania"
+        }
+    },
+    "communicate": {
+        "title": "交流園地",
+        "email": {
+            "title": "意見信箱",
+            "captchaError": "辨識碼錯誤",
+            "stepTitle": "信件填寫及處理步驟",
+            "stepContentHtml": "<p>個人資料蒐集處理利用告知事項暨同意書</p><p>(一)、 為確認您所提供的電子信箱無誤，或防止遭他人冒用等，在您填寫完信件寄出時，系統將自動發送「確認信」至您的信箱，請點選確認連結後，才完成意見信箱留言程序；本行將依您的來信內容，交由權責單位處理，並儘快於七日內答覆(本系統服務流程圖如下)。</p><p>(二)、 您所填寫的資料(含姓名、電子郵件信箱、電話、地址) ，依據個人資料保護法及相關規定，不對外公開，僅供「與當事人連絡」或「轉知權責單位處理」等業務聯繫使用。</p><p>(三)、 本人已明白並同意貴行依前項目的蒐集、處理及使用本人填寫的資料。</p>",
+            "accept": "同意繼續寫信",
+            "flowPicTitle": "本系統服務流程圖",
+            "send": {
+                "notice": "為務必填寫的項目",
+                "name": "姓名:",
+                "phone": "連絡電話:",
+                "mailTtile": "意見標題:",
+                "mailContent": "意見內容:",
+                "identificationCode": "辨識碼:",
+                "reload": "重新整理",
+                "ok": "確定",
+                "clean": "清除",
+                "alertMessage": "您的信件已寄出，您可隨時至本網站",
+                "dot": "。"
+            },
+            "seach": {
+                "title": "查詢進度",
+                "sender": "申請人：",
+                "sendDate": "寄件日期：",
+                "mailTitle": "標題：",
+                "mailStatus": "狀態：",
+                "mailContetn": "內容：",
+                "response": "回覆意見：",
+                "pendingReply": "待回覆",
+                "alreadyReply": "已回覆"
+            }
+        },
+        "faq": {
+            "title": "常見問答"
+        }
+    },
+    "multimedia": {
+        "title": "多媒體專區",
+        "download": {
+            "title": "下載區",
+            "desktop": "桌布",
+            "learn": "學習單"
+        },
+        "game": {
+            "title": "遊戲區"
+        },
+        "video": {
+            "title": "影片區"
+        }
+    },
+    "aboutMuseum": {
+        "title": "關於券幣數位博物館",
+        "contentHtml": "<h6>「券幣數位博物館」之建置目的</h6><ol><li>介紹我國券幣的歷史發展。</li><li>宣導券幣防偽知識及愛護券幣的觀念和作法。</li><li>建立數位典藏資料庫，以利各界研究參考。</li><li>提供全球網路使用者，隨時獲取有關我國券幣的相關資訊，以促進國際間文化交流。</li></ol><h6>券幣數位博物館的特色</h6><ol><li>民眾利用網路即可觀賞，不受時空限制，較實體博物館便利。</li><li>網站提供「大眾版」、「兒童版」及「虛擬展覽館」等三大部分，適合社會各界不同人士瀏覽。</li><li>「兒童版」採生動的圖像動畫表達方式，激發學童瀏覽、學習的興趣，以發揮寓教於樂的功用。</li><li>「虛擬展覽館」以實體博物館的概念，除以常設展覽介紹我國券幣發行史為主軸外，並將典藏品依主題舉辦線上特展，滿足多元化的觀賞需求。</li><li>數位典藏資料庫收藏本行歷年發行的券幣，民眾可利用線上查詢系統，便利搜尋相關券幣典藏品的資訊。</li><li>結合豐富生動的多媒體技術，以圖文說明搭配插畫故事、券幣環物展示、影音動畫及互動遊戲，兼具知識性、趣味性與教育性。</li></ol><h6>展示內容</h6><ol><li>券幣的歷史發展及趣聞軼事。</li><li>以我國近代券幣發行歷史為主軸，並突顯臺灣在地發展脈絡，於網站中展出各時期的券幣圖像。</li><li>介紹新臺幣的生命週期，將設計、印鑄、發行、回籠，以至整理及銷毀等各流程整合製成影片，具體呈現在民眾面前。</li><li>結合多媒體技術，介紹新臺幣券幣防偽功能及正確使用的方法。</li><li>建立我國券幣數位典藏資料庫，以利各界研究參考。</li></ol>"
+    },
+    "openDataAnnouncement": {
+        "title": "政府網站開放資料宣告",
+        "contentHtml": "<ul class=\"outside-list\"><li><h6>一、授權方式及範圍</h6><p>為利各界廣為利用網站資料，中央銀行（以下簡稱本行）網站上刊載之所有資料與素材，其得受著作權保護之範圍，以無償、非專屬，得再授權之方式提供公眾使用，使用者得不限時間及地域，重製、改作、編輯、公開傳輸或為其他方式之利用，開發各種產品或服務（簡稱加值衍生物），此一授權行為不會嗣後撤回，使用者亦無須取得本行之書面或其他方式授權；然使用時，應註明出處。</p></li><li><h6>二、相關事項說明：</h6><ul><li>(一)本授權範圍僅及於著作權保護之範圍，不及於其他智慧財產權利，包括但不限於專利、商標、及本行標誌之提供。</li><li>(二)當事人自行公開或依法令公開之個人資料是否得被蒐集、處理及利用，使用者須自行依照個人資料保護法之相關規定，規劃並執行法律要求之相應措施。</li><li>(三)部分的影音、圖像、樂譜、專人專案撰文或其他著作，經本行特別聲明者，須取得同意方可使用。</li></ul></li><li><h6>三、應注意不得侵害第三人之著作人格權(包括姓名表示權及禁止不當變更權)。</h6></li><li><h6>四、使用本授權提供之資料與素材，不得惡意變更其相關資訊，若利用後所展示之資訊與原資料與素材不符，使用者須自負民事、刑事上之法律責任。</h6></li><li><h6>五、本網站之授權，並不授予使用者代表本行建議、認可或贊同其加值衍生物之地位。</h6></li></ul>"
+    },
+    "copyright": {
+        "title": "著作權聲明",
+        "contentHtml": "<p>「中央銀行券幣數位博物館」為尊重本網站上刊載所有內容之授權使用者智慧財產權，請您仔細閱讀以下各項說明，您如有任何意見或疑問，請利用 <a href=\"/{{language}}/communicate/email\" title=\"意見信箱\">意見信箱</a> 告訴我們，謝謝您的關切！</p><ol><li>瀏覽或使用本網站時，視同使用者已完全接受並瞭解本聲明中所有規範、中華民國相關法規、一切國際網路規定及使用慣例，並不得為任何不法目的使用本網站。</li><li>本網站上刊載之所有內容，除著作權法規定不得為著作權之標的（如法律、命令、公務員撰擬之講稿、新聞稿等，請參考著作權法第九條規定）外，其他包括文字敘述、攝影、圖片、錄音、影像及其他資訊，均受著作權法保護。</li><li>上述不得為著作權標的者，任何人均得自由利用，歡迎各界廣為利用。</li><li>本網站與典藏寶庫內容受著作權法保護者，除有合理使用情形外，應取得各該著作財產權人同意或授權後，方得利用。如有利用之需求時，可向本館洽詢有關事宜。</li><li>上述「合理使用情形」，說明如下：<ol class=\"inner-list\"><li>本網站上所刊載以中央銀行名義公開發表之著作，即著作人為中央銀行者，在合理範圍內，得重製、公開播送或公開傳輸，利用時，並請註明出處。</li><li>本網站上之資訊，可為個人或家庭非營利之目的而重製。</li><li>為報導、評論、教學、研究或其他正當目的，在合理範圍內，得引用本網站上之資訊，引用時，並請註明出處。</li><li>其他合理使用情形，請參考著作權法第四十四條至第六十五條之規定。</li></ol></li><li>除了合於著作權法第八十條之一非移除或變更權利管理電子資訊，否則無法合法利用著作；或者因為錄製或傳輸系統轉換時，技術上必須要移除或變更的情況之外，本網站所標示之權利管理電子資訊，未經許可，不得移除或變更。</li><li>本網站內以超連結方式向外連結之網站著作權，屬原各該網站或合法權利人所有。</li></ol>"
+    },
+    "privacy": {
+        "title": "隱私權宣告",
+        "contentHtml": "<p>「中央銀行券幣數位博物館」尊重並保護您在使用網際網路時的安全及隱私保護，為幫助您瞭解本網站如何保護您在使用各項服務的安全，以及如何蒐集、應用及保護您所提供的個人資訊，請您仔細閱讀以下各項說明，您如有任何意見或疑問，請利用 <a href=\"/{{language}}/communicate/email\" title=\"意見信箱\">意見信箱</a> 告訴我們，謝謝您的關切！</p><ol><li>以下的宣告事項，適用於您在本站活動時，有關個人資料的蒐集、運用與保護，但不適用於本站所連結之其它網站。凡經由本站連結之其它網站，均有其專屬之隱私權保護與資訊安全政策，概與本站無關，本站亦不負任何連帶責任。</li><li>本站從何處蒐集那些個人資料？<br>由本站所提供的下列各項服務，向使用者蒐集個人資料：<ol class=\"inner-list\"><li><h6>意見交流</h6>如果您使用電子郵件或網站上的意見信箱與本站聯繫時，本站需要您提供正確的個人資料，作為回覆您的依據。</li><li><h6>其他</h6>本站會保存您在瀏覽或查詢時，伺服器自行產生的相關紀錄，包括您使用連線設備的網際網路位址（IP Address）、使用時間、使用之瀏覽器種類或版本、瀏覽及點選資料的紀錄等資料。</li></ol></li><li>本站如何運用上述所蒐集之資料？<ol class=\"inner-list\"><li><h6>個人資料</h6>本站所蒐集的個人資料中有關姓名、E-mail帳號及聯絡電話等資料，本站將僅使用該資訊來回覆您，和幫助本站提供您所需之資訊。本站並不會收集您的個人資料做為任何其他的用途使用，您所提供的資訊亦不會提供給任何私人機構或私人使用。</li><li><h6>其他</h6>伺服器自行產生的相關紀錄，係供本站管理單位內部作網站流量和網路行為調查的總量分析，以利於提昇本站的服務品質，且本站僅對全體使用者行為總和進行分析，並不會對個別使用者進行分析。</li></ol></li><li>依據個人資料保護法第8條規定，告知個人資料之蒐集、處理及利用等相關事項如下：<ol class=\"inner-list\"><li>公務機關名稱：中央銀行</li><li>蒐集之特定目的：136資（通）訊與資料庫管理</li><li>個人資料之類別：C001辨識個人者(姓名、E-mail帳號、聯絡電話)</li><li>個人資料利用之期間、地區、對象及方式：本站將僅使用該所蒐集之個人資料來回覆您的意見。</li><li>您得就個人資料得行使以下權利：<ol class=\"abc-list\"><li>請求查詢、閱覽或製給複製本，惟中央銀行依法得酌收必要成本費用；</li><li>請求補充或更正；</li><li>請求停止蒐集、處理或利用及請求刪除，惟依法中央銀行因執行職務或業務所必須者，不在此限。</li></ol></li><li>若您選擇不提供個人資料，本站則無法回覆您的意見和提供您所需之資訊。</li></ol></li><li>本站將盡力保護您所提供之個人資料，但請注意透過網路傳遞之資料有可能被第三人截取。</li><li>由於科技發展的迅速，相關法規訂定未臻完備前，以及未來可能難以預見的環境變遷等因素，本站將會視需要修改網站上所提供的隱私保護及安全政策的說明，以落實保障您隱私權及網路安全的立意。當本站完成隱私保護條款及安全政策的修改時，會立即將其刊登於本站之公告訊息中，並以醒目標示提醒您前往點選閱讀。</li><li>如果您對於以上有任何疑問或意見，歡迎來信至本站意見信箱。</li></ol>"
+    },
+    "security": {
+        "title": "資訊安全政策宣告",
+        "contentHtml": "<p>「中央銀行券幣數位博物館」尊重並保護您在使用網際網路時的安全及隱私保護，為幫助您瞭解本網站如何保護您在使用各項服務的安全，以及如何蒐集、應用及保護您所提供的個人資訊，請您仔細閱讀以下各項說明，您如有任何意見或疑問，請利用 <a href=\"/{{language}}/communicate/email\" title=\"意見信箱\">意見信箱</a> 告訴我們，謝謝您的關切！</p><ul><li><h6>個人資料之蒐集及運用</h6>當您參與本行網站各項線上登錄資料或其他相關服務時，可能會請您提供相關個人資料或其他資料。本網站所蒐集的所有個人資料或其他資料，將依個人資料保護法及相關法令之規定，只就其特定目的，做為承辦所提供服務之用，不會任意對其他第三者揭露。此外，當您使用本網站時，本網站將自動收集下列資訊：日期和時間、您所擷取之網頁、您所在之網址、您的瀏覽器種類、您對本網站網頁所做行動（如下載等）及成功與否。這些資訊可能被用來改善本網站之效能，我們也可能監測對本網站造成重大負荷的網址上的行為。</li><li><h6>資訊安全及保護</h6>本行裝設有防火牆、入侵偵測系統、防毒系統及其他相關資訊安全設備及必要的安全防護措施，以防止網路非法入侵、破壞或資料竊取，當您使用本行網站之各項服務功能時，部分系統將以SSL加密機制進行資料傳輸的加密及保護，而任何儲存於本行網站上之資料，亦會受到完善保護，保障您的個人資料安全。</li><li><h6>本網站傳送資訊或電子郵件之政策</h6>本網站透過您的訂閱，傳送有關網站內容變更等資料之電子郵件給您，本網站除了在電子郵件上註明是由本行發送，您也可以利用網站功能隨時取消訂閱。當您傳送電子郵件給本行時，請注意本網站並未對電子郵件加密，若您的郵件中包含敏感資訊（如您的銀行帳號、身分證字號等），您或應考量以掛號郵寄等，而不使用電子郵件。</li><li><h6>自我保護措施</h6>請妥善保管您的任何個人資料、密碼等資料，切勿將個人資料，尤其是密碼提供給任何第三人，以保障您的權益。</li><li><h6>Cookies的使用限制措施及宣告</h6>為提供更貼切的服務，本行在網路使用cookie。所謂cookie，是伺服端為了區別使用者的不同喜好，經由瀏覽器寫入使用者硬碟的一些簡短資訊，並只有原設置cookie的網站能讀取其內容。本行使用cookies主要基於輔助作用，儲存您偏好的特定種類資料。大部分cookies的有效性只持續一定期間或只限單次造訪不含任何能使他人與您聯絡之資料。您可以在Netscape的「功能設定」的「進階」或是IE的「Internet選項」的「安全性」中選擇修改您瀏覽器對cookies的接受程度，包括接受所有cookies、設定cookies時得到通知、拒絕所有cookies等三種。</li></ul>"
+    }
+}

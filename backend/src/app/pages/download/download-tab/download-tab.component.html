@@ -1,0 +1,40 @@
+<section class="content">
+  <div class="content-block">
+
+    <div class="block-header">
+      <!-- breadcrumb -->
+      <app-breadcrumb></app-breadcrumb>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+
+          <div class="body">
+            <mat-tab-group>
+              <mat-tab [label]="('1' | mediaType)">
+                <br>
+                <app-download-list [mediaType]="'1'"></app-download-list>
+              </mat-tab>
+              <mat-tab [label]="('5' | mediaType)">
+                <br>
+                <app-download-list [mediaType]="'5'"></app-download-list>
+              </mat-tab>
+              <mat-tab [label]="('6' | mediaType)">
+                <br>
+                <app-download-list [mediaType]="'6'"></app-download-list>
+              </mat-tab>
+              <mat-tab [label]="('3' | mediaType)">
+                <br>
+                <app-download-list [mediaType]="'3'"></app-download-list>
+              </mat-tab>
+            </mat-tab-group>
+          </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

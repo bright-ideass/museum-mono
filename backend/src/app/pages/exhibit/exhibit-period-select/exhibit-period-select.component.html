@@ -1,0 +1,19 @@
+@if(!isLoading()){
+<mat-form-field class="example-full-width " appearance="outline">
+  <mat-label>{{type | exhibitPeriodType}}</mat-label>
+
+  <mat-select [(ngModel)]="isSelect" (selectionChange)="someMethod($event)" required>
+    <!--<mat-option [value]="null">-- None --</mat-option>-->
+    @for(item of isSelectData; track $index){
+    <mat-option [value]="item.ID">
+      @if(this.typeCheck.includes(this.type || '')){
+      {{item.CodeName}}
+      }
+      @if(type === 'subCode'){
+      {{item.SubCodeName}}
+      }
+    </mat-option>
+    }
+  </mat-select>
+
+</mat-form-field> }

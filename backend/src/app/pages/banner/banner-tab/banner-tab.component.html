@@ -1,0 +1,32 @@
+<section class="content">
+  <div class="content-block">
+
+    <div class="block-header">
+      <!-- breadcrumb -->
+      <app-breadcrumb></app-breadcrumb>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+
+          <div class="body">
+            <mat-tab-group>
+              <mat-tab label="中文">
+                <br>
+                <app-banner [lang]="'zh-tw'"></app-banner>
+              </mat-tab>
+              <mat-tab label="英文">
+                <br>
+                <app-banner [lang]="'en-us'"></app-banner>
+              </mat-tab>
+            </mat-tab-group>
+          </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
